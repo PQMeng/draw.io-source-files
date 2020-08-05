@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2020-08-05T07:24:46.948Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="ILj2644cjED5qdsiP6XA" version="13.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-05T07:25:42.253Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="aCEbdP70nnqlbQoXgAGi" version="13.5.9" type="github">
   <diagram id="0yhvVHLxWOe6SF7zBo7S" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Da8N5ZN_fpihHpHbqdrw-1" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.postgre_sql_instance;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="110" y="220" width="60" height="63" as="geometry" />
-        </mxCell>
         <mxCell id="Da8N5ZN_fpihHpHbqdrw-2" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="520" as="sourcePoint" />
@@ -15,6 +12,9 @@
         </mxCell>
         <mxCell id="Da8N5ZN_fpihHpHbqdrw-4" value="proposals" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="105" y="290" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Da8N5ZN_fpihHpHbqdrw-5" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3334B9;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.rds_mysql_instance;" vertex="1" parent="1">
+          <mxGeometry x="101" y="200" width="78" height="78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
