@@ -1,1 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2020-08-26T18:55:19.035Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" version="13.6.0" etag="ZGOh6HDl8EJz2vrtAhZk" type="github"><diagram id="WWgOfXpyCfpg2m8sCT94">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-26T20:46:00.308Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="L_twz_Ujdy9Xm1F6G13p" version="13.6.0" type="github">
+  <diagram id="WWgOfXpyCfpg2m8sCT94" name="Page-1">
+    <mxGraphModel dx="2038" dy="662" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0JOTkuqiZX4zCiq_Y7CG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" edge="1" parent="1" source="Gp8zvR2G73D-EkeOvvsO-1" target="Gp8zvR2G73D-EkeOvvsO-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0JOTkuqiZX4zCiq_Y7CG-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="Gp8zvR2G73D-EkeOvvsO-1" target="0JOTkuqiZX4zCiq_Y7CG-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gp8zvR2G73D-EkeOvvsO-1" value="ATROPS&lt;br&gt;Adaptive Transport Optimization System (TIER-1)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="360" width="245" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0JOTkuqiZX4zCiq_Y7CG-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" edge="1" parent="1" source="Gp8zvR2G73D-EkeOvvsO-2" target="Gp8zvR2G73D-EkeOvvsO-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gp8zvR2G73D-EkeOvvsO-2" value="INPUTS&lt;br&gt;Ship_options, Dimensions, Weight, Receiver&#39;s Address" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="360" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gp8zvR2G73D-EkeOvvsO-3" value="OUTPUTS&lt;br&gt;Ship_method, Shipping_cost, Estimated arrival date" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="360" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0JOTkuqiZX4zCiq_Y7CG-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="0JOTkuqiZX4zCiq_Y7CG-4" target="0JOTkuqiZX4zCiq_Y7CG-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0JOTkuqiZX4zCiq_Y7CG-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=1;" edge="1" parent="1" source="0JOTkuqiZX4zCiq_Y7CG-4" target="0JOTkuqiZX4zCiq_Y7CG-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0JOTkuqiZX4zCiq_Y7CG-4" value="Promise (Promise service)&lt;br&gt;(how should we set the customer expectation?)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="864" y="715" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0JOTkuqiZX4zCiq_Y7CG-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;strokeWidth=1;" edge="1" parent="1" source="0JOTkuqiZX4zCiq_Y7CG-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="416" y="417" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JOTkuqiZX4zCiq_Y7CG-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=1;" edge="1" parent="1" source="0JOTkuqiZX4zCiq_Y7CG-5" target="0JOTkuqiZX4zCiq_Y7CG-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0JOTkuqiZX4zCiq_Y7CG-5" value="Plan (F2P service)&lt;br&gt;(from where should we fulfill this order?)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="864" y="855" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0JOTkuqiZX4zCiq_Y7CG-6" value="Schedule&lt;br&gt;(when do we need to ship this order?)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="864" y="1033" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0JOTkuqiZX4zCiq_Y7CG-7" value="Execute&lt;br&gt;(what is the &lt;b&gt;single&lt;/b&gt; best way to ship the pkg?)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="864" y="1123" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0JOTkuqiZX4zCiq_Y7CG-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="0JOTkuqiZX4zCiq_Y7CG-10" target="0JOTkuqiZX4zCiq_Y7CG-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0JOTkuqiZX4zCiq_Y7CG-10" value="Ship_options:&lt;br&gt;Next&lt;br&gt;Second&lt;br&gt;Standard&lt;br&gt;Economic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="651" y="703" width="117" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="0JOTkuqiZX4zCiq_Y7CG-12" value="4 types of promises:&lt;br&gt;Fast-track Promise&lt;br&gt;Deep Standard&lt;br&gt;Non-Simplified&lt;br&gt;Simplified" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1189" y="704" width="147" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="0JOTkuqiZX4zCiq_Y7CG-16" value="PSD (promise shipping date)&lt;br&gt;PDD (promise delivery date)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="978" y="796" width="164" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="0JOTkuqiZX4zCiq_Y7CG-21" value="FCs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="694" y="908" width="33" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="0JOTkuqiZX4zCiq_Y7CG-22" value="FC: Ship_methods + Ship cost" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="624" y="856" width="173" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="0JOTkuqiZX4zCiq_Y7CG-24" value="Place the order to a FC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="978" y="965" width="135" height="19" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
