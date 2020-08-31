@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-31T20:27:05.493Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="cO1fhUMIFLFX373bbzR5" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-31T21:28:08.332Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="HojNsERcPcV6uZVmn80y" version="13.6.5" type="github">
   <diagram id="WWgOfXpyCfpg2m8sCT94" name="Page-1">
-    <mxGraphModel dx="1502" dy="1523" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1941" dy="1822" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,47 +10,29 @@
         <mxCell id="G6szYpNnXh0k2xCi9S7j-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="Gp8zvR2G73D-EkeOvvsO-1" target="G6szYpNnXh0k2xCi9S7j-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Gp8zvR2G73D-EkeOvvsO-1" value="ATROPS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="432" y="362" width="148" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="Gp8zvR2G73D-EkeOvvsO-2" value="INPUTS&lt;br&gt;Ship_options, Dimensions, Weight, Receiver&#39;s Address" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-180" y="360" width="310" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Gp8zvR2G73D-EkeOvvsO-3" value="OUTPUTS&lt;br&gt;Ship_method, Shipping_cost, Estimated arrival date" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-180" y="478" width="310" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="0JOTkuqiZX4zCiq_Y7CG-4" value="Promise (Promise service)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="835" y="231" width="176" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="0JOTkuqiZX4zCiq_Y7CG-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=1;" parent="1" source="0JOTkuqiZX4zCiq_Y7CG-5" target="0JOTkuqiZX4zCiq_Y7CG-6" edge="1">
+        <mxCell id="G6szYpNnXh0k2xCi9S7j-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;curved=1;" edge="1" parent="1" source="Gp8zvR2G73D-EkeOvvsO-1" target="0JOTkuqiZX4zCiq_Y7CG-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0JOTkuqiZX4zCiq_Y7CG-5" value="Plan (F2P service)&lt;br&gt;(from where should we fulfill this order?)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="864" y="855" width="210" height="60" as="geometry" />
+        <mxCell id="Gp8zvR2G73D-EkeOvvsO-1" value="ATROPS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="-26" y="394" width="148" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="0JOTkuqiZX4zCiq_Y7CG-6" value="Schedule&lt;br&gt;(when do we need to ship this order?)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="864" y="1033" width="210" height="60" as="geometry" />
+        <mxCell id="Gp8zvR2G73D-EkeOvvsO-2" value="INPUTS&lt;br&gt;Ship_options, Dimensions, Weight, Receiver&#39;s Address" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-545" y="301" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gp8zvR2G73D-EkeOvvsO-3" value="OUTPUTS&lt;br&gt;Ship_method, Shipping_cost, Estimated arrival date" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-545" y="424" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0JOTkuqiZX4zCiq_Y7CG-4" value="Promise (Promise service)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="377" y="263" width="176" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0JOTkuqiZX4zCiq_Y7CG-7" value="Execute&lt;br&gt;(what is the &lt;b&gt;single&lt;/b&gt; best way to ship the pkg?)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="864" y="1123" width="210" height="60" as="geometry" />
+          <mxGeometry x="378" y="531" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0JOTkuqiZX4zCiq_Y7CG-10" value="Ship_options:&lt;br&gt;Next&lt;br&gt;Second&lt;br&gt;Standard&lt;br&gt;Economic" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="651" y="703" width="117" height="85" as="geometry" />
+          <mxGeometry x="620" y="248" width="117" height="85" as="geometry" />
         </mxCell>
         <mxCell id="0JOTkuqiZX4zCiq_Y7CG-12" value="4 types of promises:&lt;br&gt;Fast-track Promise&lt;br&gt;Deep Standard&lt;br&gt;Non-Simplified&lt;br&gt;Simplified" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1189" y="704" width="147" height="82" as="geometry" />
-        </mxCell>
-        <mxCell id="0JOTkuqiZX4zCiq_Y7CG-16" value="PSD (promise shipping date)&lt;br&gt;PDD (promise delivery date)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="978" y="796" width="164" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="0JOTkuqiZX4zCiq_Y7CG-21" value="FCs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="694" y="908" width="33" height="19" as="geometry" />
-        </mxCell>
-        <mxCell id="0JOTkuqiZX4zCiq_Y7CG-22" value="FC: Ship_methods + Ship cost" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="624" y="856" width="173" height="19" as="geometry" />
-        </mxCell>
-        <mxCell id="0JOTkuqiZX4zCiq_Y7CG-24" value="Place the order to a FC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="978" y="965" width="135" height="19" as="geometry" />
+          <mxGeometry x="776" y="249.5" width="147" height="82" as="geometry" />
         </mxCell>
         <mxCell id="G6szYpNnXh0k2xCi9S7j-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="G6szYpNnXh0k2xCi9S7j-3" target="G6szYpNnXh0k2xCi9S7j-5">
           <mxGeometry relative="1" as="geometry" />
@@ -79,21 +61,24 @@
           <mxGeometry x="451" y="-242" width="59" height="19" as="geometry" />
         </mxCell>
         <mxCell id="G6szYpNnXh0k2xCi9S7j-13" value="PDD, PSD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="567" y="230" width="68" height="19" as="geometry" />
+          <mxGeometry x="255" y="254" width="68" height="19" as="geometry" />
         </mxCell>
         <mxCell id="G6szYpNnXh0k2xCi9S7j-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;startArrow=none;startFill=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="G6szYpNnXh0k2xCi9S7j-14" target="Gp8zvR2G73D-EkeOvvsO-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="681" y="374.9310344827586" as="targetPoint" />
+            <mxPoint x="223" y="406.9310344827586" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G6szYpNnXh0k2xCi9S7j-14" value="Plan (F2P service)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="836" y="364" width="181" height="49" as="geometry" />
+          <mxGeometry x="378" y="396" width="181" height="49" as="geometry" />
         </mxCell>
         <mxCell id="G6szYpNnXh0k2xCi9S7j-18" value="FCs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="737" y="349" width="33" height="19" as="geometry" />
+          <mxGeometry x="279" y="381" width="33" height="19" as="geometry" />
         </mxCell>
         <mxCell id="G6szYpNnXh0k2xCi9S7j-21" value="FC + ship_methods" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="681" y="388" width="115" height="19" as="geometry" />
+          <mxGeometry x="223" y="420" width="115" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="G6szYpNnXh0k2xCi9S7j-24" value="ExSD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="278" y="530.5" width="42" height="19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
