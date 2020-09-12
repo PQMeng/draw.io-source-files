@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-12T19:14:43.697Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="RAmVaP4h4ao5ccPyJnY0" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-12T19:15:59.772Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="vsKtYHcsS0aktnjzDEcI" version="13.6.9" type="github">
   <diagram id="b8Q_YSk0ntW3U9HdfRIm" name="Page-1">
     <mxGraphModel dx="1426" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,8 +16,8 @@
         <mxCell id="L47Wyfhj-6JrXuTvN14e-1" value="Binary Tree" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="-180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="L47Wyfhj-6JrXuTvN14e-2" value="Implementation:&amp;nbsp;&lt;br&gt;1. Dynamically created node&lt;br&gt;2. Array (Complete BT)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="-250" width="183" height="60" as="geometry" />
+        <mxCell id="L47Wyfhj-6JrXuTvN14e-2" value="Implementation:&amp;nbsp;&lt;br&gt;1. Dynamically created node&lt;br&gt;2. Array (Complete BT): left (2i+1), right (2i+2)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="-250" width="270" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
