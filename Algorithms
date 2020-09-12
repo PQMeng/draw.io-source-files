@@ -1,14 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2020-09-09T08:26:03.537Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="FCei3w_0wGhwOCeSuwE_" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-12T19:14:43.697Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="RAmVaP4h4ao5ccPyJnY0" version="13.6.9" type="github">
   <diagram id="b8Q_YSk0ntW3U9HdfRIm" name="Page-1">
-    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6hAha_LzCEwhKHF717yA-1" value="Leetcode" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6hAha_LzCEwhKHF717yA-1" value="Leetcode" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="310" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6hAha_LzCEwhKHF717yA-2" value="Array: Loop n, BS log(n)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6hAha_LzCEwhKHF717yA-2" value="Array: Loop n, BS log(n)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="140" width="410" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="L47Wyfhj-6JrXuTvN14e-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L47Wyfhj-6JrXuTvN14e-1" target="L47Wyfhj-6JrXuTvN14e-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L47Wyfhj-6JrXuTvN14e-1" value="Binary Tree" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L47Wyfhj-6JrXuTvN14e-2" value="Implementation:&amp;nbsp;&lt;br&gt;1. Dynamically created node&lt;br&gt;2. Array (Complete BT)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="-250" width="183" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
