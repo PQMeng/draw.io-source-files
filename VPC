@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2020-09-24T22:54:02.929Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" version="13.7.3" etag="nEjiMoY5HZcoswHsprLL" type="github"><diagram id="tea-MSBG6AIn3obNIqmX">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-24T22:58:03.577Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="HEpxkFjk7qMp2W-m7oHM" version="13.7.3" type="github">
+  <diagram id="tea-MSBG6AIn3obNIqmX" name="Page-1">
+    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EFO-U-Z58qmm8DuEe04j-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="320" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="EFO-U-Z58qmm8DuEe04j-3" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="210" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="EFO-U-Z58qmm8DuEe04j-4" value="VPC 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="163.25" y="120" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EFO-U-Z58qmm8DuEe04j-5" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="210" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="EFO-U-Z58qmm8DuEe04j-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="160" width="320" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="EFO-U-Z58qmm8DuEe04j-8" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="810" y="210" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="EFO-U-Z58qmm8DuEe04j-9" value="VPC 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="893.25" y="120" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EFO-U-Z58qmm8DuEe04j-10" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="970" y="210" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="EFO-U-Z58qmm8DuEe04j-14" value="都是AWS的EC2，但是在不同的VPC中，默认不可直接通讯" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="220" width="330" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EFO-U-Z58qmm8DuEe04j-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=block;startFill=1;" edge="1" parent="1" source="EFO-U-Z58qmm8DuEe04j-5" target="EFO-U-Z58qmm8DuEe04j-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
