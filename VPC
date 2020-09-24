@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-24T23:04:47.690Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="apJlcbciE2KrkT_Sy_Nu" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-24T23:05:50.586Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="hXsUdX-qFmcAHNOd3aBh" version="13.7.3" type="github">
   <diagram id="tea-MSBG6AIn3obNIqmX" name="Page-1">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="EFO-U-Z58qmm8DuEe04j-14" value="都是AWS的EC2，但是在不同的VPC中，默认不可直接通讯" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="220" width="330" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EFO-U-Z58qmm8DuEe04j-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=block;startFill=1;" edge="1" parent="1" source="EFO-U-Z58qmm8DuEe04j-5" target="EFO-U-Z58qmm8DuEe04j-8">
+        <mxCell id="EFO-U-Z58qmm8DuEe04j-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=block;startFill=1;" edge="1" parent="1" source="EFO-U-Z58qmm8DuEe04j-35" target="EFO-U-Z58qmm8DuEe04j-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EFO-U-Z58qmm8DuEe04j-19" value="public subnet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -66,6 +66,18 @@
         </mxCell>
         <mxCell id="EFO-U-Z58qmm8DuEe04j-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="80" y="196.5" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EFO-U-Z58qmm8DuEe04j-33" value="IGW" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="335.5" y="106" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EFO-U-Z58qmm8DuEe04j-35" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/iconic-1/32/x_alt-128.png;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="241.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EFO-U-Z58qmm8DuEe04j-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=block;startFill=1;" edge="1" parent="1" source="EFO-U-Z58qmm8DuEe04j-5" target="EFO-U-Z58qmm8DuEe04j-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="316.5" y="256.5" as="sourcePoint" />
+            <mxPoint x="810" y="256.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
