@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-24T22:58:03.577Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="HEpxkFjk7qMp2W-m7oHM" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-24T23:03:04.394Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="e9oB2qp6MIriF4Ela8Uq" version="13.7.3" type="github">
   <diagram id="tea-MSBG6AIn3obNIqmX" name="Page-1">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -6,9 +6,6 @@
         <mxCell id="1" parent="0" />
         <mxCell id="EFO-U-Z58qmm8DuEe04j-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="160" width="320" height="310" as="geometry" />
-        </mxCell>
-        <mxCell id="EFO-U-Z58qmm8DuEe04j-3" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="80" y="210" width="76.5" height="93" as="geometry" />
         </mxCell>
         <mxCell id="EFO-U-Z58qmm8DuEe04j-4" value="VPC 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="163.25" y="120" width="50" height="20" as="geometry" />
@@ -33,6 +30,30 @@
         </mxCell>
         <mxCell id="EFO-U-Z58qmm8DuEe04j-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=block;startFill=1;" edge="1" parent="1" source="EFO-U-Z58qmm8DuEe04j-5" target="EFO-U-Z58qmm8DuEe04j-8">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EFO-U-Z58qmm8DuEe04j-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EFO-U-Z58qmm8DuEe04j-19" value="public subnet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="283" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EFO-U-Z58qmm8DuEe04j-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="340" width="260" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EFO-U-Z58qmm8DuEe04j-21" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.postgre_sql_instance;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="248" y="364" width="60" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="EFO-U-Z58qmm8DuEe04j-22" value="private subnet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="420" width="87" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EFO-U-Z58qmm8DuEe04j-23" value="region: NA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="170" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EFO-U-Z58qmm8DuEe04j-24" value="AZ: us-east-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="113.5" y="210" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EFO-U-Z58qmm8DuEe04j-27" value="AZ: us-west-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="113.5" y="350" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
