@@ -1,1 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2020-10-27T23:28:46.953Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" version="13.7.9" etag="KBY6iDxxxcjx9roq7eel" type="github"><diagram id="rxwLx6LmYUS6O2_0GqGU">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-28T00:44:45.124Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="1XDbkqeMpLTH93S2R9FC" version="13.7.9" type="github">
+  <diagram id="rxwLx6LmYUS6O2_0GqGU" name="Page-1">
+    <mxGraphModel dx="1666" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="enkiMDQ514lKn2gVy49S-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="100" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="enkiMDQ514lKn2gVy49S-6" value="ComplianceShipmentDefinitions.yaml" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry y="285" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="enkiMDQ514lKn2gVy49S-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="enkiMDQ514lKn2gVy49S-7" target="enkiMDQ514lKn2gVy49S-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="enkiMDQ514lKn2gVy49S-7" value="ATROPSCore" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="440" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="enkiMDQ514lKn2gVy49S-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="enkiMDQ514lKn2gVy49S-10" target="enkiMDQ514lKn2gVy49S-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="ATROPSService" id="enkiMDQ514lKn2gVy49S-10">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF99;" vertex="1" parent="1">
+            <mxGeometry x="980" y="280" width="140" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="enkiMDQ514lKn2gVy49S-13" value="&lt;a href=&quot;https://code.amazon.com/packages/ATROPSService/blobs/11156c71f8279d60eb04a4d5609dc37314eae590/--/src/com/amazon/ATROPS/activities/GetTransportationClassesForPackageActivity.java#L92&quot;&gt;@Operation(&quot;getTransportationClassesForPackage&quot;)&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://code.amazon.com/search?term=gtcfdPromiseAssigner&quot;&gt;@Operation(&quot;getTransportationClassesForDestination&quot;)&lt;br&gt;@Operation(&quot;getTransportationClassesForDestinationWithCriteria&quot;)&lt;/a&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="305" width="370" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="enkiMDQ514lKn2gVy49S-14" value="&lt;a href=&quot;https://code.amazon.com/packages/ATROPSCore/blobs/d4cdda2aba637596b3d104be7e7b09cee2eabd71/--/spring-configuration/application/atrops-core-dataaccess.xml#L360,L382&quot;&gt;shipmentRuleParser&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://code.amazon.com/packages/ATROPSCore/blobs/d4cdda2aba637596b3d104be7e7b09cee2eabd71/--/spring-configuration/application/atrops-core-dataaccess.xml#L360,L382&quot;&gt;gtcfcShipmentRuleParser&lt;/a&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="315" width="150" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
