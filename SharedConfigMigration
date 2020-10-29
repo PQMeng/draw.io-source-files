@@ -1,1 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2020-10-29T20:44:01.415Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" version="13.7.9" etag="1mtRooZ9g8JIXxGuHecV" type="github"><diagram id="7Kxwxt0lGHGRZ_YHiypp">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-29T21:07:45.015Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="vkYVVcCitSklvk8sixfE" version="13.7.9" type="github">
+  <diagram id="7Kxwxt0lGHGRZ_YHiypp" name="Page-1">
+    <mxGraphModel dx="2516" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="r6L2mSHDwCM8YS8DQYng-1" value="ATROPSService" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="730" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r6L2mSHDwCM8YS8DQYng-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r6L2mSHDwCM8YS8DQYng-2" target="r6L2mSHDwCM8YS8DQYng-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r6L2mSHDwCM8YS8DQYng-2" value="ATROPSSharedConfig" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="30" y="180" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r6L2mSHDwCM8YS8DQYng-4" value="compliance rules" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="150" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r6L2mSHDwCM8YS8DQYng-5" value="proposal" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="45" y="350" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="r6L2mSHDwCM8YS8DQYng-9" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.postgre_sql_instance;fillColor=#2E73B8;gradientColor=none;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="760" y="500" width="60" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="r6L2mSHDwCM8YS8DQYng-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="r6L2mSHDwCM8YS8DQYng-11" target="r6L2mSHDwCM8YS8DQYng-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r6L2mSHDwCM8YS8DQYng-11" value="RC workflow" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="730" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r6L2mSHDwCM8YS8DQYng-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="r6L2mSHDwCM8YS8DQYng-19" target="r6L2mSHDwCM8YS8DQYng-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r6L2mSHDwCM8YS8DQYng-19" value="ATROPS UI" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r6L2mSHDwCM8YS8DQYng-21" value="download EXCEL template" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="370" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r6L2mSHDwCM8YS8DQYng-22" value="Validate new Configs" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="230" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r6L2mSHDwCM8YS8DQYng-23" value="Peer review (DG team)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="470" y="370" width="140" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
