@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-03T18:55:53.867Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="_tZFcgI_w4WGre4zD9N_" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-03T18:56:04.098Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="D8WDRn00o1Z1TB9dKTv6" version="13.8.8" type="github">
   <diagram id="usRGsY3YF9Ixt6Izj8P9" name="Page-1">
     <mxGraphModel dx="1666" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
           <mxGeometry x="660" y="220" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3hB7dVzY_YKhDSn-haE1-25" value="&lt;h1&gt;Q:&lt;/h1&gt;&lt;p&gt;&lt;b&gt;1. How changes in Berkeley DB propagates to PostgreSQL?&lt;/b&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; For example, one customers placed an order successfully. Then, ATROPSService assigns this order to a ShipMethod, making the Capacity of that ShipMethod -1. Since these change happens in the Berkeley DB, how to propagate them to PostgreSQL?&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="700" y="-10" width="470" height="120" as="geometry" />
+          <mxGeometry x="90" y="390" width="470" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
