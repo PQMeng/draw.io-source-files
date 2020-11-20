@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-14T20:51:16.791Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="7iEUu5-Wq_NmTUkZRNGw" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-20T21:30:45.805Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="a7HNFqCzAFhQdCYZe1n1" version="13.9.2" type="github">
   <diagram id="WWgOfXpyCfpg2m8sCT94" name="Page-1">
-    <mxGraphModel dx="2516" dy="1894" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1796" dy="1714" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -79,6 +79,42 @@
         </mxCell>
         <mxCell id="G6szYpNnXh0k2xCi9S7j-24" value="ExSD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="278" y="530.5" width="42" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="uvSpL7_Y50lF6JmwtXy5-3" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-490" y="739" width="128" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="uvSpL7_Y50lF6JmwtXy5-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/whisky-break/90/warehouse-128.png" vertex="1" parent="uvSpL7_Y50lF6JmwtXy5-3">
+          <mxGeometry width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="uvSpL7_Y50lF6JmwtXy5-2" value="FC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="uvSpL7_Y50lF6JmwtXy5-3">
+          <mxGeometry x="49" y="129" width="27" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="uvSpL7_Y50lF6JmwtXy5-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uvSpL7_Y50lF6JmwtXy5-1" target="uvSpL7_Y50lF6JmwtXy5-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uvSpL7_Y50lF6JmwtXy5-10" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-247" y="708" width="62" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="uvSpL7_Y50lF6JmwtXy5-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/dolly-128.png" vertex="1" parent="uvSpL7_Y50lF6JmwtXy5-10">
+          <mxGeometry x="1" y="30" width="57" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="uvSpL7_Y50lF6JmwtXy5-9" value="packages" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="uvSpL7_Y50lF6JmwtXy5-10">
+          <mxGeometry width="62" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="uvSpL7_Y50lF6JmwtXy5-12" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-103" y="739" width="214" height="161" as="geometry" />
+        </mxCell>
+        <mxCell id="uvSpL7_Y50lF6JmwtXy5-6" value="" style="group" vertex="1" connectable="0" parent="uvSpL7_Y50lF6JmwtXy5-12">
+          <mxGeometry x="43" width="128" height="138" as="geometry" />
+        </mxCell>
+        <mxCell id="uvSpL7_Y50lF6JmwtXy5-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/2-building-line-filled/614/Warehouse-128.png" vertex="1" parent="uvSpL7_Y50lF6JmwtXy5-6">
+          <mxGeometry width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="uvSpL7_Y50lF6JmwtXy5-5" value="SC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="uvSpL7_Y50lF6JmwtXy5-6">
+          <mxGeometry x="50" y="119" width="28" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="uvSpL7_Y50lF6JmwtXy5-11" value="To be sorted by Zip code / postal code" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="uvSpL7_Y50lF6JmwtXy5-12">
+          <mxGeometry y="142" width="214" height="19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
