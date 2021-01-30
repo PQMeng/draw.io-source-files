@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-30T00:57:56.462Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="PpMwaBpTbQbpGX2mic1I" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-30T00:59:26.224Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="Lk9p3pwG8hOq1gPZ76xg" version="14.2.7" type="github">
   <diagram id="SPRzwFarhPqw8FnmNusv" name="Page-1">
     <mxGraphModel dx="4130" dy="2103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -209,6 +209,12 @@
             <mxPoint x="-1160" y="-340" as="sourcePoint" />
             <mxPoint x="-1320" y="-520" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RAT2LrbUhCPkeCZEGzcW-125" value="&lt;b&gt;ShipMethodGroups existing table&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-2000" y="-960" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RAT2LrbUhCPkeCZEGzcW-126" value="&lt;b&gt;Compliance Rule ShipMethodGroups table&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-2010" y="-640" width="260" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
