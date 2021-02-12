@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-12T18:04:28.276Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="j-bIt6Sma3X6IZNmsgtl" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-12T18:34:45.383Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="HVfihveilG3O2hwPeW_y" version="14.2.9" type="github">
   <diagram id="tKiop8wr1swwA5wNUqkU" name="Page-1">
     <mxGraphModel dx="2196" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -30,6 +30,21 @@
         </mxCell>
         <mxCell id="4RULGiw5EcbIPPFbEVlK-6" value="A delivery to the customer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="100" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4RULGiw5EcbIPPFbEVlK-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/building-89/64/Warehouse_1-128.png" vertex="1" parent="1">
+          <mxGeometry x="120" y="172" width="118" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="4RULGiw5EcbIPPFbEVlK-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/2-building-line-filled/614/Warehouse-128.png" vertex="1" parent="1">
+          <mxGeometry x="900" y="180" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="4RULGiw5EcbIPPFbEVlK-11" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=2;shape=mxgraph.lean_mapping.warehouse;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="214" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4RULGiw5EcbIPPFbEVlK-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/building-89/64/Warehouse_1-128.png" vertex="1" parent="1">
+          <mxGeometry x="340" y="440" width="118" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="4RULGiw5EcbIPPFbEVlK-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/building-89/64/Warehouse_1-128.png" vertex="1" parent="1">
+          <mxGeometry x="540" y="172" width="118" height="118" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
