@@ -1,35 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2021-02-11T22:20:55.533Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="T3vHsPyXjEC32Zz3WSyq" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-12T18:04:28.276Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="j-bIt6Sma3X6IZNmsgtl" version="14.2.9" type="github">
   <diagram id="tKiop8wr1swwA5wNUqkU" name="Page-1">
-    <mxGraphModel dx="1346" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2196" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4RULGiw5EcbIPPFbEVlK-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="370" as="sourcePoint" />
-            <mxPoint x="200" y="40" as="targetPoint" />
+            <mxPoint x="20" y="630" as="sourcePoint" />
+            <mxPoint x="20" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4RULGiw5EcbIPPFbEVlK-2" value="" style="endArrow=none;html=1;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="20" y="150" as="sourcePoint" />
-            <mxPoint x="800" y="150" as="targetPoint" />
+            <mxPoint x="-220" y="150" as="sourcePoint" />
+            <mxPoint x="1070" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4RULGiw5EcbIPPFbEVlK-3" value="A pickup in FC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="45" y="80" width="90" height="20" as="geometry" />
+          <mxGeometry x="-160" y="100" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4RULGiw5EcbIPPFbEVlK-4" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="370" as="sourcePoint" />
-            <mxPoint x="600" y="40" as="targetPoint" />
+            <mxPoint x="800" y="630" as="sourcePoint" />
+            <mxPoint x="800" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4RULGiw5EcbIPPFbEVlK-5" value="A processing in the carrier&#39;s network" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="285" y="80" width="210" height="20" as="geometry" />
+          <mxGeometry x="320" y="100" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4RULGiw5EcbIPPFbEVlK-6" value="A delivery to the customer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="80" width="150" height="20" as="geometry" />
+          <mxGeometry x="920" y="100" width="150" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
