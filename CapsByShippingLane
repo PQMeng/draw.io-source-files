@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-12T19:09:11.568Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="ig_amLeZOsVRg6UhWdrU" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-13T08:00:59.395Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="GMjk57dGvBEC4Zt2eYrP" version="14.2.9" type="github">
   <diagram id="tKiop8wr1swwA5wNUqkU" name="Page-1">
     <mxGraphModel dx="2196" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -46,7 +46,12 @@
         <mxCell id="4RULGiw5EcbIPPFbEVlK-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="4RULGiw5EcbIPPFbEVlK-11" target="4RULGiw5EcbIPPFbEVlK-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4RULGiw5EcbIPPFbEVlK-11" value="FC" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=2;shape=mxgraph.lean_mapping.warehouse;" vertex="1" parent="1">
+        <mxCell id="4RULGiw5EcbIPPFbEVlK-28" value="USPS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4RULGiw5EcbIPPFbEVlK-18">
+          <mxGeometry x="0.0071" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4RULGiw5EcbIPPFbEVlK-11" value="FC (BFI4)&lt;br&gt;CPT: 2020-04-11 19:00&lt;br&gt;Caps: BFI4, USPS, SC1 -&amp;gt; 100 pkgs" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=2;shape=mxgraph.lean_mapping.warehouse;" vertex="1" parent="1">
           <mxGeometry x="-230" y="214" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4RULGiw5EcbIPPFbEVlK-14" value="SC2" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/building-89/64/Warehouse_1-128.png" vertex="1" parent="1">
