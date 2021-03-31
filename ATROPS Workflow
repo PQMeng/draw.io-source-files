@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-30T23:50:44.171Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="D-EaGG0q6Agmu-XMF03t" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-31T00:01:35.577Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="bxC14cMQ-vFd5AveCu02" version="14.5.3" type="github">
   <diagram id="bXForsEtcdqGUcm-SI0g" name="Page-1">
     <mxGraphModel dx="2196" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,9 +10,6 @@
         <mxCell id="I90fuoskbk9LYZq9snm5-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=210;exitDy=47;exitPerimeter=0;" edge="1" parent="1" source="I90fuoskbk9LYZq9snm5-20" target="I90fuoskbk9LYZq9snm5-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="I90fuoskbk9LYZq9snm5-20" value="ATROPSDBJavaClient&lt;br&gt;&lt;br&gt;build config element from DB" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="180" width="210" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="I90fuoskbk9LYZq9snm5-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=210;exitDy=47;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=47;entryPerimeter=0;" edge="1" parent="1" source="I90fuoskbk9LYZq9snm5-27" target="I90fuoskbk9LYZq9snm5-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -22,14 +19,26 @@
         <mxCell id="I90fuoskbk9LYZq9snm5-27" value="ATROPSCacheBuilder&lt;br&gt;&lt;br&gt;build cache" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
           <mxGeometry x="-350" y="180" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="I90fuoskbk9LYZq9snm5-29" value="ATROPSCacheBuildScripts" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="390" width="190" height="70" as="geometry" />
+        <mxCell id="I90fuoskbk9LYZq9snm5-29" value="ATROPSCacheBuilderScripts" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="500" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="I90fuoskbk9LYZq9snm5-30" value="ATROPSCacheBuilder/Gamma" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="-283.25" y="390" width="76.5" height="93" as="geometry" />
         </mxCell>
         <mxCell id="I90fuoskbk9LYZq9snm5-32" value="build ATROPS data caches" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="-230" y="310" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I90fuoskbk9LYZq9snm5-33" value="run&amp;nbsp;&amp;nbsp;query" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-85" y="190" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I90fuoskbk9LYZq9snm5-35" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="30" y="180" width="210" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="I90fuoskbk9LYZq9snm5-20" value="ATROPSDBJavaClient&lt;br&gt;&lt;br&gt;build config element from DB" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="I90fuoskbk9LYZq9snm5-35">
+          <mxGeometry width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I90fuoskbk9LYZq9snm5-34" value="&lt;a target=&quot;_blank&quot; href=&quot;https://code.amazon.com/packages/ATROPSDBJavaClient/blobs/mainline/--/src/resources/postgre_sql_map.yaml&quot; style=&quot;box-sizing: border-box ; background: rgb(255 , 255 , 255) ; color: rgb(0 , 43 , 184) ; font-family: &amp;#34;open sans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; text-align: left&quot;&gt;postgre_sql_map.yaml&lt;/a&gt;&lt;br&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://code.amazon.com/packages/ATROPSDBJavaClient/blobs/mainline/--/src/resources/sqlite_sql_map.yaml&quot; style=&quot;box-sizing: border-box ; background: rgb(255 , 255 , 255) ; color: rgb(0 , 43 , 184) ; font-family: &amp;#34;open sans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; text-align: left&quot;&gt;sqlite_sql_map.yam&lt;/a&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="I90fuoskbk9LYZq9snm5-35">
+          <mxGeometry x="25" y="95" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
