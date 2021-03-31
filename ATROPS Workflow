@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-31T00:05:03.071Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="ufbnxQb7CjDYsh8OD6q-" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-31T00:09:42.631Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="mDerxCOf649UJlowsxVV" version="14.5.3" type="github">
   <diagram id="bXForsEtcdqGUcm-SI0g" name="Page-1">
     <mxGraphModel dx="2196" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,12 +22,14 @@
         <mxCell id="I90fuoskbk9LYZq9snm5-29" value="ATROPSCacheBuilderScripts&lt;br&gt;&lt;br&gt;perl scripts" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="500" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="I90fuoskbk9LYZq9snm5-30" value="ATROPSCacheBuilder/Gamma" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="I90fuoskbk9LYZq9snm5-30" value="ATROPSCacheBuilder/Gamma&lt;br&gt;&lt;br&gt;Notes: check the host log to know build process" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="-283.25" y="390" width="76.5" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="I90fuoskbk9LYZq9snm5-32" value="build ATROPS data caches" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="270" width="160" height="20" as="geometry" />
-        </mxCell>
+        <UserObject label="build ATROPS data caches (link)" link="https://code.amazon.com/packages/ATROPSCacheBuilder/blobs/e7a747d04a6a144790dce09c9beaecfb24b71f3b/--/src/com/amazon/atrops/cachebuilder/CacheBuilder.java#L102" id="I90fuoskbk9LYZq9snm5-32">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+            <mxGeometry x="-255" y="270" width="190" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="I90fuoskbk9LYZq9snm5-33" value="run&amp;nbsp;&amp;nbsp;query" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="-140" y="200" width="70" height="20" as="geometry" />
         </mxCell>
