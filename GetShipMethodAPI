@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2021-04-06T21:03:46.010Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" version="14.5.5" etag="SnE1eKfbyS4gqQi-0rf7" type="github"><diagram id="d-EtC8TaVpGIUfbBlgM5">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-06T21:20:45.442Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="w0OK9_fex9steGoaHCBw" version="14.5.5" type="github">
+  <diagram id="d-EtC8TaVpGIUfbBlgM5" name="Page-1">
+    <mxGraphModel dx="2729" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TgSyvzFLHtc9FCWlOelg-2" value=":getShipMethod" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="30" width="100" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="TgSyvzFLHtc9FCWlOelg-3" value=":GSMAdapter" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="30" width="100" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="TgSyvzFLHtc9FCWlOelg-25" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeColor=#FF6666;fillColor=#FF9933;" vertex="1" parent="TgSyvzFLHtc9FCWlOelg-3">
+          <mxGeometry x="45" y="300" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TgSyvzFLHtc9FCWlOelg-28" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeColor=#FF6666;fillColor=#FF9933;" vertex="1" parent="TgSyvzFLHtc9FCWlOelg-3">
+          <mxGeometry x="45" y="440" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TgSyvzFLHtc9FCWlOelg-4" value="enact(input)" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-20" y="120" as="sourcePoint" />
+            <mxPoint x="60" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgSyvzFLHtc9FCWlOelg-22" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeColor=#FF6666;fillColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="305" y="180" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TgSyvzFLHtc9FCWlOelg-23" value="getDeliveryDateConstraint(pkgInfo)" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" target="TgSyvzFLHtc9FCWlOelg-22" parent="1" source="TgSyvzFLHtc9FCWlOelg-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="235" y="180" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgSyvzFLHtc9FCWlOelg-24" value="deliveryDateConstraint" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" edge="1" source="TgSyvzFLHtc9FCWlOelg-22" parent="1" target="TgSyvzFLHtc9FCWlOelg-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="235" y="256" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgSyvzFLHtc9FCWlOelg-26" value="getDestination" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" target="TgSyvzFLHtc9FCWlOelg-25" parent="1" source="TgSyvzFLHtc9FCWlOelg-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="235" y="330" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgSyvzFLHtc9FCWlOelg-27" value="destination" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" edge="1" source="TgSyvzFLHtc9FCWlOelg-25" parent="1" target="TgSyvzFLHtc9FCWlOelg-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="235" y="406" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgSyvzFLHtc9FCWlOelg-29" value="createShippingControlsAndShipment" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" target="TgSyvzFLHtc9FCWlOelg-28" parent="1" source="TgSyvzFLHtc9FCWlOelg-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="235" y="470" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgSyvzFLHtc9FCWlOelg-30" value="ShippingControlsAndShipment" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" edge="1" source="TgSyvzFLHtc9FCWlOelg-28" parent="1" target="TgSyvzFLHtc9FCWlOelg-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="235" y="546" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
