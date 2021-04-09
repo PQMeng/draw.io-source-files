@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-08T17:44:24.180Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="YwQbGWnNCM6RmD2pcNWU" version="14.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-09T16:52:40.562Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="FLaCxxlAMYkmeEssG34O" version="14.5.5" type="github">
   <diagram id="bXForsEtcdqGUcm-SI0g" name="Page-1">
     <mxGraphModel dx="3579" dy="2002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,11 +13,19 @@
         <mxCell id="jIEn3RRNdb80xr0lYxpD-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="I90fuoskbk9LYZq9snm5-27" target="jIEn3RRNdb80xr0lYxpD-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="jIEn3RRNdb80xr0lYxpD-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=210;exitDy=63.5;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=42;entryPerimeter=0;" edge="1" parent="1" source="I90fuoskbk9LYZq9snm5-27" target="I90fuoskbk9LYZq9snm5-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jIEn3RRNdb80xr0lYxpD-41" value="run scripts" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jIEn3RRNdb80xr0lYxpD-39">
+          <mxGeometry x="-0.6793" y="2" relative="1" as="geometry">
+            <mxPoint x="-19" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="I90fuoskbk9LYZq9snm5-27" value="ATROPSCacheBuilder&lt;br&gt;&lt;br&gt;- build cache" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" parent="1" vertex="1">
           <mxGeometry x="-350" y="180" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="I90fuoskbk9LYZq9snm5-29" value="ATROPSCacheBuilderScripts&lt;br&gt;&lt;br&gt;perl scripts" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" parent="1" vertex="1">
-          <mxGeometry x="10" y="440" width="190" height="70" as="geometry" />
+          <mxGeometry x="40" y="432.5" width="190" height="70" as="geometry" />
         </mxCell>
         <UserObject label="build ATROPS data caches (link)" link="https://code.amazon.com/packages/ATROPSCacheBuilder/blobs/e7a747d04a6a144790dce09c9beaecfb24b71f3b/--/src/com/amazon/atrops/cachebuilder/CacheBuilder.java#L102" id="I90fuoskbk9LYZq9snm5-32">
           <mxCell style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
