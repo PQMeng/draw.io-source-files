@@ -1,1 +1,81 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T21:37:01.288Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" version="14.5.5" etag="VYRE6qhWaIi0IKacjSG-" type="github"><diagram id="6b6vQ7TOE7NBGPxKaMHb">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-14T19:42:29.171Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="OXVzKJT7Hqdadmmeg3Qq" version="14.5.5" type="github">
+  <diagram id="6b6vQ7TOE7NBGPxKaMHb" name="Page-1">
+    <mxGraphModel dx="1346" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7LTQhkvf0CzPSRRi0nb5-3" value=":RouteInfoReaderFactory" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="50" y="190" width="530" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="7LTQhkvf0CzPSRRi0nb5-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="7LTQhkvf0CzPSRRi0nb5-3" source="7LTQhkvf0CzPSRRi0nb5-18" target="7LTQhkvf0CzPSRRi0nb5-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7LTQhkvf0CzPSRRi0nb5-37" value="FBSRouteInfoReader" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7LTQhkvf0CzPSRRi0nb5-36">
+          <mxGeometry x="0.3777" y="1" relative="1" as="geometry">
+            <mxPoint x="20.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7LTQhkvf0CzPSRRi0nb5-38" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7LTQhkvf0CzPSRRi0nb5-36">
+          <mxGeometry x="-0.8475" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7LTQhkvf0CzPSRRi0nb5-18" value="&lt;span style=&quot;font-size: 12px&quot;&gt;enablesOnHeapCachingWhileConsumingOffheapCache&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FF9933;" vertex="1" parent="7LTQhkvf0CzPSRRi0nb5-3">
+          <mxGeometry x="350" y="266" width="145" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7LTQhkvf0CzPSRRi0nb5-24" value="" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="7LTQhkvf0CzPSRRi0nb5-3" source="7LTQhkvf0CzPSRRi0nb5-3">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="260" y="150" as="sourcePoint" />
+            <mxPoint x="340" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7LTQhkvf0CzPSRRi0nb5-8" value=":FBSRouteInfoReader" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="650" y="190" width="140" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="7LTQhkvf0CzPSRRi0nb5-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#FF9933;" vertex="1" parent="7LTQhkvf0CzPSRRi0nb5-8">
+          <mxGeometry x="65" y="150" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7LTQhkvf0CzPSRRi0nb5-11" value=":BDBRouteInfoDAO" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="190" width="120" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="7LTQhkvf0CzPSRRi0nb5-14" value="" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="7LTQhkvf0CzPSRRi0nb5-13" parent="1" source="7LTQhkvf0CzPSRRi0nb5-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="645" y="330" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7LTQhkvf0CzPSRRi0nb5-17" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7LTQhkvf0CzPSRRi0nb5-14">
+          <mxGeometry x="-0.2274" relative="1" as="geometry">
+            <mxPoint x="-30" y="-0.39" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7LTQhkvf0CzPSRRi0nb5-10" value="consumesOffheapCache" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="390" y="314" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7LTQhkvf0CzPSRRi0nb5-20" value=":CachedRouteInfoReader" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="830" y="190" width="160" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="7LTQhkvf0CzPSRRi0nb5-28" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#FF9933;" vertex="1" parent="7LTQhkvf0CzPSRRi0nb5-20">
+          <mxGeometry x="75" y="290" width="10" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="7LTQhkvf0CzPSRRi0nb5-29" value="" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" target="7LTQhkvf0CzPSRRi0nb5-28" parent="1" source="7LTQhkvf0CzPSRRi0nb5-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="835" y="490" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7LTQhkvf0CzPSRRi0nb5-32" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7LTQhkvf0CzPSRRi0nb5-29">
+          <mxGeometry x="-0.5041" y="2" relative="1" as="geometry">
+            <mxPoint x="56.49" y="1.37" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7LTQhkvf0CzPSRRi0nb5-30" value="CachedRouteInfoReader" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" edge="1" source="7LTQhkvf0CzPSRRi0nb5-28" parent="1" target="7LTQhkvf0CzPSRRi0nb5-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7LTQhkvf0CzPSRRi0nb5-39" value="FBSRouteInfoReader" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.011;exitY=0.97;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="7LTQhkvf0CzPSRRi0nb5-13" target="7LTQhkvf0CzPSRRi0nb5-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
