@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-12T05:34:33.334Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="lh55R-12sVszggqFQq8U" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-12T17:13:50.030Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="f1CUFnJDU1pMRt_FNI9J" version="14.6.11" type="github">
   <diagram id="zL_jvTfKJWAyaqf_xzi7" name="Page-1">
-    <mxGraphModel dx="3236" dy="2102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3488" dy="1998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,17 +27,19 @@
         <mxCell id="ZvnvcFGDwX3gk3RKcJMG-15" value="VS: ATROPSService/mainline" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" vertex="1" parent="1">
           <mxGeometry x="-680" y="-30.03" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ZvnvcFGDwX3gk3RKcJMG-22" value="Checkout Production fleets&lt;br&gt;&lt;br&gt;Only VFI: ATROPSService/mainline" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="691.75" y="-11.5" width="76.5" height="93" as="geometry" />
-        </mxCell>
         <mxCell id="ZvnvcFGDwX3gk3RKcJMG-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ZvnvcFGDwX3gk3RKcJMG-23" target="ZvnvcFGDwX3gk3RKcJMG-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZvnvcFGDwX3gk3RKcJMG-23" value="ATROPSService/Gamma Fleet&lt;br&gt;&lt;br&gt;Only one VFI: ATROPSService/mainline" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="ZvnvcFGDwX3gk3RKcJMG-23" value="ATROPSService/Gamma Fleet&lt;br&gt;&lt;br&gt;the ONLY VFI: ATROPSService/release-date" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="460" y="-11.5" width="76.5" height="93" as="geometry" />
         </mxCell>
         <mxCell id="ZvnvcFGDwX3gk3RKcJMG-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZvnvcFGDwX3gk3RKcJMG-28" target="ZvnvcFGDwX3gk3RKcJMG-15">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvnvcFGDwX3gk3RKcJMG-69" value="merge from" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZvnvcFGDwX3gk3RKcJMG-29">
+          <mxGeometry x="0.2929" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZvnvcFGDwX3gk3RKcJMG-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZvnvcFGDwX3gk3RKcJMG-45" target="ZvnvcFGDwX3gk3RKcJMG-28">
           <mxGeometry relative="1" as="geometry">
@@ -52,8 +54,8 @@
         <mxCell id="ZvnvcFGDwX3gk3RKcJMG-28" value="live" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1060" y="-25.03" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZvnvcFGDwX3gk3RKcJMG-39" value="ATROPSSharedConfig&lt;br&gt;&lt;br&gt;week4_commit_A" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-1030" y="19.97" width="160" height="60" as="geometry" />
+        <mxCell id="ZvnvcFGDwX3gk3RKcJMG-39" value="week3_other_packages&lt;br&gt;+&lt;br&gt;ATROPSSharedConfig&lt;br&gt;week3_commit_A" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-1030" y="19.97" width="150" height="110.03" as="geometry" />
         </mxCell>
         <mxCell id="ZvnvcFGDwX3gk3RKcJMG-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZvnvcFGDwX3gk3RKcJMG-15" target="ZvnvcFGDwX3gk3RKcJMG-40">
           <mxGeometry relative="1" as="geometry" />
@@ -75,11 +77,11 @@
         <mxCell id="ZvnvcFGDwX3gk3RKcJMG-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZvnvcFGDwX3gk3RKcJMG-41" target="ZvnvcFGDwX3gk3RKcJMG-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZvnvcFGDwX3gk3RKcJMG-41" value="Regression Tests&lt;br&gt;Week 4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-580" y="207.49" width="120" height="60" as="geometry" />
+        <mxCell id="ZvnvcFGDwX3gk3RKcJMG-41" value="Regression Tests&lt;br&gt;Week 4 (to be deployed)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="207.49" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZvnvcFGDwX3gk3RKcJMG-44" value="&lt;h1&gt;&lt;span&gt;Closed Loop&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;Example: OpenJDK&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1050" y="182.51" width="190" height="120" as="geometry" />
+          <mxGeometry x="-1160" y="147.49" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ZvnvcFGDwX3gk3RKcJMG-45" value="VS: ATROPSService/release" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" vertex="1" parent="1">
           <mxGeometry x="60" y="-30.03" width="130" height="70" as="geometry" />
@@ -91,11 +93,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZvnvcFGDwX3gk3RKcJMG-47" value="ATROPSSharedConfig&lt;br&gt;&lt;br&gt;Week 5 (commit_B)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="ZvnvcFGDwX3gk3RKcJMG-47" value="ATROPSSharedConfig&lt;br&gt;&lt;br&gt;week5_commit_B" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="85" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZvnvcFGDwX3gk3RKcJMG-55" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-350" y="-25.03" width="1130" height="493.03" as="geometry" />
+          <mxGeometry x="-350" y="-25.03" width="1176.5" height="493.03" as="geometry" />
         </mxCell>
         <mxCell id="ZvnvcFGDwX3gk3RKcJMG-1" value="Checkout Production fleets&lt;br&gt;&lt;br&gt;VFI: ATROPSService/mainline&lt;br&gt;+&lt;br&gt;&amp;nbsp;Package version: ATROPSSharedConfig" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="ZvnvcFGDwX3gk3RKcJMG-55">
           <mxGeometry x="310" y="585.03" width="80" height="103" as="geometry" />
@@ -122,6 +124,9 @@
         <mxCell id="ZvnvcFGDwX3gk3RKcJMG-49" value="ATROPSService/release-date&lt;br&gt;&lt;br&gt;Week 4" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="ZvnvcFGDwX3gk3RKcJMG-55">
           <mxGeometry y="415.03" width="210" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ZvnvcFGDwX3gk3RKcJMG-22" value="Checkout Production fleets&lt;br&gt;&lt;br&gt;the ONLY VFI: ATROPSService/release-date" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="ZvnvcFGDwX3gk3RKcJMG-55">
+          <mxGeometry x="1100" y="13.530000000000001" width="76.5" height="93" as="geometry" />
+        </mxCell>
         <mxCell id="ZvnvcFGDwX3gk3RKcJMG-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZvnvcFGDwX3gk3RKcJMG-51" target="ZvnvcFGDwX3gk3RKcJMG-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -137,6 +142,9 @@
         </mxCell>
         <mxCell id="ZvnvcFGDwX3gk3RKcJMG-65" value="Open at the start of Week 5" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="-630" y="380" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvnvcFGDwX3gk3RKcJMG-68" value="week4_other_pakcges&lt;br&gt;+&lt;br&gt;ATROPSSharedConfig&lt;br&gt;week5_commit_B" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="30" y="-91.5" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
