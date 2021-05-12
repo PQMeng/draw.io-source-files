@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-12T18:02:27.344Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="8iX18kJ7mDeMeUOtO12O" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-12T18:07:57.270Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="E7cM2pGeqnVztel9wpgq" version="14.6.11" type="github">
   <diagram id="zL_jvTfKJWAyaqf_xzi7" name="Page-1">
     <mxGraphModel dx="3288" dy="1998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -71,7 +71,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZvnvcFGDwX3gk3RKcJMG-65" value="Open at the start of Week 5" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="-630" y="380" width="120" height="100" as="geometry" />
+          <mxGeometry x="-645" y="378" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ZvnvcFGDwX3gk3RKcJMG-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZvnvcFGDwX3gk3RKcJMG-45" target="ZvnvcFGDwX3gk3RKcJMG-68">
           <mxGeometry relative="1" as="geometry" />
@@ -102,7 +102,7 @@
           <mxGeometry x="250" y="-80" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZvnvcFGDwX3gk3RKcJMG-76" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="710" y="37" width="366.5" height="93" as="geometry" />
+          <mxGeometry x="900" y="85" width="366.5" height="93" as="geometry" />
         </mxCell>
         <mxCell id="ZvnvcFGDwX3gk3RKcJMG-23" value="ATROPSService/Gamma Fleet&lt;br&gt;&lt;br&gt;the ONLY VFI: ATROPSService/release-date" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="ZvnvcFGDwX3gk3RKcJMG-76">
           <mxGeometry width="76.5" height="93" as="geometry" />
@@ -116,11 +116,17 @@
         <mxCell id="ZvnvcFGDwX3gk3RKcJMG-84" value="Cache Build" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="260" y="300" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZvnvcFGDwX3gk3RKcJMG-85" value="Weekly: Code" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZvnvcFGDwX3gk3RKcJMG-85" value="Weekly: Code" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="60" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZvnvcFGDwX3gk3RKcJMG-86" value="Daily: SharedCofig" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZvnvcFGDwX3gk3RKcJMG-86" value="Daily: SharedCofig" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="60" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvnvcFGDwX3gk3RKcJMG-87" value="Cache Build" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="178" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvnvcFGDwX3gk3RKcJMG-88" value="Stop RC" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-590" y="147.49" width="100" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
