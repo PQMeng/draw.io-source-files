@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-13T00:00:46.649Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="O0U8X_mvpqkpydGduHlP" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-13T00:47:29.295Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="qyuB1mJh4fuyZCwhT0tO" version="14.6.11" type="github">
   <diagram id="zL_jvTfKJWAyaqf_xzi7" name="Page-1">
     <mxGraphModel dx="3488" dy="1998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -126,9 +126,6 @@
         <mxCell id="ZvnvcFGDwX3gk3RKcJMG-133" value="Verify Prod is in sync" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="-500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZvnvcFGDwX3gk3RKcJMG-135" value="Clone to ATROPSService/staging-release" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="-420" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="ZvnvcFGDwX3gk3RKcJMG-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="1" source="ZvnvcFGDwX3gk3RKcJMG-181" target="ZvnvcFGDwX3gk3RKcJMG-145">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -179,7 +176,7 @@
         <mxCell id="ZvnvcFGDwX3gk3RKcJMG-175" value="Disable (Weekly release only)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="260" y="-520" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZvnvcFGDwX3gk3RKcJMG-176" value="ShareConfig coming in the middle of RC" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+        <mxCell id="ZvnvcFGDwX3gk3RKcJMG-176" value="ShareConfig coming in the middle of RC&lt;br&gt;&lt;br&gt;no cache build, just deploy the VFI" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="525" y="-320" width="150" height="130" as="geometry" />
         </mxCell>
         <mxCell id="ZvnvcFGDwX3gk3RKcJMG-181" value="Weekly" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.clock;" vertex="1" parent="1">
@@ -190,6 +187,9 @@
             <mxPoint x="229.99999999999955" y="-580" as="sourcePoint" />
             <mxPoint x="329.99999999999955" y="-580" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ZvnvcFGDwX3gk3RKcJMG-184" value="New code" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-646" width="100" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
