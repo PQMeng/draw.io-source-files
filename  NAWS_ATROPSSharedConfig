@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-14T01:11:44.979Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="cS1obpHuaqqGKcKX4x5A" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-14T17:23:13.022Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="qz74QSjkNexz2DUQu--3" version="14.6.11" type="github">
   <diagram id="zL_jvTfKJWAyaqf_xzi7" name="Page-1">
     <mxGraphModel dx="3488" dy="1998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -180,7 +180,7 @@
           <mxGeometry x="550" y="-610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZvnvcFGDwX3gk3RKcJMG-188" value="After every SharedConfig push: &lt;br&gt;&amp;nbsp; 1. PreGamma is not in a deployment;&lt;br&gt;&amp;nbsp; 2. scan VFI on PreGamma and compare with SharedConfig VFI. If different, sync PreGamma from SharedConig" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="550" y="-475" width="120" height="170" as="geometry" />
+          <mxGeometry x="550" y="-500" width="120" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ZvnvcFGDwX3gk3RKcJMG-191" value="SharedConfig&lt;br&gt;commit_A" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-1260" y="-654" width="100" height="50" as="geometry" />
@@ -229,6 +229,9 @@
         </mxCell>
         <mxCell id="ZvnvcFGDwX3gk3RKcJMG-213" value="SharedConfig&amp;nbsp;&lt;br&gt;commit_B" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1028" y="-562.5" width="100" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvnvcFGDwX3gk3RKcJMG-215" value="Disable manually" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/diagona/icon/16/150.png" vertex="1" parent="1">
+          <mxGeometry x="259" y="-506" width="36" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
