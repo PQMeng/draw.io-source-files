@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-14T18:03:41.032Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="MHeN1cYcrf5Ef9f2zEKD" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-14T22:04:39.121Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="k_2jX7-gYhJuS9qLTh9j" version="14.6.11" type="github">
   <diagram id="zL_jvTfKJWAyaqf_xzi7" name="Page-1">
     <mxGraphModel dx="3488" dy="1998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -214,12 +214,6 @@
         </mxCell>
         <mxCell id="ZvnvcFGDwX3gk3RKcJMG-205" value="SharedConfig&amp;nbsp;&lt;br&gt;commit_C" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="103" y="-402" width="100" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="ZvnvcFGDwX3gk3RKcJMG-206" value="TODO: revert commit_B to commit_A when merge from source" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="330" y="-500" width="130" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="ZvnvcFGDwX3gk3RKcJMG-208" value="Solution: use script to re-import commit_B&lt;br&gt;&lt;br&gt;The merge will keep commit_B automatically" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="330" y="-370" width="130" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ZvnvcFGDwX3gk3RKcJMG-211" value="SharedConfig&amp;nbsp;&lt;br&gt;commit_B" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="580" y="-563.5" width="100" height="42" as="geometry" />
