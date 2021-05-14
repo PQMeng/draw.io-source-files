@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-13T23:13:47.656Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="pO31-TvidJXu5y0xsV26" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-14T00:38:11.897Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="fJnlzOVssKUoIMsjT34m" version="14.6.11" type="github">
   <diagram id="zL_jvTfKJWAyaqf_xzi7" name="Page-1">
     <mxGraphModel dx="3488" dy="1998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="-1300" y="-720" width="1320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZvnvcFGDwX3gk3RKcJMG-95" value="ATROPSService-release" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="70" y="-720" width="1290" height="30" as="geometry" />
+          <mxGeometry x="70" y="-720" width="1550" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZvnvcFGDwX3gk3RKcJMG-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="1" source="ZvnvcFGDwX3gk3RKcJMG-193" target="ZvnvcFGDwX3gk3RKcJMG-99">
           <mxGeometry relative="1" as="geometry" />
@@ -97,31 +97,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZvnvcFGDwX3gk3RKcJMG-125" value="Release-PreGamma" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="882" y="-610" width="120" height="60" as="geometry" />
+          <mxGeometry x="800" y="-610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZvnvcFGDwX3gk3RKcJMG-127" value="Deploy new VFI to Gamma" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="882" y="-500" width="120" height="60" as="geometry" />
+          <mxGeometry x="800" y="-500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZvnvcFGDwX3gk3RKcJMG-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZvnvcFGDwX3gk3RKcJMG-129" target="ZvnvcFGDwX3gk3RKcJMG-132">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZvnvcFGDwX3gk3RKcJMG-129" value="Release-Gamma" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1072" y="-610" width="120" height="60" as="geometry" />
+          <mxGeometry x="990" y="-610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZvnvcFGDwX3gk3RKcJMG-130" value="Verify CIS reports" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1072" y="-500" width="120" height="60" as="geometry" />
+          <mxGeometry x="990" y="-500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZvnvcFGDwX3gk3RKcJMG-131" value="Promot to Prod" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1072" y="-420" width="120" height="60" as="geometry" />
+          <mxGeometry x="990" y="-420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZvnvcFGDwX3gk3RKcJMG-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZvnvcFGDwX3gk3RKcJMG-132" target="ZvnvcFGDwX3gk3RKcJMG-161">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZvnvcFGDwX3gk3RKcJMG-132" value="Release-Prod" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1262" y="-610" width="120" height="60" as="geometry" />
+          <mxGeometry x="1180" y="-610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZvnvcFGDwX3gk3RKcJMG-133" value="Verify Prod is in sync" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1262" y="-500" width="120" height="60" as="geometry" />
+          <mxGeometry x="1180" y="-500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZvnvcFGDwX3gk3RKcJMG-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZvnvcFGDwX3gk3RKcJMG-140" target="ZvnvcFGDwX3gk3RKcJMG-145">
           <mxGeometry relative="1" as="geometry" />
@@ -156,10 +156,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZvnvcFGDwX3gk3RKcJMG-161" value="Release ATROPSSharedConfig to live" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1452" y="-610" width="150" height="60" as="geometry" />
+          <mxGeometry x="1370" y="-610" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZvnvcFGDwX3gk3RKcJMG-165" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/music-ui-solid-24px/24/tick_success_done_valid-2-128.png" vertex="1" parent="1">
-          <mxGeometry x="1652" y="-604" width="48" height="48" as="geometry" />
+          <mxGeometry x="1570" y="-604" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="ZvnvcFGDwX3gk3RKcJMG-170" value="SharedConfig&amp;nbsp;&lt;br&gt;commit_B" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="375" y="-571" width="100" height="42" as="geometry" />
@@ -173,14 +173,14 @@
         <mxCell id="ZvnvcFGDwX3gk3RKcJMG-184" value="New code" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="134" y="-652" width="100" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="ZvnvcFGDwX3gk3RKcJMG-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZvnvcFGDwX3gk3RKcJMG-187" target="ZvnvcFGDwX3gk3RKcJMG-125">
+        <mxCell id="ZvnvcFGDwX3gk3RKcJMG-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZvnvcFGDwX3gk3RKcJMG-187" target="ZvnvcFGDwX3gk3RKcJMG-125">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZvnvcFGDwX3gk3RKcJMG-187" value="Release-SharedConfig" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="-610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZvnvcFGDwX3gk3RKcJMG-188" value="After every deployment: &lt;br&gt;&amp;nbsp; 1. PreGamma is not in a deployment;&lt;br&gt;&amp;nbsp; 2. scan VFI on PreGamma and compare with SharedConfig VFI. If different, sync PreGamma from SharedConig" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="550" y="-500" width="120" height="170" as="geometry" />
+        <mxCell id="ZvnvcFGDwX3gk3RKcJMG-188" value="After every SharedConfig push: &lt;br&gt;&amp;nbsp; 1. PreGamma is not in a deployment;&lt;br&gt;&amp;nbsp; 2. scan VFI on PreGamma and compare with SharedConfig VFI. If different, sync PreGamma from SharedConig" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="550" y="-475" width="120" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ZvnvcFGDwX3gk3RKcJMG-191" value="SharedConfig&lt;br&gt;commit_A" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-1260" y="-654" width="100" height="50" as="geometry" />
@@ -217,6 +217,21 @@
         </mxCell>
         <mxCell id="ZvnvcFGDwX3gk3RKcJMG-206" value="TODO: revert commit_B to commit_A when merge from source" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="330" y="-500" width="130" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvnvcFGDwX3gk3RKcJMG-208" value="Solution: use script to re-import commit_B&lt;br&gt;&lt;br&gt;The merge will keep commit_B automatically" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-370" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvnvcFGDwX3gk3RKcJMG-209" value="New code" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-639.5" width="100" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvnvcFGDwX3gk3RKcJMG-211" value="SharedConfig&amp;nbsp;&lt;br&gt;commit_B" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="580" y="-563.5" width="100" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvnvcFGDwX3gk3RKcJMG-212" value="SharedConfig&amp;nbsp;&lt;br&gt;commit_B" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="838" y="-563.5" width="100" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvnvcFGDwX3gk3RKcJMG-213" value="SharedConfig&amp;nbsp;&lt;br&gt;commit_B" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1028" y="-562.5" width="100" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
