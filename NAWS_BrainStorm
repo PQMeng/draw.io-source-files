@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-27T20:45:33.502Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="8mR9hHeJSjhe-81X_iXY" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-07T23:22:48.355Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="2ZPJg1BKPpXWgJ9zFK2W" version="14.7.2" type="github">
   <diagram id="j7p8uxD3aovka4tjDkQw" name="Page-1">
     <mxGraphModel dx="2996" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -109,17 +109,56 @@
         <mxCell id="QBCDCJqD4JcOwqigTQ79-31" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;No Schema Change&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="170" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="znoC112Mn3wugHRXEjov-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00CCCC;" vertex="1" parent="1">
+        <mxCell id="znoC112Mn3wugHRXEjov-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00CCCC;" parent="1" vertex="1">
           <mxGeometry x="60" y="250" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="znoC112Mn3wugHRXEjov-2" value="&lt;font style=&quot;font-size: 24px&quot;&gt;2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00CCCC;" vertex="1" parent="1">
+        <mxCell id="znoC112Mn3wugHRXEjov-2" value="&lt;font style=&quot;font-size: 24px&quot;&gt;2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00CCCC;" parent="1" vertex="1">
           <mxGeometry x="60" y="420" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="znoC112Mn3wugHRXEjov-4" value="ATROPSService" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#97D077;" vertex="1" parent="1">
+        <mxCell id="znoC112Mn3wugHRXEjov-4" value="ATROPSService" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#97D077;" parent="1" vertex="1">
           <mxGeometry x="-400" y="90" width="340" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="znoC112Mn3wugHRXEjov-5" value="ATROPSService-ATROPSSharedConfig-release" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#97D077;" vertex="1" parent="1">
+        <mxCell id="znoC112Mn3wugHRXEjov-5" value="ATROPSService-ATROPSSharedConfig-release" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#97D077;" parent="1" vertex="1">
           <mxGeometry x="-20" y="90" width="1510" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qxd-lOw5JlfgD3Q_6piT-1" value="VerifyCacheBuilderSchemaChange" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="700" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qxd-lOw5JlfgD3Q_6piT-2" value="--/NoSchemaChange/Gamma" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="800" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qxd-lOw5JlfgD3Q_6piT-3" value="--/NoSchemaChange/NA/Gamma" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="840" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qxd-lOw5JlfgD3Q_6piT-4" value="--/NoSchemaChange/EU/Gamma" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="880" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qxd-lOw5JlfgD3Q_6piT-5" value="--/NoSchemaChange/CN/Gamma" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="920" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qxd-lOw5JlfgD3Q_6piT-6" value="--/NoSchemaChange/FE/Gamma" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="960" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qxd-lOw5JlfgD3Q_6piT-7" value="No Schema Change Approval Workflow:&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1050" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qxd-lOw5JlfgD3Q_6piT-14" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="80" y="1160" width="230" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Qxd-lOw5JlfgD3Q_6piT-8" value="Schema Change Approval Workflow (NA/Gamma):" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qxd-lOw5JlfgD3Q_6piT-14">
+          <mxGeometry y="60" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qxd-lOw5JlfgD3Q_6piT-10" value="Schema Change Approval Workflow (EU/Gamma):" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qxd-lOw5JlfgD3Q_6piT-14">
+          <mxGeometry y="120" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qxd-lOw5JlfgD3Q_6piT-11" value="Schema Change Approval Workflow (CN/Gamma):" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qxd-lOw5JlfgD3Q_6piT-14">
+          <mxGeometry y="180" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qxd-lOw5JlfgD3Q_6piT-12" value="Schema Change Approval Workflow (FE/Gamma):" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qxd-lOw5JlfgD3Q_6piT-14">
+          <mxGeometry y="240" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qxd-lOw5JlfgD3Q_6piT-13" value="Schema Change Approval Workflow (GL/Gamma):&lt;br&gt;1.Stop RC; &lt;br&gt;2.Build new RC; &lt;br&gt;3.Deploy to Gamma&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qxd-lOw5JlfgD3Q_6piT-14">
+          <mxGeometry y="-20" width="230" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
