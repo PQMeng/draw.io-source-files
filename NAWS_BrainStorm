@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T16:49:39.323Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="QoWlKLYZefqOAt8Mv89f" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-09T20:20:42.999Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="iJvps-QJ1Z7SWYe37hlG" version="14.7.6" type="github">
   <diagram id="j7p8uxD3aovka4tjDkQw" name="Page-1">
     <mxGraphModel dx="2996" dy="1037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -208,7 +208,7 @@
         <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-16" value="PostGamma/CN/Gamma" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="737.5" y="960" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-17" value="Approval Workflow:&lt;br&gt;1. All the above env VFIs are aligned;&lt;br&gt;2. Sync Prod to Devo;&lt;br&gt;3. EU Chaos testing;&lt;br&gt;4. NA Chaos testing;&lt;br&gt;5. FE Chaos testing;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-17" value="Approval Workflow:&lt;br&gt;1. Sync Prod to Devo;&lt;br&gt;2. EU Chaos testing;&lt;br&gt;3. NA Chaos testing;&lt;br&gt;4. FE Chaos testing;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="735" y="1100" width="235" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-18" value="ProdVersionSet" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -226,16 +226,19 @@
         <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-30" value="PreGamma/Global/Gamma" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="800" width="230" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="B1XZJ0_xUJiMhsGlTfe1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pr9Q7IWwpzbeJiDJlLFR-33" target="Pr9Q7IWwpzbeJiDJlLFR-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-33" value="PostGamma/Devo/Gamma" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="737.5" y="800" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-34" value="Live" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1090" y="800" width="120" height="60" as="geometry" />
+          <mxGeometry x="1090" y="790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lnuaaZt-XvA2RO_JlPmp-1" value="Code: Weekly:&lt;br&gt;Stop, buildNewCache" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lnuaaZt-XvA2RO_JlPmp-1" value="Code: Weekly:&lt;br&gt;Stop, buildNewCache" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-140" y="970" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lnuaaZt-XvA2RO_JlPmp-2" value="SharedConfig: Daily" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lnuaaZt-XvA2RO_JlPmp-2" value="SharedConfig: Daily" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-40" y="1100" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
