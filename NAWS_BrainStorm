@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T02:45:55.687Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="WCsGlsACTTvB3ZIlNInj" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-09T16:49:39.323Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="QoWlKLYZefqOAt8Mv89f" version="14.7.6" type="github">
   <diagram id="j7p8uxD3aovka4tjDkQw" name="Page-1">
-    <mxGraphModel dx="2756" dy="1037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2996" dy="1037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -124,25 +124,25 @@
         <mxCell id="Qxd-lOw5JlfgD3Q_6piT-1" value="PreGamma" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="700" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="Qxd-lOw5JlfgD3Q_6piT-3" target="Pr9Q7IWwpzbeJiDJlLFR-4">
+        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="Qxd-lOw5JlfgD3Q_6piT-3" target="Pr9Q7IWwpzbeJiDJlLFR-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qxd-lOw5JlfgD3Q_6piT-3" value="PreGammaStage/NA/Gamma" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="840" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-25" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qxd-lOw5JlfgD3Q_6piT-4" target="Pr9Q7IWwpzbeJiDJlLFR-5">
+        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-25" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Qxd-lOw5JlfgD3Q_6piT-4" target="Pr9Q7IWwpzbeJiDJlLFR-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qxd-lOw5JlfgD3Q_6piT-4" value="PreGamma/EU/Gamma" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="880" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-27" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qxd-lOw5JlfgD3Q_6piT-5" target="Pr9Q7IWwpzbeJiDJlLFR-6">
+        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-27" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Qxd-lOw5JlfgD3Q_6piT-5" target="Pr9Q7IWwpzbeJiDJlLFR-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qxd-lOw5JlfgD3Q_6piT-5" value="PreGamma/FE/Gamma" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="920" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-28" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qxd-lOw5JlfgD3Q_6piT-6" target="Pr9Q7IWwpzbeJiDJlLFR-7">
+        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-28" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Qxd-lOw5JlfgD3Q_6piT-6" target="Pr9Q7IWwpzbeJiDJlLFR-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qxd-lOw5JlfgD3Q_6piT-6" value="PreGamma/CN/Gamma" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -166,71 +166,77 @@
         <mxCell id="Qxd-lOw5JlfgD3Q_6piT-13" value="[BuildNewCache]&lt;br&gt;&amp;nbsp;(Global/Gamma):&lt;br&gt;1.Stop RC; &lt;br&gt;2.Build new Cache; &lt;br&gt;3.Deploy to Gamma&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="Qxd-lOw5JlfgD3Q_6piT-14" vertex="1">
           <mxGeometry y="-20" width="230" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-2" value="Gamma" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-2" value="Gamma" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="700" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-4" value="GammaStage/NA/Gamma" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-4" value="GammaStage/NA/Gamma" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="415" y="840" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-5" value="ATROPSService/EU/Gamma" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-5" value="ATROPSService/EU/Gamma" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="415" y="880" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-6" value="ATROPSService/FE/Gamma" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-6" value="ATROPSService/FE/Gamma" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="415" y="920" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-7" value="ATROPSService/CN/Gamma" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-7" value="ATROPSService/CN/Gamma" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="415" y="960" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-8" value="Approval Workflow:&lt;br&gt;1. [Manual] Gamma alarms and CIS report&lt;br&gt;2. [Manual] Promote to Prod" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-8" value="Approval Workflow:&lt;br&gt;1. [Manual] Gamma alarms and CIS report&lt;br&gt;2. [Manual] Promote to Prod" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="415" y="1100" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-9" value="EU: Gamma alarms and CIS report" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-9" value="EU: Gamma alarms and CIS report" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="415" y="1160" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-10" value="FE: Gamma alarms and CIS report" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-10" value="FE: Gamma alarms and CIS report" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="415" y="1220" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-11" value="CN: Gamma alarms and CIS report" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-11" value="CN: Gamma alarms and CIS report" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="415" y="1280" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-12" value="PostGamma" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-12" value="PostGamma" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="780" y="700" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-13" value="PostGamma/NA/Gamma" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-13" value="PostGamma/NA/Gamma" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="737.5" y="840" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-14" value="PostGamma/EU/Gamma" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-14" value="PostGamma/EU/Gamma" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="737.5" y="880" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-15" value="PostGamma/FE/Gamma" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-15" value="PostGamma/FE/Gamma" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="737.5" y="920" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-16" value="PostGamma/CN/Gamma" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-16" value="PostGamma/CN/Gamma" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="737.5" y="960" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-17" value="Approval Workflow:&lt;br&gt;1. All the above env VFIs are aligned;&lt;br&gt;2. Sync Prod to Devo;&lt;br&gt;3. EU Chaos testing;&lt;br&gt;4. NA Chaos testing;&lt;br&gt;5. FE Chaos testing;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-17" value="Approval Workflow:&lt;br&gt;1. All the above env VFIs are aligned;&lt;br&gt;2. Sync Prod to Devo;&lt;br&gt;3. EU Chaos testing;&lt;br&gt;4. NA Chaos testing;&lt;br&gt;5. FE Chaos testing;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="735" y="1100" width="235" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-18" value="ProdVersionSet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-18" value="ProdVersionSet" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1090" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-20" value="VersionSet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-20" value="VersionSet" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-200" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-29" value="ATROPSService/Global/Gamma" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-29" value="ATROPSService/Global/Gamma" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="415" y="800" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-31" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pr9Q7IWwpzbeJiDJlLFR-30" target="Pr9Q7IWwpzbeJiDJlLFR-29">
+        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-31" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Pr9Q7IWwpzbeJiDJlLFR-30" target="Pr9Q7IWwpzbeJiDJlLFR-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-30" value="PreGamma/Global/Gamma" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-30" value="PreGamma/Global/Gamma" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="800" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-33" value="PostGamma/Devo/Gamma" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-33" value="PostGamma/Devo/Gamma" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="737.5" y="800" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-34" value="Live" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-34" value="Live" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1090" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lnuaaZt-XvA2RO_JlPmp-1" value="Code: Weekly:&lt;br&gt;Stop, buildNewCache" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="970" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lnuaaZt-XvA2RO_JlPmp-2" value="SharedConfig: Daily" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="1100" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
