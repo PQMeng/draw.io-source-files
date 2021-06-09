@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T00:07:29.732Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="s5oykf1QDz7dH7z_lkTd" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-09T00:21:52.343Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="8oT6ds2BIDcOp5Dmxmx9" version="14.7.6" type="github">
   <diagram id="j7p8uxD3aovka4tjDkQw" name="Page-1">
     <mxGraphModel dx="2756" dy="1037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -151,7 +151,7 @@
         <mxCell id="Qxd-lOw5JlfgD3Q_6piT-6" value="PreGamma-SelectReleaseTypes/CN/Gamma" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="960" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Qxd-lOw5JlfgD3Q_6piT-7" value="[NoCacheBuilderSchemaChange]&lt;br&gt;Deploy to all Gamma" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Qxd-lOw5JlfgD3Q_6piT-7" value="[DoNotBuildNewCache]&lt;br&gt;Deploy to all Gamma" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="1090" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qxd-lOw5JlfgD3Q_6piT-14" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -169,7 +169,7 @@
         <mxCell id="Qxd-lOw5JlfgD3Q_6piT-12" value="Schema Change Approval Workflow (CN/Gamma):" style="rounded=1;whiteSpace=wrap;html=1;" parent="Qxd-lOw5JlfgD3Q_6piT-14" vertex="1">
           <mxGeometry y="240" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qxd-lOw5JlfgD3Q_6piT-13" value="Schema Change Approval Workflow (Global/Gamma):&lt;br&gt;1.Stop RC; &lt;br&gt;2.Build new Cache; &lt;br&gt;3.Deploy to Gamma&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="Qxd-lOw5JlfgD3Q_6piT-14" vertex="1">
+        <mxCell id="Qxd-lOw5JlfgD3Q_6piT-13" value="BuildNewCache&lt;br&gt;&amp;nbsp;(Global/Gamma):&lt;br&gt;1.Stop RC; &lt;br&gt;2.Build new Cache; &lt;br&gt;3.Deploy to Gamma&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="Qxd-lOw5JlfgD3Q_6piT-14" vertex="1">
           <mxGeometry y="-20" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-1" value="PreGamma-SelectReleaseTypes/Global/Gamma" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -179,16 +179,16 @@
           <mxGeometry x="460" y="700" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-4" value="ATROPSService/NA/Gamma" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="415" y="800" width="230" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-5" value="ATROPSService/EU/Gamma" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="415" y="840" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-6" value="ATROPSService/FE/Gamma" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-5" value="ATROPSService/EU/Gamma" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="415" y="880" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-7" value="ATROPSService/CN/Gamma" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-6" value="ATROPSService/FE/Gamma" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="415" y="920" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-7" value="ATROPSService/CN/Gamma" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="415" y="960" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-8" value="Approval Workflow:&lt;br&gt;1. Gamma alarms and CIS report&lt;br&gt;2. Promote to Prod" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="415" y="1090" width="230" height="60" as="geometry" />
@@ -225,6 +225,9 @@
         </mxCell>
         <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-20" value="VersionSet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-200" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-29" value="ATROPSService/CN/Gamma" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="415" y="800" width="230" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
