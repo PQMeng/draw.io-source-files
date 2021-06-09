@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T02:02:12.554Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="DuD5i6RKTDmqT3JyJDfX" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-09T02:23:18.162Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="5OcWOIBO7MIESx1ZqyQN" version="14.7.6" type="github">
   <diagram id="j7p8uxD3aovka4tjDkQw" name="Page-1">
     <mxGraphModel dx="2756" dy="1037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -185,16 +185,16 @@
           <mxGeometry x="415" y="960" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-8" value="Approval Workflow:&lt;br&gt;1. [Manual] Gamma alarms and CIS report&lt;br&gt;2. [Manual] Promote to Prod" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="415" y="1090" width="230" height="60" as="geometry" />
+          <mxGeometry x="425" y="1210" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-9" value="EU: Gamma alarms and CIS report" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="415" y="1150" width="230" height="60" as="geometry" />
+          <mxGeometry x="425" y="1270" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-10" value="FE: Gamma alarms and CIS report" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="415" y="1210" width="230" height="60" as="geometry" />
+          <mxGeometry x="425" y="1330" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-11" value="CN: Gamma alarms and CIS report" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="415" y="1270" width="230" height="60" as="geometry" />
+          <mxGeometry x="425" y="1390" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-12" value="PostGamma" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="700" width="140" height="60" as="geometry" />
@@ -229,6 +229,9 @@
         <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-30" value="PreGamma/Global/Gamma" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="800" width="230" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-36" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pr9Q7IWwpzbeJiDJlLFR-32" target="Pr9Q7IWwpzbeJiDJlLFR-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-32" value="PreGamma/NotBuildNewCache/Gamma" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="1000" width="230" height="40" as="geometry" />
         </mxCell>
@@ -237,6 +240,12 @@
         </mxCell>
         <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-34" value="Live" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1090" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-35" value="Gamma/NotBuildNewCache/Gamma" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="415" y="1000" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pr9Q7IWwpzbeJiDJlLFR-37" value="Copy to all Gamma envs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="415" y="1090" width="235" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
