@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-02T06:15:05.282Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="VI31NO2DnjGheDNtXcWZ" version="14.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-02T06:18:03.441Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="jTiBTrhjtvCnjKgc8aMD" version="14.8.2" type="github">
   <diagram id="rbZX-sP-z1a0gO5ZRW0s" name="Page-1">
     <mxGraphModel dx="2101" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -181,8 +181,11 @@
         <mxCell id="3jYaroxUgYy0SSm531MT-96" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;strokeColor=#FFFFFF;fillColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="890" y="265" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3jYaroxUgYy0SSm531MT-100" value="Deploy whenever a SharedConfig change is checked in.&amp;nbsp;&lt;br&gt;Assumption:&lt;br&gt;1. RC still sync all changes from ATROPSService/Gamma env;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#009900;" vertex="1" parent="1">
-          <mxGeometry x="305" y="550" width="230" height="190" as="geometry" />
+        <mxCell id="3jYaroxUgYy0SSm531MT-100" value="Assumptions:&lt;br&gt;1. RC still sync all changes from ATROPSService/Gamma env;&lt;br&gt;2. We can do VFI sync between different stages;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="790" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3jYaroxUgYy0SSm531MT-102" value="&lt;font color=&quot;#009900&quot;&gt;&lt;b&gt;Daily&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="395" y="520" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
