@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-09T19:21:57.562Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="QcExHHzGRgbrWAK4zBcX" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-09T19:22:58.369Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Zh4XOnu-asrt3eyfnXv0" version="14.8.4" type="github">
   <diagram id="CO1CmgJi0zSOsjsf4une" name="Page-1">
     <mxGraphModel dx="2101" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -71,8 +71,26 @@
         <mxCell id="MRKOds_FqHYPqs3G7acO-37" value="DB" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-10" y="650" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="MRKOds_FqHYPqs3G7acO-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MRKOds_FqHYPqs3G7acO-38" target="MRKOds_FqHYPqs3G7acO-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MRKOds_FqHYPqs3G7acO-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="MRKOds_FqHYPqs3G7acO-38" target="MRKOds_FqHYPqs3G7acO-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MRKOds_FqHYPqs3G7acO-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="MRKOds_FqHYPqs3G7acO-38" target="MRKOds_FqHYPqs3G7acO-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MRKOds_FqHYPqs3G7acO-38" value="CacheBuilder Scripts" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MRKOds_FqHYPqs3G7acO-39" value="GlobalCache" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="570" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MRKOds_FqHYPqs3G7acO-40" value="ShipMethodCache_NA" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="655" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MRKOds_FqHYPqs3G7acO-41" value="ShipMethodCache_EU" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="740" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
