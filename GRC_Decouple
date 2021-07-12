@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-12T18:09:38.848Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Sao5pAqhA6DMdOOmJxJX" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-12T18:14:42.914Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="PcMhhhJ0qTamW7zkBG4e" version="14.8.4" type="github">
   <diagram id="CO1CmgJi0zSOsjsf4une" name="Page-1">
     <mxGraphModel dx="2101" dy="1806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -11,6 +11,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MRKOds_FqHYPqs3G7acO-150" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=1;strokeColor=#009900;" edge="1" parent="1" source="MRKOds_FqHYPqs3G7acO-109" target="MRKOds_FqHYPqs3G7acO-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MRKOds_FqHYPqs3G7acO-159" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=1;strokeColor=#009999;" edge="1" parent="1" source="MRKOds_FqHYPqs3G7acO-109" target="MRKOds_FqHYPqs3G7acO-156">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MRKOds_FqHYPqs3G7acO-109" value="DB" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
@@ -79,11 +82,26 @@
         <mxCell id="MRKOds_FqHYPqs3G7acO-156" value="ATROPSBuildWorkflow/NA" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;strokeColor=#FF8000;" vertex="1" parent="1">
           <mxGeometry x="300" y="340" width="60" height="63.5" as="geometry" />
         </mxCell>
-        <mxCell id="MRKOds_FqHYPqs3G7acO-157" value="week2 ShipMethod BDB schema" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009900;" vertex="1" parent="1">
+        <mxCell id="MRKOds_FqHYPqs3G7acO-161" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;strokeColor=#009999;" edge="1" parent="1" source="MRKOds_FqHYPqs3G7acO-157" target="MRKOds_FqHYPqs3G7acO-160">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MRKOds_FqHYPqs3G7acO-157" value="week1 ShipMethod BDB schema" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009999;" vertex="1" parent="1">
           <mxGeometry x="345" y="371.75" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MRKOds_FqHYPqs3G7acO-158" value="week2 GL BDB schema" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009900;" vertex="1" parent="1">
+        <mxCell id="MRKOds_FqHYPqs3G7acO-158" value="week1 GL BDB schema" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009999;" vertex="1" parent="1">
           <mxGeometry x="345" y="341.75" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MRKOds_FqHYPqs3G7acO-160" value="ShipMethodCache_NA" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeColor=#009999;" vertex="1" parent="1">
+          <mxGeometry x="665" y="361.75" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MRKOds_FqHYPqs3G7acO-164" value="ATROPSService/NA" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;strokeColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="970" y="258.25" width="60" height="63.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MRKOds_FqHYPqs3G7acO-165" value="week1 ShipMethod BDB schema" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009999;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="290" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MRKOds_FqHYPqs3G7acO-166" value="week1 GL BDB schema" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009999;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="260" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
