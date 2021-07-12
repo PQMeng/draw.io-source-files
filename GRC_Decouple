@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-12T20:30:53.221Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="mpe6UGJ3bhjm-F2-EPD8" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-12T20:30:55.289Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="WiVwL-F-1-_DiNruRSgt" version="14.8.4" type="github">
   <diagram id="CO1CmgJi0zSOsjsf4une" name="Page-1">
     <mxGraphModel dx="2341" dy="1806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -116,9 +116,6 @@
           <mxGeometry x="-0.0448" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="MRKOds_FqHYPqs3G7acO-172" value="Can we separate build and read for Schema changes" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="1630" y="260" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="MRKOds_FqHYPqs3G7acO-181" value="case1: No GL and ShipMethod schema changes.&lt;br&gt;&lt;font color=&quot;#006600&quot;&gt;&lt;b&gt;Start service successfully.&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#009900;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1250" y="-176.5" width="280" height="60" as="geometry" />
