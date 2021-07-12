@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-12T19:39:49.868Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="JhGbTWxB7Hc18h4UW91M" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-12T19:41:06.186Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="HeE8hmqxPyliePk2GEaL" version="14.8.4" type="github">
   <diagram id="CO1CmgJi0zSOsjsf4une" name="Page-1">
     <mxGraphModel dx="2341" dy="1806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -61,7 +61,7 @@
         <mxCell id="MRKOds_FqHYPqs3G7acO-148" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#CC0000;strokeWidth=1;" edge="1" parent="1" source="MRKOds_FqHYPqs3G7acO-147" target="MRKOds_FqHYPqs3G7acO-142">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MRKOds_FqHYPqs3G7acO-147" value="&amp;nbsp;week1 coupled BDB schema" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#CC0000;" vertex="1" parent="1">
+        <mxCell id="MRKOds_FqHYPqs3G7acO-147" value="&amp;nbsp;week1 VFI (coupled schema)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#CC0000;" vertex="1" parent="1">
           <mxGeometry x="1020" y="-80" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MRKOds_FqHYPqs3G7acO-149" value="ATROPSBuildWorkflow/Prod" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;strokeColor=#FF8000;" vertex="1" parent="1">
