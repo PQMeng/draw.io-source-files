@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-12T19:43:33.241Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="K2UYLiLfM94Jax41h-iV" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-12T20:17:59.426Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="gm9XQ6IZ4RGM_y4wIprJ" version="14.8.4" type="github">
   <diagram id="CO1CmgJi0zSOsjsf4une" name="Page-1">
     <mxGraphModel dx="2341" dy="1806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -52,13 +52,16 @@
         <mxCell id="MRKOds_FqHYPqs3G7acO-135" value="ATROPSService/NA" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;strokeColor=#FF8000;" vertex="1" parent="1">
           <mxGeometry x="970" y="-88.25" width="60" height="63.5" as="geometry" />
         </mxCell>
-        <mxCell id="MRKOds_FqHYPqs3G7acO-142" value="Fail to start" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CC0000;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="-69.5" width="80" height="29" as="geometry" />
+        <mxCell id="MRKOds_FqHYPqs3G7acO-185" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="MRKOds_FqHYPqs3G7acO-147" target="MRKOds_FqHYPqs3G7acO-181">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MRKOds_FqHYPqs3G7acO-144" value="GlobalCache mismatches the week1 couple BDB schema.&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="-100" width="220" height="90" as="geometry" />
+        <mxCell id="MRKOds_FqHYPqs3G7acO-186" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="MRKOds_FqHYPqs3G7acO-147" target="MRKOds_FqHYPqs3G7acO-182">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MRKOds_FqHYPqs3G7acO-148" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#CC0000;strokeWidth=1;" edge="1" parent="1" source="MRKOds_FqHYPqs3G7acO-147" target="MRKOds_FqHYPqs3G7acO-142">
+        <mxCell id="MRKOds_FqHYPqs3G7acO-187" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="MRKOds_FqHYPqs3G7acO-147" target="MRKOds_FqHYPqs3G7acO-183">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MRKOds_FqHYPqs3G7acO-188" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="MRKOds_FqHYPqs3G7acO-147" target="MRKOds_FqHYPqs3G7acO-184">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MRKOds_FqHYPqs3G7acO-147" value="&amp;nbsp;week1 VFI (coupled schema)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#CC0000;" vertex="1" parent="1">
@@ -73,7 +76,7 @@
         <mxCell id="MRKOds_FqHYPqs3G7acO-152" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;strokeColor=#009900;" edge="1" parent="1" source="MRKOds_FqHYPqs3G7acO-112" target="MRKOds_FqHYPqs3G7acO-151">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MRKOds_FqHYPqs3G7acO-112" value="week2 VFI (GL schema)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009900;" vertex="1" parent="1">
+        <mxCell id="MRKOds_FqHYPqs3G7acO-112" value="week2 VFI (GRC schema)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009900;" vertex="1" parent="1">
           <mxGeometry x="345" y="218.25" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MRKOds_FqHYPqs3G7acO-151" value="GlobalCache" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeColor=#009900;" vertex="1" parent="1">
@@ -140,6 +143,18 @@
         </mxCell>
         <mxCell id="MRKOds_FqHYPqs3G7acO-179" value="week2 GL BDB schema" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009900;" vertex="1" parent="1">
           <mxGeometry x="1015" y="401.75" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MRKOds_FqHYPqs3G7acO-181" value="case1: No GL and ShipMethod schema changes.&lt;br&gt;&lt;font color=&quot;#006600&quot;&gt;&lt;b&gt;Start service successfully.&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#009900;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="-176.5" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MRKOds_FqHYPqs3G7acO-182" value="case2: Both GL and ShipMethod schema changes.&lt;br&gt;&lt;font color=&quot;#990000&quot;&gt;&lt;b&gt;Fail to start service.&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#990000;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="-116.5" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MRKOds_FqHYPqs3G7acO-183" value="case3:Only GL schema changes, and ShipMethod schema remains unchanged.&lt;br&gt;&lt;font color=&quot;#990000&quot;&gt;&lt;b&gt;Fail to start service.&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#990000;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="-56.5" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MRKOds_FqHYPqs3G7acO-184" value="case4:Only ShipMethod schema changes, and GL schema remains unchanged.&lt;br&gt;&lt;b style=&quot;color: rgb(0 , 102 , 0)&quot;&gt;Start service successfully.&amp;nbsp;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="3.5" width="280" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
