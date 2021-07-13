@@ -1,1 +1,84 @@
-<mxfile host="app.diagrams.net" modified="2021-07-13T00:34:12.085Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" version="14.8.4" etag="BRsMt8SfiXgO6DTRhJZx" type="github"><diagram id="gJcDZCvFUXOBtMn4H--X">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-13T00:34:31.771Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="7NJU4OyqFlGibN-R-oHS" version="14.8.4" type="github">
+  <diagram id="gJcDZCvFUXOBtMn4H--X" name="Page-1">
+    <mxGraphModel dx="1251" dy="1806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uI_G6kyiZ468D8-eZDKn-2" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="305" y="-850" width="520" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="uI_G6kyiZ468D8-eZDKn-3" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 10px ; text-align: left&quot;&gt;&lt;b&gt;Same EntityModel&lt;/b&gt;&lt;/p&gt;" style="html=1;strokeWidth=1;shape=mxgraph.sysml.package;html=1;overflow=fill;whiteSpace=wrap;fillColor=#FFFFFF;" vertex="1" parent="uI_G6kyiZ468D8-eZDKn-2">
+          <mxGeometry width="520" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="uI_G6kyiZ468D8-eZDKn-4" value="Jurisdictions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF6666;" vertex="1" parent="uI_G6kyiZ468D8-eZDKn-2">
+          <mxGeometry x="100" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uI_G6kyiZ468D8-eZDKn-5" value="ShipMethods Cache: other config elements&#39; BDB schema" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FF6666;" vertex="1" parent="uI_G6kyiZ468D8-eZDKn-2">
+          <mxGeometry x="40" y="150" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uI_G6kyiZ468D8-eZDKn-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="uI_G6kyiZ468D8-eZDKn-2" source="uI_G6kyiZ468D8-eZDKn-4" target="uI_G6kyiZ468D8-eZDKn-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uI_G6kyiZ468D8-eZDKn-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1;" edge="1" parent="uI_G6kyiZ468D8-eZDKn-2" source="uI_G6kyiZ468D8-eZDKn-8" target="uI_G6kyiZ468D8-eZDKn-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uI_G6kyiZ468D8-eZDKn-8" value="GeocodePolygons" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FF6666;" vertex="1" parent="uI_G6kyiZ468D8-eZDKn-2">
+          <mxGeometry x="270" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uI_G6kyiZ468D8-eZDKn-9" value="GL Cache:&amp;nbsp;UncertainDeliveryDate&#39;s&lt;br&gt;BDB schema" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="uI_G6kyiZ468D8-eZDKn-2">
+          <mxGeometry x="290" y="150" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uI_G6kyiZ468D8-eZDKn-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1;" edge="1" parent="uI_G6kyiZ468D8-eZDKn-2" source="uI_G6kyiZ468D8-eZDKn-4" target="uI_G6kyiZ468D8-eZDKn-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uI_G6kyiZ468D8-eZDKn-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1;" edge="1" parent="uI_G6kyiZ468D8-eZDKn-2" source="uI_G6kyiZ468D8-eZDKn-8" target="uI_G6kyiZ468D8-eZDKn-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uI_G6kyiZ468D8-eZDKn-12" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="940" y="-850" width="520" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="uI_G6kyiZ468D8-eZDKn-13" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 10px ; text-align: left&quot;&gt;&lt;b&gt;ShipMethod EntityModel&lt;/b&gt;&lt;/p&gt;" style="html=1;strokeWidth=1;shape=mxgraph.sysml.package;html=1;overflow=fill;whiteSpace=wrap;fillColor=#FFFFFF;" vertex="1" parent="uI_G6kyiZ468D8-eZDKn-12">
+          <mxGeometry width="520" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="uI_G6kyiZ468D8-eZDKn-14" value="Jurisdictions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF6666;" vertex="1" parent="uI_G6kyiZ468D8-eZDKn-12">
+          <mxGeometry x="120" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uI_G6kyiZ468D8-eZDKn-15" value="GeocodePolygons" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FF6666;" vertex="1" parent="uI_G6kyiZ468D8-eZDKn-12">
+          <mxGeometry x="290" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uI_G6kyiZ468D8-eZDKn-16" value="ShipMethods Cache: other config elements&#39; BDB schema" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FF6666;" vertex="1" parent="uI_G6kyiZ468D8-eZDKn-12">
+          <mxGeometry x="190" y="150" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uI_G6kyiZ468D8-eZDKn-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1;" edge="1" parent="uI_G6kyiZ468D8-eZDKn-12" source="uI_G6kyiZ468D8-eZDKn-14" target="uI_G6kyiZ468D8-eZDKn-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uI_G6kyiZ468D8-eZDKn-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1;" edge="1" parent="uI_G6kyiZ468D8-eZDKn-12" source="uI_G6kyiZ468D8-eZDKn-15" target="uI_G6kyiZ468D8-eZDKn-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uI_G6kyiZ468D8-eZDKn-19" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1470" y="-850" width="520" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="uI_G6kyiZ468D8-eZDKn-20" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 10px ; text-align: left&quot;&gt;&lt;b&gt;Global Cache EntityModel&lt;/b&gt;&lt;/p&gt;" style="html=1;strokeWidth=1;shape=mxgraph.sysml.package;html=1;overflow=fill;whiteSpace=wrap;fillColor=#FFFFFF;" vertex="1" parent="uI_G6kyiZ468D8-eZDKn-19">
+          <mxGeometry width="520" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="uI_G6kyiZ468D8-eZDKn-21" value="Jurisdictions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="uI_G6kyiZ468D8-eZDKn-19">
+          <mxGeometry x="110" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uI_G6kyiZ468D8-eZDKn-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;strokeWidth=1;" edge="1" parent="uI_G6kyiZ468D8-eZDKn-19" source="uI_G6kyiZ468D8-eZDKn-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uI_G6kyiZ468D8-eZDKn-23" value="GeocodePolygons" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="uI_G6kyiZ468D8-eZDKn-19">
+          <mxGeometry x="280" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uI_G6kyiZ468D8-eZDKn-24" value="GL Cache:&amp;nbsp;UncertainDeliveryDate&#39;s&lt;br&gt;BDB schema" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="uI_G6kyiZ468D8-eZDKn-19">
+          <mxGeometry x="160" y="150" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uI_G6kyiZ468D8-eZDKn-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1;" edge="1" parent="uI_G6kyiZ468D8-eZDKn-19" source="uI_G6kyiZ468D8-eZDKn-21" target="uI_G6kyiZ468D8-eZDKn-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
