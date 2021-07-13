@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-13T00:01:53.903Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="sh95VQreJ-0K-PR6o5m4" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-13T00:02:48.003Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="eHkEoAbD9J8pUtMEHXtl" version="14.8.4" type="github">
   <diagram id="CO1CmgJi0zSOsjsf4une" name="Page-1">
     <mxGraphModel dx="2093" dy="1688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -126,10 +126,10 @@
         <mxCell id="MRKOds_FqHYPqs3G7acO-182" value="case2: Both GL and ShipMethod schema changes.&lt;br&gt;&lt;font color=&quot;#990000&quot;&gt;&lt;b&gt;Fail to start service.&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#990000;" vertex="1" parent="1">
           <mxGeometry x="1250" y="-116.5" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MRKOds_FqHYPqs3G7acO-183" value="case3:Only GL schema changes, and ShipMethod schema remains unchanged.&lt;br&gt;&lt;font color=&quot;#990000&quot;&gt;&lt;b&gt;Fail to start service.&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#990000;" vertex="1" parent="1">
+        <mxCell id="MRKOds_FqHYPqs3G7acO-183" value="case3: Only GL schema changes, and ShipMethod schema remains unchanged.&lt;br&gt;&lt;font color=&quot;#990000&quot;&gt;&lt;b&gt;Fail to start service.&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#990000;" vertex="1" parent="1">
           <mxGeometry x="1250" y="-56.5" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MRKOds_FqHYPqs3G7acO-184" value="case4:Only ShipMethod schema changes, and GL schema remains unchanged.&lt;br&gt;&lt;b style=&quot;color: rgb(153 , 0 , 0)&quot;&gt;Fail to start service.&amp;nbsp;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#990000;" vertex="1" parent="1">
+        <mxCell id="MRKOds_FqHYPqs3G7acO-184" value="case4: Only ShipMethod schema changes, and GL schema remains unchanged.&lt;br&gt;&lt;b style=&quot;color: rgb(153 , 0 , 0)&quot;&gt;Fail to start service.&amp;nbsp;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#990000;" vertex="1" parent="1">
           <mxGeometry x="1250" y="3.5" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MRKOds_FqHYPqs3G7acO-189" value="case1: No GL and ShipMethod schema changes.&lt;br&gt;&lt;font color=&quot;#006600&quot;&gt;&lt;b&gt;Start service successfully.&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#009900;fillColor=#FFFFFF;" vertex="1" parent="1">
