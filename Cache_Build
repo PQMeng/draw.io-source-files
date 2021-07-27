@@ -1,18 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2021-07-27T20:00:07.168Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="BcljUodWHnLtxMlu7OiF" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-27T22:11:38.171Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="Aia3NwGg5KPBCmO-2jKV" version="14.9.0" type="github">
   <diagram id="6b6vQ7TOE7NBGPxKaMHb" name="Page-1">
     <mxGraphModel dx="3483" dy="1033" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Z9tPe55R5jE07HidC-r--1" value="cacheBuilder: CacheBuilder" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#FF9933;" vertex="1" parent="1">
-          <mxGeometry x="220" y="210" width="180" height="690" as="geometry" />
+          <mxGeometry x="220" y="210" width="180" height="820" as="geometry" />
         </mxCell>
         <mxCell id="Z9tPe55R5jE07HidC-r--5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#FF9933;" vertex="1" parent="Z9tPe55R5jE07HidC-r--1">
-          <mxGeometry x="85" y="100" width="10" height="240" as="geometry" />
+          <mxGeometry x="85" y="100" width="10" height="540" as="geometry" />
         </mxCell>
         <mxCell id="Z9tPe55R5jE07HidC-r--7" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" edge="1" source="Z9tPe55R5jE07HidC-r--5" parent="Z9tPe55R5jE07HidC-r--1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-10" y="328" as="targetPoint" />
+            <mxPoint x="-120" y="613" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Z9tPe55R5jE07HidC-r--10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#FF9933;" vertex="1" parent="Z9tPe55R5jE07HidC-r--1">
@@ -44,15 +44,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z9tPe55R5jE07HidC-r--18" value="interface: Translator" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#FF9933;" vertex="1" parent="1">
-          <mxGeometry x="530" y="210" width="150" height="300" as="geometry" />
+          <mxGeometry x="530" y="210" width="150" height="290" as="geometry" />
         </mxCell>
         <mxCell id="Z9tPe55R5jE07HidC-r--19" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#FF9933;" vertex="1" parent="Z9tPe55R5jE07HidC-r--18">
           <mxGeometry x="70" y="180" width="10" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Z9tPe55R5jE07HidC-r--21" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" edge="1" source="Z9tPe55R5jE07HidC-r--19" parent="Z9tPe55R5jE07HidC-r--18">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint y="256" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="Z9tPe55R5jE07HidC-r--20" value="getTranslator()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;exitX=1.045;exitY=0.315;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="Z9tPe55R5jE07HidC-r--19" parent="1" source="Z9tPe55R5jE07HidC-r--10">
           <mxGeometry relative="1" as="geometry">
@@ -61,6 +56,14 @@
         </mxCell>
         <mxCell id="Z9tPe55R5jE07HidC-r--22" value="ATROPSCacheBuilder&lt;br&gt;&lt;a href=&quot;https://code.amazon.com/packages/ATROPSCacheBuilder/blobs/e500e5a60567c01d9c27fd15255f234dd60a9e9c/--/spring-configuration/application/cache-builder-config.xml#L44&quot;&gt;cacheBuilder&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF9933;" vertex="1" parent="1">
           <mxGeometry x="-50" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9tPe55R5jE07HidC-r--21" value="return list&amp;lt;translator&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" edge="1" source="Z9tPe55R5jE07HidC-r--19" parent="1" target="Z9tPe55R5jE07HidC-r--10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="466" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z9tPe55R5jE07HidC-r--26" value="" style="shape=umlDestroy;fillColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="590" y="480" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
