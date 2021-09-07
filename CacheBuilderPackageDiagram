@@ -1,30 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2021-09-07T20:21:25.983Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="zWqidfHfh1KZdbuFpebA" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-07T20:33:58.828Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="4ySvUBFRlTMI2r-wuhYn" version="14.9.2" type="github">
   <diagram id="PKE6tHHLZsaofrBSjWWj" name="Page-1">
     <mxGraphModel dx="2101" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TzpUPDRWCfEyTAOfA50x-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TzpUPDRWCfEyTAOfA50x-1" target="TzpUPDRWCfEyTAOfA50x-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="TzpUPDRWCfEyTAOfA50x-1" value="&lt;span style=&quot;font-weight: 400&quot;&gt;ATROPSCacheBuilder-2.0&lt;/span&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fillColor=#7BCEF5;" vertex="1" parent="1">
-          <mxGeometry x="90" y="240" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="TzpUPDRWCfEyTAOfA50x-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TzpUPDRWCfEyTAOfA50x-9" target="TzpUPDRWCfEyTAOfA50x-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="TzpUPDRWCfEyTAOfA50x-9" value="&lt;span style=&quot;font-weight: 400&quot;&gt;ATROPSDBJavaClient-1.0&lt;/span&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fillColor=#7BCEF5;" vertex="1" parent="1">
-          <mxGeometry x="320" y="410" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="TzpUPDRWCfEyTAOfA50x-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TzpUPDRWCfEyTAOfA50x-10" target="TzpUPDRWCfEyTAOfA50x-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="TzpUPDRWCfEyTAOfA50x-10" value="&lt;span style=&quot;font-weight: 400&quot;&gt;ATROPSCacheBuilderScripts-1.0&lt;/span&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fillColor=#7BCEF5;" vertex="1" parent="1">
-          <mxGeometry x="70" y="50" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="TzpUPDRWCfEyTAOfA50x-17" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Sleepycat-4.8&lt;/span&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fillColor=#7BCEF5;" vertex="1" parent="1">
-          <mxGeometry x="320" y="550" width="160" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="TzpUPDRWCfEyTAOfA50x-21" value="&lt;span style=&quot;font-weight: 400&quot;&gt;ATROPSCore-1.0&lt;/span&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fillColor=#7BCEF5;" vertex="1" parent="1">
           <mxGeometry x="-250" y="220" width="160" height="80" as="geometry" />
         </mxCell>
@@ -34,8 +13,8 @@
         <mxCell id="TzpUPDRWCfEyTAOfA50x-22" value="&lt;span style=&quot;font-weight: 400&quot;&gt;ATROPSService-2.0&lt;/span&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fillColor=#7BCEF5;" vertex="1" parent="1">
           <mxGeometry x="-190" y="80" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TzpUPDRWCfEyTAOfA50x-32" value="Persistent Layer" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;fillColor=#7BCEF5;" vertex="1" parent="1">
-          <mxGeometry x="-250" y="640" width="1000" height="290" as="geometry" />
+        <mxCell id="TzpUPDRWCfEyTAOfA50x-32" value="Data Access Layer" style="shape=folder;fontStyle=1;tabWidth=130;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;fillColor=#7BCEF5;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="840" width="1000" height="290" as="geometry" />
         </mxCell>
         <mxCell id="TzpUPDRWCfEyTAOfA50x-36" value="&lt;span style=&quot;font-weight: 400&quot;&gt;ATROPSDataProtocol-1.0&lt;/span&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fillColor=#7BCEF5;" vertex="1" parent="TzpUPDRWCfEyTAOfA50x-32">
           <mxGeometry x="180" y="170" width="160" height="60" as="geometry" />
@@ -43,7 +22,7 @@
         <mxCell id="TzpUPDRWCfEyTAOfA50x-34" value="&lt;span style=&quot;font-weight: 400&quot;&gt;ATROPSCacheLib-1.0&lt;/span&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fillColor=#7BCEF5;" vertex="1" parent="TzpUPDRWCfEyTAOfA50x-32">
           <mxGeometry x="30" y="170" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TzpUPDRWCfEyTAOfA50x-14" value="&lt;span style=&quot;font-weight: 400&quot;&gt;ATROPSDataAccess-2.0&lt;br&gt;&lt;br&gt;&amp;lt;&amp;lt;import&amp;gt;&amp;gt; below packages&lt;br&gt;&lt;/span&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fillColor=#7BCEF5;" vertex="1" parent="TzpUPDRWCfEyTAOfA50x-32">
+        <mxCell id="TzpUPDRWCfEyTAOfA50x-14" value="&lt;span style=&quot;font-weight: 400&quot;&gt;ATROPSDataAccess-2.0&lt;br&gt;&lt;br&gt;&amp;lt;&amp;lt;import&amp;gt;&amp;gt; all below packages&lt;br&gt;&lt;/span&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fillColor=#7BCEF5;" vertex="1" parent="TzpUPDRWCfEyTAOfA50x-32">
           <mxGeometry x="420" y="50" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TzpUPDRWCfEyTAOfA50x-37" value="&lt;span style=&quot;font-weight: 400&quot;&gt;ATROPSSchemaTypes-1.0&lt;/span&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fillColor=#7BCEF5;" vertex="1" parent="TzpUPDRWCfEyTAOfA50x-32">
@@ -57,6 +36,36 @@
         </mxCell>
         <mxCell id="TzpUPDRWCfEyTAOfA50x-40" value="&lt;span style=&quot;font-weight: 400&quot;&gt;...&lt;/span&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fillColor=#7BCEF5;" vertex="1" parent="TzpUPDRWCfEyTAOfA50x-32">
           <mxGeometry x="920" y="170" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TzpUPDRWCfEyTAOfA50x-53" value="Business Logic Layer" style="shape=folder;fontStyle=1;tabWidth=150;tabHeight=35;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;fillColor=#7BCEF5;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="390" width="520" height="375" as="geometry" />
+        </mxCell>
+        <mxCell id="TzpUPDRWCfEyTAOfA50x-10" value="&lt;span style=&quot;font-weight: 400&quot;&gt;ATROPSCacheBuilderScripts-1.0&lt;/span&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fillColor=#7BCEF5;" vertex="1" parent="TzpUPDRWCfEyTAOfA50x-53">
+          <mxGeometry x="260" y="60" width="200" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="TzpUPDRWCfEyTAOfA50x-1" value="&lt;span style=&quot;font-weight: 400&quot;&gt;ATROPSCacheBuilder-2.0&lt;/span&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fillColor=#7BCEF5;" vertex="1" parent="TzpUPDRWCfEyTAOfA50x-53">
+          <mxGeometry x="280" y="170" width="160" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="TzpUPDRWCfEyTAOfA50x-9" value="&lt;span style=&quot;font-weight: 400&quot;&gt;ATROPSDBJavaClient-1.0&lt;/span&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fillColor=#7BCEF5;" vertex="1" parent="TzpUPDRWCfEyTAOfA50x-53">
+          <mxGeometry x="40" y="280" width="160" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="TzpUPDRWCfEyTAOfA50x-57" value="&amp;lt;&amp;lt;import&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;endSize=12;dashed=1;verticalAlign=bottom;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="TzpUPDRWCfEyTAOfA50x-53" source="TzpUPDRWCfEyTAOfA50x-10" target="TzpUPDRWCfEyTAOfA50x-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="360" y="260" as="sourcePoint" />
+            <mxPoint x="520" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TzpUPDRWCfEyTAOfA50x-58" value="&amp;lt;&amp;lt;import&amp;gt;&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=open;endSize=12;dashed=1;verticalAlign=bottom;exitX=0.25;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="TzpUPDRWCfEyTAOfA50x-53" source="TzpUPDRWCfEyTAOfA50x-1" target="TzpUPDRWCfEyTAOfA50x-9">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="360" y="260" as="sourcePoint" />
+            <mxPoint x="520" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TzpUPDRWCfEyTAOfA50x-60" value="&amp;lt;&amp;lt;import&amp;gt;&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=open;endSize=12;dashed=1;verticalAlign=bottom;exitX=0.75;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TzpUPDRWCfEyTAOfA50x-1" target="TzpUPDRWCfEyTAOfA50x-32">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="120" y="720" as="sourcePoint" />
+            <mxPoint x="280" y="720" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
