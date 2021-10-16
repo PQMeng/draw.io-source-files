@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-16T00:19:08.058Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="SN6Dr6Kmg64NJcdJBYC9" version="15.5.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-10-16T00:25:12.356Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="d6UqmzCZjc2H-1ipW5nM" version="15.5.2" type="github" pages="3">
   <diagram id="gkKH7EHTHBYfu8b1wmAU" name="workflow">
     <mxGraphModel dx="2550" dy="2133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -212,7 +212,7 @@
         <mxCell id="N3lcKhBhepuKfgjFvx4F-49" value="&lt;ul&gt;&lt;li&gt;ArtooFilter&lt;/li&gt;&lt;li&gt;ComplianceFilter&lt;/li&gt;&lt;li&gt;PostalCodeExclusiveFilter&lt;/li&gt;&lt;li&gt;RequiredCarrierFilter&lt;/li&gt;&lt;li&gt;LabelConstraintBasedFilter&lt;/li&gt;&lt;li&gt;DDSExcludedLineHaulMethodFilter*&lt;/li&gt;&lt;li&gt;AgeVerifiedMethodsFilter*&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="N3lcKhBhepuKfgjFvx4F-26">
           <mxGeometry x="360" y="120" width="320" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="N3lcKhBhepuKfgjFvx4F-51" value="&lt;ul&gt;&lt;li&gt;Density Pricing Methods*&lt;/li&gt;&lt;li&gt;DDS Late Mile Method&lt;/li&gt;&lt;li&gt;Palletization Mile Method Attribute*&lt;/li&gt;&lt;li&gt;...&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="N3lcKhBhepuKfgjFvx4F-26">
+        <mxCell id="N3lcKhBhepuKfgjFvx4F-51" value="&lt;ul&gt;&lt;li&gt;Density Pricing Methods*&lt;/li&gt;&lt;li&gt;DDS Late Mile Method*&lt;/li&gt;&lt;li&gt;Palletization Mile Method Attribute*&lt;/li&gt;&lt;li&gt;...&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="N3lcKhBhepuKfgjFvx4F-26">
           <mxGeometry x="50" y="120" width="320" height="140" as="geometry" />
         </mxCell>
         <mxCell id="N3lcKhBhepuKfgjFvx4F-53" value="" style="group" vertex="1" connectable="0" parent="N3lcKhBhepuKfgjFvx4F-26">
@@ -238,6 +238,9 @@
         </mxCell>
         <mxCell id="N3lcKhBhepuKfgjFvx4F-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;" edge="1" parent="N3lcKhBhepuKfgjFvx4F-1" source="N3lcKhBhepuKfgjFvx4F-19" target="N3lcKhBhepuKfgjFvx4F-16">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N3lcKhBhepuKfgjFvx4F-54" value="Load Compliance-SMGs into the DAO Layer" style="shape=folder;fontStyle=1;tabWidth=360;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;fontSize=16;align=left;" vertex="1" parent="N3lcKhBhepuKfgjFvx4F-1">
+          <mxGeometry x="-360" y="1050" width="520" height="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
