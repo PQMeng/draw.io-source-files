@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-18T18:11:29.737Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="6WTMe0reutQvcT_IJYDw" version="15.5.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-10-18T18:15:52.779Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="mPhv8BuRC19A3oxKKuG4" version="15.5.2" type="github" pages="3">
   <diagram id="gkKH7EHTHBYfu8b1wmAU" name="workflow">
     <mxGraphModel dx="2550" dy="2133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -290,6 +290,18 @@
         </mxCell>
         <mxCell id="N3lcKhBhepuKfgjFvx4F-84" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;compliance-SMGs:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left ; font-size: 16px&quot;&gt;&lt;b&gt;Map&amp;lt;String, Set&amp;lt;String&amp;gt;&amp;gt; shipMethodGroupsMap&lt;/b&gt;&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=16;align=center;fontStyle=0;strokeColor=#000000;strokeWidth=1;fillColor=#FFFFFF;" vertex="1" parent="N3lcKhBhepuKfgjFvx4F-1">
           <mxGeometry x="-70" y="590" width="410" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N3lcKhBhepuKfgjFvx4F-90" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;fontColor=#000000;strokeColor=#000000;strokeWidth=1;" edge="1" parent="N3lcKhBhepuKfgjFvx4F-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-510" y="770" as="sourcePoint" />
+            <mxPoint x="-420" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N3lcKhBhepuKfgjFvx4F-92" value=": data flow" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontColor=#000000;" vertex="1" parent="N3lcKhBhepuKfgjFvx4F-1">
+          <mxGeometry x="-410" y="760" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N3lcKhBhepuKfgjFvx4F-93" value="Color: &lt;font color=&quot;#cc0000&quot;&gt;removed&lt;/font&gt;, &lt;font color=&quot;#ff9933&quot;&gt;modified&lt;/font&gt;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontColor=#000000;" vertex="1" parent="N3lcKhBhepuKfgjFvx4F-1">
+          <mxGeometry x="-520" y="790" width="200" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
