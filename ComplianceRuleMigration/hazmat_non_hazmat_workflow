@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-18T18:15:52.779Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="mPhv8BuRC19A3oxKKuG4" version="15.5.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-10-18T18:18:43.957Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="y_3pKhxMZCEUBDf3c4mh" version="15.5.2" type="github" pages="3">
   <diagram id="gkKH7EHTHBYfu8b1wmAU" name="workflow">
     <mxGraphModel dx="2550" dy="2133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -133,7 +133,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QzoixUkgETgFyy2vWQWj" name="load_compliance-SMGs">
-    <mxGraphModel dx="3400" dy="2133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3400" dy="2081" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="N3lcKhBhepuKfgjFvx4F-0" />
         <mxCell id="N3lcKhBhepuKfgjFvx4F-1" parent="N3lcKhBhepuKfgjFvx4F-0" />
@@ -258,7 +258,7 @@
             <mxPoint x="49" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N3lcKhBhepuKfgjFvx4F-62" value="ATROPSDataAcess" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=center;fontSize=16;fontStyle=0" vertex="1" parent="N3lcKhBhepuKfgjFvx4F-1">
+        <mxCell id="N3lcKhBhepuKfgjFvx4F-62" value="ATROPSSharedConfig" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=center;fontSize=16;fontStyle=0" vertex="1" parent="N3lcKhBhepuKfgjFvx4F-1">
           <mxGeometry x="-460" y="380" width="190" height="160" as="geometry" />
         </mxCell>
         <mxCell id="N3lcKhBhepuKfgjFvx4F-66" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=16;fontStyle=0" edge="1" parent="N3lcKhBhepuKfgjFvx4F-1" source="N3lcKhBhepuKfgjFvx4F-65" target="N3lcKhBhepuKfgjFvx4F-6">
