@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T18:23:20.866Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="HnRjk4uNVA4KFu_i7rD2" version="15.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-19T20:58:02.666Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="k7We3tG-r1BwvxfPaIsl" version="15.5.6" type="github">
   <diagram id="8ZNGOfB-LTewQiJ2Abxq" name="Page-1">
-    <mxGraphModel dx="2101" dy="1806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3483" dy="2133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="LHm-rxTjngVOpBgrASH2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF9933;strokeWidth=2;" edge="1" parent="1" source="Hebz3siZc5bVMP110JqZ-2" target="Hebz3siZc5bVMP110JqZ-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hebz3siZc5bVMP110JqZ-2" value="Alpha-ProdCache-newVFI&lt;br&gt;ATROPSService" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF9933;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="Hebz3siZc5bVMP110JqZ-2" value="Alpha-AlphaCache-newVFI&lt;br&gt;ATROPSService" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF9933;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="360" y="90" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LHm-rxTjngVOpBgrASH2-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF9933;strokeWidth=2;" edge="1" parent="1" source="Hebz3siZc5bVMP110JqZ-3" target="LHm-rxTjngVOpBgrASH2-53">
+        <mxCell id="LHm-rxTjngVOpBgrASH2-73" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF9933;strokeWidth=2;" edge="1" parent="1" source="Hebz3siZc5bVMP110JqZ-3" target="LHm-rxTjngVOpBgrASH2-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hebz3siZc5bVMP110JqZ-3" value="RegTest-ProdCache-newVFI&lt;br&gt;ATROPSService" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF9933;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="622.4" y="90" width="170" height="40" as="geometry" />
+        <mxCell id="Hebz3siZc5bVMP110JqZ-3" value="RegTest-&lt;span style=&quot;text-align: left&quot;&gt;RegTestCache&lt;/span&gt;-newVFI&lt;br&gt;ATROPSService" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF9933;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="600" y="90" width="192.4" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LHm-rxTjngVOpBgrASH2-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#006600;strokeWidth=2;" edge="1" parent="1" source="Hebz3siZc5bVMP110JqZ-9" target="LHm-rxTjngVOpBgrASH2-17">
           <mxGeometry relative="1" as="geometry">
@@ -32,7 +32,7 @@
         <mxCell id="LHm-rxTjngVOpBgrASH2-1" value="Gamma&lt;br&gt;ATROPSService" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#006600;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="360" y="338.5" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LHm-rxTjngVOpBgrASH2-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#006600;strokeWidth=2;" edge="1" parent="1" source="LHm-rxTjngVOpBgrASH2-2" target="LHm-rxTjngVOpBgrASH2-19">
+        <mxCell id="LHm-rxTjngVOpBgrASH2-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#006600;strokeWidth=2;startArrow=none;" edge="1" parent="1" source="LHm-rxTjngVOpBgrASH2-71" target="LHm-rxTjngVOpBgrASH2-19">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="950" y="358.5" as="targetPoint" />
           </mxGeometry>
@@ -40,7 +40,10 @@
         <mxCell id="LHm-rxTjngVOpBgrASH2-2" value="Prod&lt;br&gt;ATROPSService" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#006600;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="602.4" y="333.5" width="210" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LHm-rxTjngVOpBgrASH2-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF9933;strokeWidth=2;" edge="1" parent="1" source="LHm-rxTjngVOpBgrASH2-14" target="Hebz3siZc5bVMP110JqZ-2">
+        <mxCell id="LHm-rxTjngVOpBgrASH2-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF9933;strokeWidth=2;curved=1;" edge="1" parent="1" source="LHm-rxTjngVOpBgrASH2-14" target="Hebz3siZc5bVMP110JqZ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LHm-rxTjngVOpBgrASH2-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF9933;strokeWidth=2;curved=1;" edge="1" parent="1" source="LHm-rxTjngVOpBgrASH2-14" target="LHm-rxTjngVOpBgrASH2-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LHm-rxTjngVOpBgrASH2-14" value="&lt;span&gt;ATROPSService/mainline&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#FF9933;strokeWidth=2;" vertex="1" parent="1">
@@ -95,20 +98,35 @@
         <mxCell id="LHm-rxTjngVOpBgrASH2-40" value="ATROPSService" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeColor=#FF9933;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-45" y="157" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LHm-rxTjngVOpBgrASH2-47" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.gauge;" vertex="1" parent="1">
-          <mxGeometry x="60.00000000000002" y="320" width="32.4" height="31.5" as="geometry" />
-        </mxCell>
         <mxCell id="LHm-rxTjngVOpBgrASH2-52" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.gauge;" vertex="1" parent="1">
           <mxGeometry x="77.59999999999995" y="70" width="32.4" height="31.5" as="geometry" />
         </mxCell>
-        <mxCell id="LHm-rxTjngVOpBgrASH2-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF9933;strokeWidth=2;" edge="1" parent="1" source="LHm-rxTjngVOpBgrASH2-53" target="LHm-rxTjngVOpBgrASH2-16">
+        <mxCell id="LHm-rxTjngVOpBgrASH2-56" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.gauge;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="82.5" width="32.4" height="31.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LHm-rxTjngVOpBgrASH2-69" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF9933;strokeWidth=2;" edge="1" parent="1" source="LHm-rxTjngVOpBgrASH2-63" target="LHm-rxTjngVOpBgrASH2-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LHm-rxTjngVOpBgrASH2-53" value="RegTest-Baseline-ProdCache-ProdVFI&lt;br&gt;ATROPSService" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF9933;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="870" y="85" width="210" height="50" as="geometry" />
+        <mxCell id="LHm-rxTjngVOpBgrASH2-63" value="Alpha&lt;br&gt;ATROPSCacheBuilder" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF9933;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="130" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LHm-rxTjngVOpBgrASH2-56" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.gauge;" vertex="1" parent="1">
-          <mxGeometry x="815" y="85" width="32.4" height="31.5" as="geometry" />
+        <mxCell id="LHm-rxTjngVOpBgrASH2-65" value="1. DJS to build Alpha cache from ATROPSCacheBuilder/Alpha and upload to S3;&lt;br&gt;&lt;br&gt;2. ATROPSService/Alpha-AlphaCache-newVFI pulls the latest cache from S3 and run functional tests." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#000000;strokeWidth=1;fillColor=#FFFFFF;align=left;" vertex="1" parent="1">
+          <mxGeometry x="326.2" y="-330" width="237.6" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="LHm-rxTjngVOpBgrASH2-67" value="1. Build RegTest cache from ATROPSCacheBuilder/Gamma and upload to S3;&lt;br&gt;&lt;br&gt;2. RegTest-RegTestCache-newVFI, and&amp;nbsp;&lt;span style=&quot;text-align: center&quot;&gt;RegTest-Baseline-&lt;/span&gt;RegTestCache&lt;span style=&quot;text-align: center&quot;&gt;-ProdVFI&lt;/span&gt;&lt;br style=&quot;text-align: center&quot;&gt;&amp;nbsp;pull the RegTestCache and run the regression tests." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#000000;strokeWidth=1;fillColor=#FFFFFF;align=left;" vertex="1" parent="1">
+          <mxGeometry x="596.2" y="-330" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="LHm-rxTjngVOpBgrASH2-68" value="Gamma&lt;br&gt;ATROPSCacheBuilder" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF9933;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="600" y="130" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LHm-rxTjngVOpBgrASH2-71" value="RegTest-Baseline-&lt;span style=&quot;text-align: left&quot;&gt;RegTestCache&lt;/span&gt;-ProdVFI&lt;br&gt;ATROPSService" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#006600;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="880" y="333.5" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LHm-rxTjngVOpBgrASH2-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#006600;strokeWidth=2;endArrow=none;" edge="1" parent="1" source="LHm-rxTjngVOpBgrASH2-2" target="LHm-rxTjngVOpBgrASH2-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="812.3999999999996" y="358.5" as="sourcePoint" />
+            <mxPoint x="1225" y="358.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
