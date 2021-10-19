@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T17:40:54.993Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="0RpvralPLSQShisxvfHN" version="15.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-19T18:16:14.755Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="TjFI3wa-7uqGeQ1bW0CO" version="15.5.6" type="github">
   <diagram id="8ZNGOfB-LTewQiJ2Abxq" name="Page-1">
-    <mxGraphModel dx="2101" dy="1806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2341" dy="1806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,41 +8,41 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hebz3siZc5bVMP110JqZ-2" value="Alpha-ProdCache-newVFI&lt;br&gt;ATROPSService" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="90" width="170" height="40" as="geometry" />
+          <mxGeometry x="360" y="90" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LHm-rxTjngVOpBgrASH2-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hebz3siZc5bVMP110JqZ-3" target="LHm-rxTjngVOpBgrASH2-16">
+        <mxCell id="LHm-rxTjngVOpBgrASH2-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hebz3siZc5bVMP110JqZ-3" target="LHm-rxTjngVOpBgrASH2-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hebz3siZc5bVMP110JqZ-3" value="RegTest-ProdCache-newVFI&lt;br&gt;ATROPSService" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="90" width="170" height="40" as="geometry" />
+          <mxGeometry x="622.4" y="90" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LHm-rxTjngVOpBgrASH2-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hebz3siZc5bVMP110JqZ-7" target="LHm-rxTjngVOpBgrASH2-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hebz3siZc5bVMP110JqZ-7" value="RegTest-Baseline-ProdCache-ProdVFI&lt;br&gt;ATROPSService" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="910" y="245" width="210" height="50" as="geometry" />
+          <mxGeometry x="950" y="333.5" width="210" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LHm-rxTjngVOpBgrASH2-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hebz3siZc5bVMP110JqZ-9" target="LHm-rxTjngVOpBgrASH2-17">
+        <mxCell id="LHm-rxTjngVOpBgrASH2-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hebz3siZc5bVMP110JqZ-9" target="LHm-rxTjngVOpBgrASH2-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-45" y="282" />
+              <mxPoint x="30" y="371" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Hebz3siZc5bVMP110JqZ-9" value="ATROPSSharedConfig" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="-120" y="350" width="150" height="50" as="geometry" />
+          <mxGeometry x="-45" y="430" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LHm-rxTjngVOpBgrASH2-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LHm-rxTjngVOpBgrASH2-1" target="LHm-rxTjngVOpBgrASH2-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LHm-rxTjngVOpBgrASH2-1" value="Gamma&lt;br&gt;ATROPSService" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="250" width="170" height="40" as="geometry" />
+          <mxGeometry x="390" y="338.5" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LHm-rxTjngVOpBgrASH2-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LHm-rxTjngVOpBgrASH2-2" target="Hebz3siZc5bVMP110JqZ-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LHm-rxTjngVOpBgrASH2-2" value="Prod&lt;br&gt;ATROPSService" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="245" width="210" height="50" as="geometry" />
+          <mxGeometry x="650" y="333.5" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LHm-rxTjngVOpBgrASH2-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LHm-rxTjngVOpBgrASH2-14" target="Hebz3siZc5bVMP110JqZ-2">
           <mxGeometry relative="1" as="geometry" />
@@ -50,35 +50,69 @@
         <mxCell id="LHm-rxTjngVOpBgrASH2-14" value="&lt;span&gt;ATROPSService/mainline&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="82.5" width="160" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="LHm-rxTjngVOpBgrASH2-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="LHm-rxTjngVOpBgrASH2-16" target="LHm-rxTjngVOpBgrASH2-17">
+        <mxCell id="LHm-rxTjngVOpBgrASH2-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="LHm-rxTjngVOpBgrASH2-16" target="LHm-rxTjngVOpBgrASH2-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1120" y="110" />
-              <mxPoint x="1120" y="190" />
-              <mxPoint x="20" y="190" />
-              <mxPoint x="20" y="258" />
+              <mxPoint x="1380" y="110" />
+              <mxPoint x="1380" y="280" />
+              <mxPoint x="30" y="280" />
+              <mxPoint x="30" y="346" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LHm-rxTjngVOpBgrASH2-16" value="ATROPSService/staging_release" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="82.5" width="200" height="55" as="geometry" />
+          <mxGeometry x="1150" y="82.5" width="200" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="LHm-rxTjngVOpBgrASH2-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LHm-rxTjngVOpBgrASH2-17" target="LHm-rxTjngVOpBgrASH2-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LHm-rxTjngVOpBgrASH2-17" value="ATROPSService/release" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="242.5" width="160" height="55" as="geometry" />
+          <mxGeometry x="110" y="331" width="160" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="LHm-rxTjngVOpBgrASH2-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LHm-rxTjngVOpBgrASH2-19" target="LHm-rxTjngVOpBgrASH2-14">
+        <mxCell id="LHm-rxTjngVOpBgrASH2-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="LHm-rxTjngVOpBgrASH2-19" target="LHm-rxTjngVOpBgrASH2-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1275" y="-10" />
-              <mxPoint x="200" y="-10" />
+              <mxPoint x="1430" y="359" />
+              <mxPoint x="1430" y="-40" />
+              <mxPoint x="30" y="-40" />
+              <mxPoint x="30" y="98" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LHm-rxTjngVOpBgrASH2-19" value="live" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1225" y="242.5" width="100" height="55" as="geometry" />
+          <mxGeometry x="1225" y="331" width="100" height="55" as="geometry" />
         </mxCell>
         <mxCell id="LHm-rxTjngVOpBgrASH2-32" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;1. For regression test, &lt;b&gt;Regtest-ProdCache-newVFI&lt;/b&gt; and &lt;b&gt;RegTest-Baseline-ProdCache-ProdVFI&lt;/b&gt; should use the same data cache.&lt;/p&gt;&lt;p&gt;2.&amp;nbsp; We still rely on RC to bring new VFI from &lt;b&gt;Gamma/ATROPSService&lt;/b&gt; to &lt;b&gt;Prod/ATROPSService&lt;/b&gt;.&amp;nbsp;&lt;/p&gt;&lt;p&gt;3.&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="35" y="560" width="780" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LHm-rxTjngVOpBgrASH2-39" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.gauge;" vertex="1" parent="1">
+          <mxGeometry x="590" y="333.5" width="32.4" height="31.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LHm-rxTjngVOpBgrASH2-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LHm-rxTjngVOpBgrASH2-40" target="LHm-rxTjngVOpBgrASH2-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="30" y="160" />
+              <mxPoint x="30" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LHm-rxTjngVOpBgrASH2-40" value="ATROPSService" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="-45" y="157" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LHm-rxTjngVOpBgrASH2-47" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.gauge;" vertex="1" parent="1">
+          <mxGeometry x="60.00000000000002" y="320" width="32.4" height="31.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LHm-rxTjngVOpBgrASH2-52" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.gauge;" vertex="1" parent="1">
+          <mxGeometry x="77.59999999999995" y="70" width="32.4" height="31.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LHm-rxTjngVOpBgrASH2-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LHm-rxTjngVOpBgrASH2-53" target="LHm-rxTjngVOpBgrASH2-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LHm-rxTjngVOpBgrASH2-53" value="RegTest-Baseline-ProdCache-ProdVFI&lt;br&gt;ATROPSService" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="85" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LHm-rxTjngVOpBgrASH2-56" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.gauge;" vertex="1" parent="1">
+          <mxGeometry x="815" y="85" width="32.4" height="31.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
