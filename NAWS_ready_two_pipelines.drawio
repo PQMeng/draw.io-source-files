@@ -1,1 +1,86 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T17:21:43.105Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="TFBidfyKshdrnK-AKOx3" version="15.5.6" type="github"><diagram id="8ZNGOfB-LTewQiJ2Abxq" name="Page-1">1ZZdb9owFIZ/TS6Z8oHJuGyzsm5aVdRUndSbyXFOY2uOnTlOA/31c4gDRCFinRgaVxxeH8c+z3s4xAmifPVZ4YLeyRS447vpygk+Ob7ve65nPhpl3SqhO2uFTLG0lbydELM3sKJr1YqlUPYStZRcs6IvEikEEN3TsFKy7qe9SN4/tcAZDISYYD5Uv7NU01b9iNydfgsso93JnmtXctwlW6GkOJX1nhTcOEGkpNRtlK8i4A28jku7bzGyur2YAqH/ZMMtJG9ByZ4JSp7uluaiX389T/z2Ka+YV7bgK15QPFkqmUaYUJgIqJ8WXxx/xs0p14kyUdZEV48P98s4BvXKCNgK9brDpmQlUmhO9kxuTZmGuMCkWa1NoxiN6pzbZXsHUBpWo8V5W2Sm10DmoNXapNgNwdxStm3Wfa13nnmh1eieX1OrYdsm2fbJO5ImsDDfATYYgH2A7BFKfXFoZ9P/DC0aoO0QlgUWIxAXOWaCMwFdrpH20weYzc+1aMJCSQJleRx1gsnPbGPOfaU3J53MgvCoA757Tgdmf+VAqXHGRPZDAQdcXqQRc/e4E8E5nQhHx8y1QdwUf3nzxu8z9qdoCNk7ABn9K8jz4Z9kS4yaotJIiheWjbZtKkmVb0o/2rct6G/JCWFOPNSnGUwPjG90Tpqdde+cHhc8NUL/A+q3NDpgwhydZG40qLbvlJu1vTfz4OY3</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-19T17:40:54.993Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="0RpvralPLSQShisxvfHN" version="15.5.6" type="github">
+  <diagram id="8ZNGOfB-LTewQiJ2Abxq" name="Page-1">
+    <mxGraphModel dx="2101" dy="1806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LHm-rxTjngVOpBgrASH2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hebz3siZc5bVMP110JqZ-2" target="Hebz3siZc5bVMP110JqZ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hebz3siZc5bVMP110JqZ-2" value="Alpha-ProdCache-newVFI&lt;br&gt;ATROPSService" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="90" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LHm-rxTjngVOpBgrASH2-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hebz3siZc5bVMP110JqZ-3" target="LHm-rxTjngVOpBgrASH2-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hebz3siZc5bVMP110JqZ-3" value="RegTest-ProdCache-newVFI&lt;br&gt;ATROPSService" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="90" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LHm-rxTjngVOpBgrASH2-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hebz3siZc5bVMP110JqZ-7" target="LHm-rxTjngVOpBgrASH2-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hebz3siZc5bVMP110JqZ-7" value="RegTest-Baseline-ProdCache-ProdVFI&lt;br&gt;ATROPSService" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="910" y="245" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LHm-rxTjngVOpBgrASH2-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hebz3siZc5bVMP110JqZ-9" target="LHm-rxTjngVOpBgrASH2-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-45" y="282" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hebz3siZc5bVMP110JqZ-9" value="ATROPSSharedConfig" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+          <mxGeometry x="-120" y="350" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LHm-rxTjngVOpBgrASH2-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LHm-rxTjngVOpBgrASH2-1" target="LHm-rxTjngVOpBgrASH2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LHm-rxTjngVOpBgrASH2-1" value="Gamma&lt;br&gt;ATROPSService" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="250" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LHm-rxTjngVOpBgrASH2-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LHm-rxTjngVOpBgrASH2-2" target="Hebz3siZc5bVMP110JqZ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LHm-rxTjngVOpBgrASH2-2" value="Prod&lt;br&gt;ATROPSService" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="245" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LHm-rxTjngVOpBgrASH2-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LHm-rxTjngVOpBgrASH2-14" target="Hebz3siZc5bVMP110JqZ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LHm-rxTjngVOpBgrASH2-14" value="&lt;span&gt;ATROPSService/mainline&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="82.5" width="160" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="LHm-rxTjngVOpBgrASH2-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="LHm-rxTjngVOpBgrASH2-16" target="LHm-rxTjngVOpBgrASH2-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1120" y="110" />
+              <mxPoint x="1120" y="190" />
+              <mxPoint x="20" y="190" />
+              <mxPoint x="20" y="258" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LHm-rxTjngVOpBgrASH2-16" value="ATROPSService/staging_release" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="82.5" width="200" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="LHm-rxTjngVOpBgrASH2-17" value="ATROPSService/release" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="242.5" width="160" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="LHm-rxTjngVOpBgrASH2-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LHm-rxTjngVOpBgrASH2-19" target="LHm-rxTjngVOpBgrASH2-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1275" y="-10" />
+              <mxPoint x="200" y="-10" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LHm-rxTjngVOpBgrASH2-19" value="live" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1225" y="242.5" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="LHm-rxTjngVOpBgrASH2-32" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;1. For regression test, &lt;b&gt;Regtest-ProdCache-newVFI&lt;/b&gt; and &lt;b&gt;RegTest-Baseline-ProdCache-ProdVFI&lt;/b&gt; should use the same data cache.&lt;/p&gt;&lt;p&gt;2.&amp;nbsp; We still rely on RC to bring new VFI from &lt;b&gt;Gamma/ATROPSService&lt;/b&gt; to &lt;b&gt;Prod/ATROPSService&lt;/b&gt;.&amp;nbsp;&lt;/p&gt;&lt;p&gt;3.&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="35" y="560" width="780" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
