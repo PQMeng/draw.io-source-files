@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T18:18:51.391Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="9JIKzl8AXp02zySWltXF" version="15.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-19T18:19:36.193Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="-gSL52mWgzL_RA20k8SH" version="15.5.6" type="github">
   <diagram id="8ZNGOfB-LTewQiJ2Abxq" name="Page-1">
-    <mxGraphModel dx="2341" dy="1806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2341" dy="1754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -78,7 +78,7 @@
         <mxCell id="LHm-rxTjngVOpBgrASH2-19" value="live" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1225" y="331" width="100" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="LHm-rxTjngVOpBgrASH2-32" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;1. For regression test, &lt;b&gt;Regtest-ProdCache-newVFI&lt;/b&gt; and &lt;b&gt;RegTest-Baseline-ProdCache-ProdVFI&lt;/b&gt; should use the same data cache.&lt;/p&gt;&lt;p&gt;2.&amp;nbsp; We still rely on RC to bring new VFI from &lt;b&gt;Gamma/ATROPSService&lt;/b&gt; to &lt;b&gt;Prod/ATROPSService&lt;/b&gt;.&amp;nbsp;&lt;/p&gt;&lt;p&gt;3.&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="LHm-rxTjngVOpBgrASH2-32" value="&lt;h1&gt;Note&lt;/h1&gt;&lt;p&gt;1. For regression test, &lt;b&gt;Regtest-ProdCache-newVFI&lt;/b&gt; and &lt;b&gt;RegTest-Baseline-ProdCache-ProdVFI&lt;/b&gt; should use the same data cache.&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="35" y="560" width="780" height="120" as="geometry" />
         </mxCell>
         <mxCell id="LHm-rxTjngVOpBgrASH2-39" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.gauge;" vertex="1" parent="1">
