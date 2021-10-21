@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T00:50:46.958Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="CcDU3dZwDSY0A98EzINW" version="15.5.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-21T00:51:33.557Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="VmVYY9374FGIomN_vsUs" version="15.5.6" type="github" pages="2">
   <diagram id="8ZNGOfB-LTewQiJ2Abxq" name="Version1">
     <mxGraphModel dx="3348" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -323,6 +323,9 @@
         </mxCell>
         <mxCell id="p8GoA-0MH35PuwbyzvYF-70" value="Script: build new cache and upload to S3: same with RC" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;strokeWidth=1;fillColor=#ffe6cc;align=center;" vertex="1" parent="qgfMvclLZH-rIyRotKbZ-1">
           <mxGeometry x="480" y="1290" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GoA-0MH35PuwbyzvYF-72" value="Plan and Promisee will wait until the above step finishes" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#000000;strokeWidth=1;fillColor=#FFFFFF;align=center;" vertex="1" parent="qgfMvclLZH-rIyRotKbZ-1">
+          <mxGeometry x="480" y="1380" width="220" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
