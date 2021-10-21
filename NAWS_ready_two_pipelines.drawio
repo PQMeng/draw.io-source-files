@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-20T23:40:10.149Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="rDLsLGuj8rnwEmXw_VrO" version="15.5.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-21T00:19:56.322Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="ZgGEteS_xlKjlDOp45Vd" version="15.5.6" type="github" pages="2">
   <diagram id="8ZNGOfB-LTewQiJ2Abxq" name="Version1">
     <mxGraphModel dx="3348" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -160,7 +160,7 @@
           <mxGeometry x="60" y="170" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p8GoA-0MH35PuwbyzvYF-2" value="Script: build a new cache and upload to S3: ATROPS-release-Alpha" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;strokeWidth=1;fillColor=#ffe6cc;align=center;" vertex="1" parent="qgfMvclLZH-rIyRotKbZ-1">
-          <mxGeometry x="30" y="480" width="220" height="40" as="geometry" />
+          <mxGeometry x="30" y="510" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p8GoA-0MH35PuwbyzvYF-3" value="Alpha-ProdCache-NewVFI&lt;br&gt;ATROPSService" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;align=center;" vertex="1" parent="qgfMvclLZH-rIyRotKbZ-1">
           <mxGeometry x="60" y="230" width="160" height="60" as="geometry" />
@@ -169,16 +169,43 @@
           <mxGeometry x="60" y="290" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p8GoA-0MH35PuwbyzvYF-5" value="Script: pull the new cache from S3: ATROPS-release-Alpha" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;strokeWidth=1;fillColor=#f8cecc;align=center;" vertex="1" parent="qgfMvclLZH-rIyRotKbZ-1">
-          <mxGeometry x="30" y="560" width="220" height="40" as="geometry" />
+          <mxGeometry x="30" y="630" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p8GoA-0MH35PuwbyzvYF-6" value="Script: run functional tests" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;align=center;" vertex="1" parent="qgfMvclLZH-rIyRotKbZ-1">
-          <mxGeometry x="30" y="520" width="220" height="40" as="geometry" />
+          <mxGeometry x="30" y="590" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p8GoA-0MH35PuwbyzvYF-8" value="Script: run functional tests" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;strokeWidth=1;fillColor=#f8cecc;align=center;" vertex="1" parent="qgfMvclLZH-rIyRotKbZ-1">
-          <mxGeometry x="30" y="600" width="220" height="40" as="geometry" />
+          <mxGeometry x="30" y="670" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p8GoA-0MH35PuwbyzvYF-9" value="Approval Workflow" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;align=center;" vertex="1" parent="qgfMvclLZH-rIyRotKbZ-1">
-          <mxGeometry x="30" y="440" width="220" height="40" as="geometry" />
+          <mxGeometry x="30" y="470" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GoA-0MH35PuwbyzvYF-10" value="Gamma&lt;br&gt;ATROPSCacheBuilder" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;strokeWidth=1;fillColor=#ffe6cc;align=center;" vertex="1" parent="qgfMvclLZH-rIyRotKbZ-1">
+          <mxGeometry x="510" y="170" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GoA-0MH35PuwbyzvYF-11" value="RegTest-NewCache-NewVFI&lt;br&gt;ATROPSCacheBuilder" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;align=center;" vertex="1" parent="qgfMvclLZH-rIyRotKbZ-1">
+          <mxGeometry x="510" y="230" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GoA-0MH35PuwbyzvYF-13" value="Script: build a new cache and upload to S3: ATROPS-release-Gamma" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;strokeWidth=1;fillColor=#ffe6cc;align=center;" vertex="1" parent="qgfMvclLZH-rIyRotKbZ-1">
+          <mxGeometry x="480" y="480" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GoA-0MH35PuwbyzvYF-14" value="Script: pull the new cache from S3: ATROPS-release-Alpha" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;strokeWidth=1;fillColor=#f8cecc;align=center;" vertex="1" parent="qgfMvclLZH-rIyRotKbZ-1">
+          <mxGeometry x="480" y="630" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GoA-0MH35PuwbyzvYF-15" value="Script: pull the new cache from S3: ATROPS-release-Gamma" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;align=center;" vertex="1" parent="qgfMvclLZH-rIyRotKbZ-1">
+          <mxGeometry x="480" y="520" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GoA-0MH35PuwbyzvYF-16" value="Script: run functional tests" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;strokeWidth=1;fillColor=#f8cecc;align=center;" vertex="1" parent="qgfMvclLZH-rIyRotKbZ-1">
+          <mxGeometry x="480" y="670" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GoA-0MH35PuwbyzvYF-17" value="Approval Workflow" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;align=center;" vertex="1" parent="qgfMvclLZH-rIyRotKbZ-1">
+          <mxGeometry x="480" y="440" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GoA-0MH35PuwbyzvYF-18" value="Script: pull the prod cache" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;align=center;" vertex="1" parent="qgfMvclLZH-rIyRotKbZ-1">
+          <mxGeometry x="30" y="550" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GoA-0MH35PuwbyzvYF-20" value="Script: run functional tests" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;align=center;" vertex="1" parent="qgfMvclLZH-rIyRotKbZ-1">
+          <mxGeometry x="480" y="560" width="220" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
