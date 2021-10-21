@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T17:09:39.245Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="3VBBL1Kc5BMqNUW0i5C8" version="15.5.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-21T17:13:05.079Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="6-SCBnj0uhY8np5MJAst" version="15.5.6" type="github" pages="2">
   <diagram id="8ZNGOfB-LTewQiJ2Abxq" name="Version1">
     <mxGraphModel dx="3348" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -149,7 +149,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jjYvPca3AFXOdkDuMlVM" name="Version2">
-    <mxGraphModel dx="4709" dy="2927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3680" dy="2581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="qgfMvclLZH-rIyRotKbZ-0" />
         <mxCell id="qgfMvclLZH-rIyRotKbZ-1" parent="qgfMvclLZH-rIyRotKbZ-0" />
@@ -397,6 +397,12 @@
         </mxCell>
         <mxCell id="p8GoA-0MH35PuwbyzvYF-93" value="Prod Stage" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=6;fontSize=28;" vertex="1" parent="qgfMvclLZH-rIyRotKbZ-1">
           <mxGeometry x="545" y="1010" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GoA-0MH35PuwbyzvYF-94" value="Output: new code commit is functionally good" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=12;strokeColor=#000000;strokeWidth=1;fillColor=#FFFFFF;align=center;" vertex="1" parent="qgfMvclLZH-rIyRotKbZ-1">
+          <mxGeometry x="280" y="-200" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GoA-0MH35PuwbyzvYF-95" value="Output: NewVFI is good to go production" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=12;strokeColor=#000000;strokeWidth=1;fillColor=#FFFFFF;align=center;" vertex="1" parent="qgfMvclLZH-rIyRotKbZ-1">
+          <mxGeometry x="1190" y="-190" width="160" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
