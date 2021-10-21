@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T00:46:41.642Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="5kNZg-FytQTOMauIp7x1" version="15.5.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-21T00:50:46.958Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="CcDU3dZwDSY0A98EzINW" version="15.5.6" type="github" pages="2">
   <diagram id="8ZNGOfB-LTewQiJ2Abxq" name="Version1">
     <mxGraphModel dx="3348" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -305,6 +305,24 @@
         </mxCell>
         <mxCell id="p8GoA-0MH35PuwbyzvYF-61" value="" style="fillColor=#6ABD46;verticalLabelPosition=bottom;sketch=0;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.block;dashed=1;" vertex="1" parent="qgfMvclLZH-rIyRotKbZ-1">
           <mxGeometry x="334" y="1010" width="43" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GoA-0MH35PuwbyzvYF-64" value="Approval Workflow" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;align=center;" vertex="1" parent="qgfMvclLZH-rIyRotKbZ-1">
+          <mxGeometry x="30" y="1250" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GoA-0MH35PuwbyzvYF-65" value="Script: verify the CIS report" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;align=center;" vertex="1" parent="qgfMvclLZH-rIyRotKbZ-1">
+          <mxGeometry x="30" y="1290" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GoA-0MH35PuwbyzvYF-66" value="Manual approval with MCM" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;align=center;" vertex="1" parent="qgfMvclLZH-rIyRotKbZ-1">
+          <mxGeometry x="460" y="860" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GoA-0MH35PuwbyzvYF-67" value="Manual approval" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;align=center;" vertex="1" parent="qgfMvclLZH-rIyRotKbZ-1">
+          <mxGeometry x="30" y="1330" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GoA-0MH35PuwbyzvYF-69" value="Approval Workflow" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;align=center;" vertex="1" parent="qgfMvclLZH-rIyRotKbZ-1">
+          <mxGeometry x="480" y="1250" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GoA-0MH35PuwbyzvYF-70" value="Script: build new cache and upload to S3: same with RC" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;strokeWidth=1;fillColor=#ffe6cc;align=center;" vertex="1" parent="qgfMvclLZH-rIyRotKbZ-1">
+          <mxGeometry x="480" y="1290" width="220" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
