@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-25T17:28:28.028Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="krcGB_QNW7a2OnQgJJnp" version="15.5.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-10-25T17:29:13.557Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="gQ24uOk4usJghWzEU9sc" version="15.5.7" type="github" pages="3">
   <diagram id="8ZNGOfB-LTewQiJ2Abxq" name="Version1">
-    <mxGraphModel dx="2132" dy="1700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2341" dy="1806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -470,9 +470,6 @@
         </mxCell>
         <mxCell id="OvgXCmGGCYgbJIgS69iJ-15" value="live" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#000000;strokeWidth=1;fillColor=#FFFFFF;align=center;" vertex="1" parent="XH60m-QQsSz2Uv_ocXxI-1">
           <mxGeometry x="975" y="1200" width="170" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="OvgXCmGGCYgbJIgS69iJ-16" value="" style="fillColor=#6ABD46;verticalLabelPosition=bottom;sketch=0;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.block;dashed=1;" vertex="1" parent="XH60m-QQsSz2Uv_ocXxI-1">
-          <mxGeometry x="440" y="1180" width="43" height="43" as="geometry" />
         </mxCell>
         <mxCell id="OvgXCmGGCYgbJIgS69iJ-17" value="Approval Workflow" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;align=center;" vertex="1" parent="XH60m-QQsSz2Uv_ocXxI-1">
           <mxGeometry x="45" y="1390" width="220" height="40" as="geometry" />
