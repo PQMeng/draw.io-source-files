@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-26T21:33:48.911Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="AVEVFe1xgXy9qKOaMPA8" version="15.5.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-11-10T21:35:15.279Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="h71Os2HdpCY-dSb3lv97" version="15.6.8" type="github" pages="4">
   <diagram id="8ZNGOfB-LTewQiJ2Abxq" name="Version1">
-    <mxGraphModel dx="3723" dy="2133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4036" dy="2254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -149,7 +149,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jjYvPca3AFXOdkDuMlVM" name="Version2">
-    <mxGraphModel dx="4578" dy="2865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4036" dy="2254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="qgfMvclLZH-rIyRotKbZ-0" />
         <mxCell id="qgfMvclLZH-rIyRotKbZ-1" parent="qgfMvclLZH-rIyRotKbZ-0" />
@@ -409,7 +409,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-ZVFDJGRXzxOnhFIkMXl" name="Only_SharedConfig_Pipeline">
-    <mxGraphModel dx="2462" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4036" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="XH60m-QQsSz2Uv_ocXxI-0" />
         <mxCell id="XH60m-QQsSz2Uv_ocXxI-1" parent="XH60m-QQsSz2Uv_ocXxI-0" />
@@ -536,12 +536,20 @@
         <mxCell id="EM0H0uAvFqmGuYpGoydZ-5" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.alarm_clock;fillColor=#FFFFFF;" parent="XH60m-QQsSz2Uv_ocXxI-1" vertex="1">
           <mxGeometry x="-390" y="610" width="27" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-5CCaDtGZGs7f-ALWEk2-0" value="new code" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#97D077;" vertex="1" parent="XH60m-QQsSz2Uv_ocXxI-1">
+        <mxCell id="-5CCaDtGZGs7f-ALWEk2-0" value="new code" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#97D077;" parent="XH60m-QQsSz2Uv_ocXxI-1" vertex="1">
           <mxGeometry x="-510" y="840" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="-5CCaDtGZGs7f-ALWEk2-2" value="shared config" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CC0000;" vertex="1" parent="XH60m-QQsSz2Uv_ocXxI-1">
+        <mxCell id="-5CCaDtGZGs7f-ALWEk2-2" value="shared config" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CC0000;" parent="XH60m-QQsSz2Uv_ocXxI-1" vertex="1">
           <mxGeometry x="-390" y="1375" width="70" height="70" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
+    <mxGraphModel dx="3186" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="no3aaxT7zXqI6Jh2efV5-0" />
+        <mxCell id="no3aaxT7zXqI6Jh2efV5-1" parent="no3aaxT7zXqI6Jh2efV5-0" />
       </root>
     </mxGraphModel>
   </diagram>
