@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T22:48:15.073Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="9kbSHaBzQcuMTYL-adVd" version="15.6.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-11-10T22:49:12.736Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="dDZ-f0RXx2H6GG84fO1q" version="15.6.8" type="github" pages="4">
   <diagram id="8ZNGOfB-LTewQiJ2Abxq" name="Version1">
     <mxGraphModel dx="3796" dy="2254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -706,7 +706,7 @@
         <mxCell id="zHk_zccn7sM2cKgAnjVr-30" value="Functional Tests" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
           <mxGeometry x="-80" y="390" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zHk_zccn7sM2cKgAnjVr-31" value="Regression Test" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
+        <mxCell id="zHk_zccn7sM2cKgAnjVr-31" value="Regression Test for case 2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
           <mxGeometry x="180" y="390" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zHk_zccn7sM2cKgAnjVr-34" value="Gamma alarm" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
@@ -792,6 +792,9 @@
         </mxCell>
         <mxCell id="zHk_zccn7sM2cKgAnjVr-76" value="Accept Criteria: code-cache combination can serve real traffic" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
           <mxGeometry x="-1130" y="430" width="590" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zHk_zccn7sM2cKgAnjVr-77" value="Regression Test for case 4" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
+          <mxGeometry x="180" y="450" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
