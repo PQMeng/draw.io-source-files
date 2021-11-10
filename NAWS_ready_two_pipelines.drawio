@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T22:34:20.109Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="HrrJCpQiLtQzY6CjOWTK" version="15.6.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-11-10T22:39:01.717Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="KXpKXwBBmtXbo9QLNn_c" version="15.6.8" type="github" pages="4">
   <diagram id="8ZNGOfB-LTewQiJ2Abxq" name="Version1">
     <mxGraphModel dx="3796" dy="2254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -546,7 +546,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
-    <mxGraphModel dx="4646" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4646" dy="2254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="no3aaxT7zXqI6Jh2efV5-0" />
         <mxCell id="no3aaxT7zXqI6Jh2efV5-1" parent="no3aaxT7zXqI6Jh2efV5-0" />
@@ -774,6 +774,18 @@
         </mxCell>
         <mxCell id="zHk_zccn7sM2cKgAnjVr-68" value="Weekly Manual Approval" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
           <mxGeometry x="1130" y="390" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zHk_zccn7sM2cKgAnjVr-70" value="pipeline: ATROPS-CodeTest" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fillColor=#E6E6E6;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
+          <mxGeometry x="-130" y="-100" width="570" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zHk_zccn7sM2cKgAnjVr-71" value="pipeline: ATROPS-CodeRelease" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fillColor=#E6E6E6;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
+          <mxGeometry x="440" y="-100" width="960" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zHk_zccn7sM2cKgAnjVr-72" value="pipeline: ATROPSCacheBuildService" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fillColor=#E6E6E6;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
+          <mxGeometry x="1400" y="-100" width="730" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zHk_zccn7sM2cKgAnjVr-73" value="By a RC or trigger a script" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=21;fillColor=#E6E6E6;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
+          <mxGeometry x="1950" y="470" width="140" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
