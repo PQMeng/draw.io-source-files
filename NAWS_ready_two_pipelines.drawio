@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T22:24:21.057Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="AOeWuaQcecCB15-huzEB" version="15.6.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-11-10T22:24:35.911Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="sUIStf9XpjV7sCFv08RC" version="15.6.8" type="github" pages="4">
   <diagram id="8ZNGOfB-LTewQiJ2Abxq" name="Version1">
     <mxGraphModel dx="3796" dy="2254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -546,7 +546,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
-    <mxGraphModel dx="4646" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4886" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="no3aaxT7zXqI6Jh2efV5-0" />
         <mxCell id="no3aaxT7zXqI6Jh2efV5-1" parent="no3aaxT7zXqI6Jh2efV5-0" />
@@ -624,12 +624,6 @@
         </mxCell>
         <mxCell id="DKCCvubMgbT0HmaUvDGG-2" value="Beta Apollo envs" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#CCCCCC;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
           <mxGeometry x="180" y="330" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NzvxIJaJ4yF2J0dYuZSa-0" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#666666;strokeWidth=2;" edge="1" parent="no3aaxT7zXqI6Jh2efV5-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="115" y="920" as="sourcePoint" />
-            <mxPoint x="115" y="90" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="zHk_zccn7sM2cKgAnjVr-0" value="Gamma Stage" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
           <mxGeometry x="570" y="230" width="140" height="60" as="geometry" />
