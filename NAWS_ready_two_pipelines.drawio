@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T22:39:52.003Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="w6G_xmIw64Je6jwUFise" version="15.6.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-11-10T22:47:25.419Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="2IVeUo0SToTxkDrJ4xwH" version="15.6.8" type="github" pages="4">
   <diagram id="8ZNGOfB-LTewQiJ2Abxq" name="Version1">
     <mxGraphModel dx="3796" dy="2254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -546,7 +546,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
-    <mxGraphModel dx="4886" dy="2254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4836" dy="2254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="no3aaxT7zXqI6Jh2efV5-0" />
         <mxCell id="no3aaxT7zXqI6Jh2efV5-1" parent="no3aaxT7zXqI6Jh2efV5-0" />
@@ -602,7 +602,7 @@
             <mxRectangle width="277" height="136" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9WPeCQV-4AYHPgkLnWjW-12" value="case4&lt;br style=&quot;font-size: 21px;&quot;&gt;final state after release" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#d5e8d4;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=21;strokeColor=#82b366;" vertex="1" parent="9WPeCQV-4AYHPgkLnWjW-9">
+        <mxCell id="9WPeCQV-4AYHPgkLnWjW-12" value="case4&lt;br style=&quot;font-size: 21px&quot;&gt;(final state after release) regression test" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=21;" vertex="1" parent="9WPeCQV-4AYHPgkLnWjW-9">
           <mxGeometry x="427" width="263" height="136" as="geometry">
             <mxRectangle width="263" height="136" as="alternateBounds" />
           </mxGeometry>
@@ -667,7 +667,7 @@
         <mxCell id="zHk_zccn7sM2cKgAnjVr-17" value="ProdVFI" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
           <mxGeometry x="120" y="70" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zHk_zccn7sM2cKgAnjVr-18" value="NewCache" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
+        <mxCell id="zHk_zccn7sM2cKgAnjVr-18" value="NewCache" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
           <mxGeometry x="120" y="100" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zHk_zccn7sM2cKgAnjVr-19" value="NewVFI_1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
@@ -789,6 +789,9 @@
         </mxCell>
         <mxCell id="zHk_zccn7sM2cKgAnjVr-75" value="Weekly" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.alarm_clock;fontSize=21;fillColor=#CCCCCC;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
           <mxGeometry x="1380" y="300" width="27" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zHk_zccn7sM2cKgAnjVr-76" value="Accept Criteria: code-cache combination can serve real traffic" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
+          <mxGeometry x="-1130" y="430" width="590" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
