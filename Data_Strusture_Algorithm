@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-12T20:20:47.685Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="JKbgnHRGTyIoFtvBWJAV" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-13T03:26:57.341Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="-z0zdu08PaCMrC0hilDC" version="15.7.0" type="github">
   <diagram id="OeceQlPHZ6valrakfEeV" name="Page-1">
     <mxGraphModel dx="2253" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,6 +8,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_dg9LPABI2YwrO6X9PYx-7" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_dg9LPABI2YwrO6X9PYx-1" target="_dg9LPABI2YwrO6X9PYx-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-780rHFZIA41OSCZCBNu-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="_dg9LPABI2YwrO6X9PYx-1" target="-780rHFZIA41OSCZCBNu-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_dg9LPABI2YwrO6X9PYx-1" value="Data Structure" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -27,6 +30,9 @@
         </mxCell>
         <mxCell id="-780rHFZIA41OSCZCBNu-1" value="sliding window (dynamic programming)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="80" width="500" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-780rHFZIA41OSCZCBNu-3" value="Deque (Double-ended linked list)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="190" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
