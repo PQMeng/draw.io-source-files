@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-16T23:27:29.715Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="UfI0FokyCKxKPKjOFdsc" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-16T23:37:35.680Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="ibPdorA-BZOM5m_S9hyF" version="15.7.3" type="github">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="5780" dy="2501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -131,7 +131,7 @@
           <mxGeometry x="870" y="390" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zHk_zccn7sM2cKgAnjVr-30" value="c. run Functional Tests" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;align=center;" parent="no3aaxT7zXqI6Jh2efV5-1" vertex="1">
-          <mxGeometry x="-80" y="600" width="140" height="90" as="geometry" />
+          <mxGeometry x="-80" y="630" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="zHk_zccn7sM2cKgAnjVr-31" value="a. take DB snapshot 2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" parent="no3aaxT7zXqI6Jh2efV5-1" vertex="1">
           <mxGeometry x="180" y="390" width="140" height="70" as="geometry" />
@@ -238,11 +238,11 @@
         <mxCell id="cSwmM36AZzLo9rZCygAP-23" value="a. take DB snapshot 1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;align=center;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
           <mxGeometry x="-80" y="390" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cSwmM36AZzLo9rZCygAP-24" value="b. run script to build NewCache from snapshot 1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;align=center;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
-          <mxGeometry x="-80" y="450" width="140" height="150" as="geometry" />
+        <mxCell id="cSwmM36AZzLo9rZCygAP-24" value="b. run script to build NewCache with NewVFI_1 from snapshot 1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;align=center;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
+          <mxGeometry x="-80" y="450" width="140" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="cSwmM36AZzLo9rZCygAP-27" value="b. run script to build ProdCache from snapshot 2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
-          <mxGeometry x="180" y="460" width="140" height="140" as="geometry" />
+        <mxCell id="cSwmM36AZzLo9rZCygAP-27" value="b. run script to build ProdCache with ProdVFI from snapshot 2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
+          <mxGeometry x="180" y="460" width="140" height="160" as="geometry" />
         </mxCell>
         <mxCell id="cSwmM36AZzLo9rZCygAP-28" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=27;strokeColor=#FF00FF;fillColor=#FF00FF;" edge="1" parent="no3aaxT7zXqI6Jh2efV5-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -257,13 +257,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cSwmM36AZzLo9rZCygAP-43" value="c. run regression test (&lt;b&gt;case1 vs case2&lt;/b&gt;)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
-          <mxGeometry x="180" y="600" width="140" height="140" as="geometry" />
+          <mxGeometry x="180" y="620" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="cSwmM36AZzLo9rZCygAP-44" value="d. run script to build NewCache from snapshot 2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
-          <mxGeometry x="180" y="740" width="140" height="140" as="geometry" />
+        <mxCell id="cSwmM36AZzLo9rZCygAP-44" value="d. run script to build NewCache with NewVFI_1 from snapshot 2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
+          <mxGeometry x="180" y="760" width="140" height="180" as="geometry" />
         </mxCell>
         <mxCell id="cSwmM36AZzLo9rZCygAP-45" value="d. run regression test (&lt;b&gt;case2 vs case4&lt;/b&gt;)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
-          <mxGeometry x="180" y="880" width="140" height="140" as="geometry" />
+          <mxGeometry x="180" y="940" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="cSwmM36AZzLo9rZCygAP-46" value="Note:&amp;nbsp; stage 3 will use what cache version we have on the Gamma envs right now." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=21;fillColor=#E6E6E6;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
           <mxGeometry x="815" y="640" width="260" height="260" as="geometry" />
