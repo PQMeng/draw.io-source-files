@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-16T23:38:49.526Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="1dAowLxUk1Tf2cJ2fFaC" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-16T23:38:59.542Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="jFgVYAP3VmqSOvBP-9fp" version="15.7.3" type="github">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="5780" dy="2501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -196,7 +196,7 @@
         <mxCell id="zHk_zccn7sM2cKgAnjVr-72" value="pipeline: ATROPSCacheBuildService" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fillColor=#E6E6E6;" parent="no3aaxT7zXqI6Jh2efV5-1" vertex="1">
           <mxGeometry x="1400" y="-100" width="730" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zHk_zccn7sM2cKgAnjVr-73" value="Note: build NewCache with NewVFI_2. from staging_prod by triggering a RC or running a script" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=21;fillColor=#E6E6E6;" parent="no3aaxT7zXqI6Jh2efV5-1" vertex="1">
+        <mxCell id="zHk_zccn7sM2cKgAnjVr-73" value="Note: build NewCache with NewVFI_2 from staging_prod by triggering a RC or running a script" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=21;fillColor=#E6E6E6;" parent="no3aaxT7zXqI6Jh2efV5-1" vertex="1">
           <mxGeometry x="1870" y="640" width="280" height="240" as="geometry" />
         </mxCell>
         <mxCell id="zHk_zccn7sM2cKgAnjVr-75" value="Weekly" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.alarm_clock;fontSize=21;fillColor=#CCCCCC;" parent="no3aaxT7zXqI6Jh2efV5-1" vertex="1">
