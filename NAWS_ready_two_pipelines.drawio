@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-16T23:22:49.947Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="8VCsnWtAw8VHDqCoj6c3" version="15.7.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-11-16T23:24:16.506Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="ax0mA93t8XWXKg_HYqaB" version="15.7.3" type="github" pages="4">
   <diagram id="8ZNGOfB-LTewQiJ2Abxq" name="Version1">
     <mxGraphModel dx="4036" dy="2254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -813,6 +813,9 @@
         </mxCell>
         <mxCell id="cSwmM36AZzLo9rZCygAP-45" value="d. run regression test (&lt;b&gt;case2 vs case4&lt;/b&gt;)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
           <mxGeometry x="180" y="880" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="cSwmM36AZzLo9rZCygAP-46" value="Note:&amp;nbsp; stage 3 will use what cache version we have on the Gamma envs right now." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=21;fillColor=#E6E6E6;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
+          <mxGeometry x="815" y="640" width="260" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
