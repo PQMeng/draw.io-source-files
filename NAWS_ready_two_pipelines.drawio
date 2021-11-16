@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-16T20:44:55.890Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="f1vInEMcVGwqfDLfhqMy" version="15.7.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-11-16T20:54:40.473Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="bjocxIOaxhzS0ExOHNzV" version="15.7.3" type="github" pages="4">
   <diagram id="8ZNGOfB-LTewQiJ2Abxq" name="Version1">
     <mxGraphModel dx="4036" dy="2254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -546,7 +546,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
-    <mxGraphModel dx="4646" dy="2254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5244" dy="2369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="no3aaxT7zXqI6Jh2efV5-0" />
         <mxCell id="no3aaxT7zXqI6Jh2efV5-1" parent="no3aaxT7zXqI6Jh2efV5-0" />
@@ -813,6 +813,12 @@
         </mxCell>
         <mxCell id="cSwmM36AZzLo9rZCygAP-8" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rangeInput;dx=1;strokeColor=#9D968E;fillColor=#6600CC;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=bottom;fontStyle=0;fontSize=14;labelPosition=center;verticalLabelPosition=top;gradientColor=#F4F2EF;gradientDirection=north;rangeStyle=rect;handleStyle=rect;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
           <mxGeometry x="-130" y="650" width="560" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cSwmM36AZzLo9rZCygAP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=27;" edge="1" parent="no3aaxT7zXqI6Jh2efV5-1" source="cSwmM36AZzLo9rZCygAP-9" target="zHk_zccn7sM2cKgAnjVr-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cSwmM36AZzLo9rZCygAP-9" value="ATROPSCore, ATROPSDataAccess, ATROPSService, and etc" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=21;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
+          <mxGeometry x="-395" y="475" width="230" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
