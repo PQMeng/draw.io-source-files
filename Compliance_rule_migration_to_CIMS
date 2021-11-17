@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-17T00:37:16.765Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="8i6-ihlhTiHBOSta_VYY" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-17T00:46:01.560Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="YsQtWSPxJSgg5EzxJXmN" version="15.7.4" type="github">
   <diagram id="_vjgZyVGTsaRPyy51QTJ" name="compliance-SMGs-permission-control">
-    <mxGraphModel dx="3483" dy="1033" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4333" dy="1033" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,6 +30,12 @@
         </mxCell>
         <mxCell id="5fF7MregjEGzlp8C-xZJ-17" value="SMG-6" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="-140" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5fF7MregjEGzlp8C-xZJ-18" value="EU DG team" style="ellipse;whiteSpace=wrap;html=1;fontSize=25;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-940" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5fF7MregjEGzlp8C-xZJ-19" value="NA DG team" style="ellipse;whiteSpace=wrap;html=1;fontSize=25;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-970" y="395" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
