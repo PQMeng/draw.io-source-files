@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-16T23:38:59.542Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="jFgVYAP3VmqSOvBP-9fp" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-18T18:13:57.740Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="Ow5yTWpEdzfjWkhiAEq-" version="15.7.4" type="github">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
-    <mxGraphModel dx="5780" dy="2501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5268" dy="2402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="no3aaxT7zXqI6Jh2efV5-0" />
         <mxCell id="no3aaxT7zXqI6Jh2efV5-1" parent="no3aaxT7zXqI6Jh2efV5-0" />
@@ -202,73 +202,73 @@
         <mxCell id="zHk_zccn7sM2cKgAnjVr-75" value="Weekly" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.alarm_clock;fontSize=21;fillColor=#CCCCCC;" parent="no3aaxT7zXqI6Jh2efV5-1" vertex="1">
           <mxGeometry x="1400" y="460" width="27" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cSwmM36AZzLo9rZCygAP-0" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;Task tracker board&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;br&gt;&lt;/div&gt;Codename&amp;nbsp;&lt;b style=&quot;font-size: 27px&quot;&gt;Cloacina&lt;/b&gt;: ATROPS Service Pipeline Definition&lt;br style=&quot;font-size: 27px&quot;&gt;&lt;br style=&quot;font-size: 27px&quot;&gt;Codename &lt;b style=&quot;font-size: 27px&quot;&gt;Proteus&lt;/b&gt;: ATROPS Cache Schema Evolution and Cache Producer/Consumer Approval Workflow Refactoring&lt;br style=&quot;font-size: 27px&quot;&gt;&lt;br style=&quot;font-size: 27px&quot;&gt;Codename &lt;b style=&quot;font-size: 27px&quot;&gt;Coeus&lt;/b&gt;: ATROPS Service Testing&lt;br&gt;&lt;br&gt;ATROPSSharedConfig deployments in NAWS" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
+        <mxCell id="cSwmM36AZzLo9rZCygAP-0" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;Task tracker board&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;br&gt;&lt;/div&gt;Codename&amp;nbsp;&lt;b style=&quot;font-size: 27px&quot;&gt;Cloacina&lt;/b&gt;: ATROPS Service Pipeline Definition&lt;br style=&quot;font-size: 27px&quot;&gt;&lt;br style=&quot;font-size: 27px&quot;&gt;Codename &lt;b style=&quot;font-size: 27px&quot;&gt;Proteus&lt;/b&gt;: ATROPS Cache Schema Evolution and Cache Producer/Consumer Approval Workflow Refactoring&lt;br style=&quot;font-size: 27px&quot;&gt;&lt;br style=&quot;font-size: 27px&quot;&gt;Codename &lt;b style=&quot;font-size: 27px&quot;&gt;Coeus&lt;/b&gt;: ATROPS Service Testing&lt;br&gt;&lt;br&gt;ATROPSSharedConfig deployments in NAWS" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" parent="no3aaxT7zXqI6Jh2efV5-1" vertex="1">
           <mxGeometry x="-1140" y="260" width="700" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="cSwmM36AZzLo9rZCygAP-1" value="&lt;b&gt;Cloacina,&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;text-align: left&quot;&gt;ATROPSSharedConfig deployments in NAWS&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=27;align=center;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
+        <mxCell id="cSwmM36AZzLo9rZCygAP-1" value="&lt;b&gt;Cloacina,&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;text-align: left&quot;&gt;ATROPSSharedConfig deployments in NAWS&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=27;align=center;" parent="no3aaxT7zXqI6Jh2efV5-1" vertex="1">
           <mxGeometry x="370" y="-270" width="560" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="cSwmM36AZzLo9rZCygAP-2" value="&lt;b style=&quot;text-align: left&quot;&gt;Proteus&lt;/b&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=27;align=center;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
+        <mxCell id="cSwmM36AZzLo9rZCygAP-2" value="&lt;b style=&quot;text-align: left&quot;&gt;Proteus&lt;/b&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=27;align=center;" parent="no3aaxT7zXqI6Jh2efV5-1" vertex="1">
           <mxGeometry x="1630" y="-270" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="cSwmM36AZzLo9rZCygAP-3" value="&lt;b style=&quot;text-align: left&quot;&gt;Coeus&lt;/b&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=27;align=center;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
+        <mxCell id="cSwmM36AZzLo9rZCygAP-3" value="&lt;b style=&quot;text-align: left&quot;&gt;Coeus&lt;/b&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=27;align=center;" parent="no3aaxT7zXqI6Jh2efV5-1" vertex="1">
           <mxGeometry x="460" y="1020" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="cSwmM36AZzLo9rZCygAP-7" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rangeInput;dx=0.68;strokeColor=#9D968E;fillColor=#6600CC;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=bottom;fontStyle=0;fontSize=14;labelPosition=center;verticalLabelPosition=top;gradientColor=#F4F2EF;gradientDirection=north;rangeStyle=rect;handleStyle=rect;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
+        <mxCell id="cSwmM36AZzLo9rZCygAP-7" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rangeInput;dx=0.68;strokeColor=#9D968E;fillColor=#6600CC;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=bottom;fontStyle=0;fontSize=14;labelPosition=center;verticalLabelPosition=top;gradientColor=#F4F2EF;gradientDirection=north;rangeStyle=rect;handleStyle=rect;" parent="no3aaxT7zXqI6Jh2efV5-1" vertex="1">
           <mxGeometry x="-130" y="-180" width="2250" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="cSwmM36AZzLo9rZCygAP-8" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rangeInput;dx=1;strokeColor=#9D968E;fillColor=#6600CC;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=bottom;fontStyle=0;fontSize=14;labelPosition=center;verticalLabelPosition=top;gradientColor=#F4F2EF;gradientDirection=north;rangeStyle=rect;handleStyle=rect;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
+        <mxCell id="cSwmM36AZzLo9rZCygAP-8" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rangeInput;dx=1;strokeColor=#9D968E;fillColor=#6600CC;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=bottom;fontStyle=0;fontSize=14;labelPosition=center;verticalLabelPosition=top;gradientColor=#F4F2EF;gradientDirection=north;rangeStyle=rect;handleStyle=rect;" parent="no3aaxT7zXqI6Jh2efV5-1" vertex="1">
           <mxGeometry x="-130" y="1110" width="1180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="cSwmM36AZzLo9rZCygAP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=27;" edge="1" parent="no3aaxT7zXqI6Jh2efV5-1" source="cSwmM36AZzLo9rZCygAP-9" target="zHk_zccn7sM2cKgAnjVr-58">
+        <mxCell id="cSwmM36AZzLo9rZCygAP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=27;" parent="no3aaxT7zXqI6Jh2efV5-1" source="cSwmM36AZzLo9rZCygAP-9" target="zHk_zccn7sM2cKgAnjVr-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cSwmM36AZzLo9rZCygAP-9" value="ATROPSCore, ATROPSDataAccess, ATROPSService, and etc" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=21;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
+        <mxCell id="cSwmM36AZzLo9rZCygAP-9" value="ATROPSCore, ATROPSDataAccess, ATROPSService, and etc" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=21;" parent="no3aaxT7zXqI6Jh2efV5-1" vertex="1">
           <mxGeometry x="-395" y="475" width="230" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="cSwmM36AZzLo9rZCygAP-20" value="Note: NewVFI_1 uses the older version of ATROPSSharedConfig, and new ATROPSSharedConfig changes won&#39;t build into NewVFI_1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=21;fillColor=#E6E6E6;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
+        <mxCell id="cSwmM36AZzLo9rZCygAP-20" value="Note: NewVFI_1 uses the older version of ATROPSSharedConfig, and new ATROPSSharedConfig changes won&#39;t build into NewVFI_1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=21;fillColor=#E6E6E6;" parent="no3aaxT7zXqI6Jh2efV5-1" vertex="1">
           <mxGeometry x="-410" y="640" width="260" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="cSwmM36AZzLo9rZCygAP-21" value="Note: newer version of&amp;nbsp; ATROPSSharedConfig will build into NewVFI_2&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=21;fillColor=#E6E6E6;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
+        <mxCell id="cSwmM36AZzLo9rZCygAP-21" value="Note: newer version of&amp;nbsp; ATROPSSharedConfig will build into NewVFI_2&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=21;fillColor=#E6E6E6;" parent="no3aaxT7zXqI6Jh2efV5-1" vertex="1">
           <mxGeometry x="440" y="640" width="260" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="cSwmM36AZzLo9rZCygAP-22" value=": code-cache combination transitions during the &lt;br&gt;Release: case 1 -&amp;gt; case 2 -&amp;gt; case 4&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=27;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
+        <mxCell id="cSwmM36AZzLo9rZCygAP-22" value=": code-cache combination transitions during the &lt;br&gt;Release: case 1 -&amp;gt; case 2 -&amp;gt; case 4&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=27;" parent="no3aaxT7zXqI6Jh2efV5-1" vertex="1">
           <mxGeometry x="-1060" y="130" width="580" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="cSwmM36AZzLo9rZCygAP-23" value="a. take DB snapshot 1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;align=center;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
+        <mxCell id="cSwmM36AZzLo9rZCygAP-23" value="a. take DB snapshot 1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;align=center;" parent="no3aaxT7zXqI6Jh2efV5-1" vertex="1">
           <mxGeometry x="-80" y="390" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cSwmM36AZzLo9rZCygAP-24" value="b. run script to build NewCache with NewVFI_1 from snapshot 1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;align=center;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
+        <mxCell id="cSwmM36AZzLo9rZCygAP-24" value="b. run script to build NewCache with NewVFI_1 from snapshot 1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;align=center;" parent="no3aaxT7zXqI6Jh2efV5-1" vertex="1">
           <mxGeometry x="-80" y="450" width="140" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="cSwmM36AZzLo9rZCygAP-27" value="b. run script to build ProdCache with ProdVFI from snapshot 2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
+        <mxCell id="cSwmM36AZzLo9rZCygAP-27" value="b. run script to build ProdCache with ProdVFI from snapshot 2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" parent="no3aaxT7zXqI6Jh2efV5-1" vertex="1">
           <mxGeometry x="180" y="460" width="140" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="cSwmM36AZzLo9rZCygAP-28" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=27;strokeColor=#FF00FF;fillColor=#FF00FF;" edge="1" parent="no3aaxT7zXqI6Jh2efV5-1">
+        <mxCell id="cSwmM36AZzLo9rZCygAP-28" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=27;strokeColor=#FF00FF;fillColor=#FF00FF;" parent="no3aaxT7zXqI6Jh2efV5-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-780" y="-135.71" as="sourcePoint" />
             <mxPoint x="-660" y="-135.71" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cSwmM36AZzLo9rZCygAP-29" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=27;strokeColor=#FF00FF;fillColor=#FF00FF;" edge="1" parent="no3aaxT7zXqI6Jh2efV5-1">
+        <mxCell id="cSwmM36AZzLo9rZCygAP-29" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=27;strokeColor=#FF00FF;fillColor=#FF00FF;" parent="no3aaxT7zXqI6Jh2efV5-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1180" y="149.29" as="sourcePoint" />
             <mxPoint x="-1090" y="149.29" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cSwmM36AZzLo9rZCygAP-43" value="c. run regression test (&lt;b&gt;case1 vs case2&lt;/b&gt;)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
+        <mxCell id="cSwmM36AZzLo9rZCygAP-43" value="c. run regression test (&lt;b&gt;case1 vs case2&lt;/b&gt;)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" parent="no3aaxT7zXqI6Jh2efV5-1" vertex="1">
           <mxGeometry x="180" y="620" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="cSwmM36AZzLo9rZCygAP-44" value="d. run script to build NewCache with NewVFI_1 from snapshot 2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
+        <mxCell id="cSwmM36AZzLo9rZCygAP-44" value="d. run script to build NewCache with NewVFI_1 from snapshot 2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" parent="no3aaxT7zXqI6Jh2efV5-1" vertex="1">
           <mxGeometry x="180" y="760" width="140" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="cSwmM36AZzLo9rZCygAP-45" value="d. run regression test (&lt;b&gt;case2 vs case4&lt;/b&gt;)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
+        <mxCell id="cSwmM36AZzLo9rZCygAP-45" value="e. run regression test (&lt;b&gt;case2 vs case4&lt;/b&gt;)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" parent="no3aaxT7zXqI6Jh2efV5-1" vertex="1">
           <mxGeometry x="180" y="940" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="cSwmM36AZzLo9rZCygAP-46" value="Note:&amp;nbsp; stage 3 will use what cache version we have on the Gamma envs right now." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=21;fillColor=#E6E6E6;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
+        <mxCell id="cSwmM36AZzLo9rZCygAP-46" value="Note:&amp;nbsp; stage 3 will use what cache version we have on the Gamma envs right now." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=21;fillColor=#E6E6E6;" parent="no3aaxT7zXqI6Jh2efV5-1" vertex="1">
           <mxGeometry x="815" y="640" width="260" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="cSwmM36AZzLo9rZCygAP-47" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=27;strokeColor=#FF00FF;fillColor=#FF00FF;" edge="1" parent="no3aaxT7zXqI6Jh2efV5-1">
+        <mxCell id="cSwmM36AZzLo9rZCygAP-47" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=27;strokeColor=#FF00FF;fillColor=#FF00FF;" parent="no3aaxT7zXqI6Jh2efV5-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-470" y="-70" as="sourcePoint" />
             <mxPoint x="-470" y="20" as="targetPoint" />
