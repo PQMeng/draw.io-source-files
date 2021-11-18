@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-18T19:10:58.449Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="e3cvTBd6iKT6UbP25tU8" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-18T19:23:46.446Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="YeRQ9TalYpvPSGcm030L" version="15.7.4" type="github">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="5746" dy="2587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -184,8 +184,8 @@
         <mxCell id="zHk_zccn7sM2cKgAnjVr-72" value="pipeline: ATROPSCacheBuildService" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fillColor=#E6E6E6;" parent="no3aaxT7zXqI6Jh2efV5-1" vertex="1">
           <mxGeometry x="1400" y="-100" width="730" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zHk_zccn7sM2cKgAnjVr-73" value="Note: build NewCache with NewVFI_2 from staging_prod by triggering a RC or running a script" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=21;fillColor=#E6E6E6;" parent="no3aaxT7zXqI6Jh2efV5-1" vertex="1">
-          <mxGeometry x="1870" y="640" width="280" height="240" as="geometry" />
+        <mxCell id="zHk_zccn7sM2cKgAnjVr-73" value="Note: build NewCache with NewVFI_2 from staging_prod by triggering a RC or running a script&lt;br&gt;&lt;br&gt;If we add ATROPSDataAccess to the ATROPSCacheBuildWorkflow directly, we don&#39;t have schema backward-compatibality. (more brain storming)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=21;fillColor=#E6E6E6;" parent="no3aaxT7zXqI6Jh2efV5-1" vertex="1">
+          <mxGeometry x="1870" y="640" width="280" height="430" as="geometry" />
         </mxCell>
         <mxCell id="zHk_zccn7sM2cKgAnjVr-75" value="Weekly" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.alarm_clock;fontSize=21;fillColor=#CCCCCC;" parent="no3aaxT7zXqI6Jh2efV5-1" vertex="1">
           <mxGeometry x="1400" y="460" width="27" height="30" as="geometry" />
@@ -268,7 +268,7 @@
         <mxCell id="5WwodNjMv_3vcbmUonWH-2" value="Note: add performance test and etc (scripts)&lt;br&gt;&lt;br&gt;1. add script types (&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Regional Test on Demand or not&lt;/span&gt;) and approval type. Today, we use regional Tod, what is the alternative (functionality, not a specific product) in HEX-AWS" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=21;fillColor=#E6E6E6;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
           <mxGeometry x="50" y="1150" width="370" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="5WwodNjMv_3vcbmUonWH-3" value="Note: now, cache data is deployed onto Apollo envs.&amp;nbsp;&lt;br&gt;&lt;br&gt;Once RC does not deploy cache data to apollo, stage 3 and 4 is good.&lt;br&gt;&lt;br&gt;Currently, 1. bounce with package-change, but ignore the package, we use S3 &lt;br&gt;-&amp;gt; 2. just bounce without cache packages change, still use S3 &lt;br&gt;-&amp;gt; 3. no bounce at all.&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;br&gt;check: Just bounce won&#39;t disable pipeline?" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=21;fillColor=#E6E6E6;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
+        <mxCell id="5WwodNjMv_3vcbmUonWH-3" value="Note: now, cache data is deployed onto Apollo envs.&amp;nbsp;&lt;br&gt;&lt;br&gt;Once RC does not deploy cache data to apollo, stage 3 and 4 is good.&lt;br&gt;&lt;br&gt;Currently, 1. bounce with package-change, but ignore the package, we use S3 &lt;br&gt;-&amp;gt; 2. just bounce without cache packages change, still use S3 &lt;br&gt;-&amp;gt; 3. no bounce at all.&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;br&gt;check: Just bounce won&#39;t disable pipeline?&lt;br&gt;&lt;br&gt;RC will disable pipeline by 1." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=21;fillColor=#E6E6E6;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
           <mxGeometry x="1110" y="670" width="370" height="680" as="geometry" />
         </mxCell>
       </root>
