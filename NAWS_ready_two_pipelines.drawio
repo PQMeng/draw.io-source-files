@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-19T00:34:13.406Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="muT0g90WjastB9e9qY6Q" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-19T00:51:16.087Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="ezh11eVmDWH9x9tHHmUp" version="15.7.4" type="github">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="5746" dy="2587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -38,7 +38,7 @@
             <mxRectangle width="277" height="138" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9WPeCQV-4AYHPgkLnWjW-8" value="case2&lt;br&gt;schema&amp;nbsp;compatibility + regression test" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=21;" parent="9WPeCQV-4AYHPgkLnWjW-5" vertex="1">
+        <mxCell id="9WPeCQV-4AYHPgkLnWjW-8" value="case2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=21;" parent="9WPeCQV-4AYHPgkLnWjW-5" vertex="1">
           <mxGeometry x="427" width="263" height="138" as="geometry">
             <mxRectangle width="263" height="138" as="alternateBounds" />
           </mxGeometry>
@@ -51,12 +51,12 @@
             <mxRectangle width="150" height="136" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9WPeCQV-4AYHPgkLnWjW-11" value="case3&lt;br style=&quot;font-size: 21px;&quot;&gt;won&#39;t happen due to pipeline setup" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=21;" parent="9WPeCQV-4AYHPgkLnWjW-9" vertex="1">
+        <mxCell id="9WPeCQV-4AYHPgkLnWjW-11" value="case3&lt;br style=&quot;font-size: 21px&quot;&gt;(won&#39;t happen due to pipeline setup)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=21;" parent="9WPeCQV-4AYHPgkLnWjW-9" vertex="1">
           <mxGeometry x="150" width="277" height="136" as="geometry">
             <mxRectangle width="277" height="136" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9WPeCQV-4AYHPgkLnWjW-12" value="case4&lt;br style=&quot;font-size: 21px&quot;&gt;(final state after release) regression test" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=21;" parent="9WPeCQV-4AYHPgkLnWjW-9" vertex="1">
+        <mxCell id="9WPeCQV-4AYHPgkLnWjW-12" value="case4&lt;br style=&quot;font-size: 21px&quot;&gt;(final state after release)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=21;" parent="9WPeCQV-4AYHPgkLnWjW-9" vertex="1">
           <mxGeometry x="427" width="263" height="136" as="geometry">
             <mxRectangle width="263" height="136" as="alternateBounds" />
           </mxGeometry>
