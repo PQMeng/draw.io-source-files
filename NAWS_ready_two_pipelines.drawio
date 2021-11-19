@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-18T19:23:46.446Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="YeRQ9TalYpvPSGcm030L" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-19T00:34:13.406Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="muT0g90WjastB9e9qY6Q" version="15.7.4" type="github">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="5746" dy="2587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -193,20 +193,14 @@
         <mxCell id="cSwmM36AZzLo9rZCygAP-0" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;Task tracker board&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;br&gt;&lt;/div&gt;Codename&amp;nbsp;&lt;b style=&quot;font-size: 27px&quot;&gt;Cloacina&lt;/b&gt;: ATROPS Service Pipeline Definition&lt;br style=&quot;font-size: 27px&quot;&gt;&lt;br style=&quot;font-size: 27px&quot;&gt;Codename &lt;b style=&quot;font-size: 27px&quot;&gt;Proteus&lt;/b&gt;: ATROPS Cache Schema Evolution and Cache Producer/Consumer Approval Workflow Refactoring&lt;br style=&quot;font-size: 27px&quot;&gt;&lt;br style=&quot;font-size: 27px&quot;&gt;Codename &lt;b style=&quot;font-size: 27px&quot;&gt;Coeus&lt;/b&gt;: ATROPS Service Testing&lt;br&gt;&lt;br&gt;ATROPSSharedConfig deployments in NAWS" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" parent="no3aaxT7zXqI6Jh2efV5-1" vertex="1">
           <mxGeometry x="-1140" y="260" width="700" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="cSwmM36AZzLo9rZCygAP-1" value="&lt;b&gt;Cloacina,&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;text-align: left&quot;&gt;ATROPSSharedConfig deployments in NAWS&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=27;align=center;" parent="no3aaxT7zXqI6Jh2efV5-1" vertex="1">
+        <mxCell id="cSwmM36AZzLo9rZCygAP-1" value="&lt;b&gt;Cloacina,&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;text-align: left&quot;&gt;Coeus,&amp;nbsp;&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;text-align: left&quot;&gt;ATROPSSharedConfig deployments in NAWS&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=27;align=center;" parent="no3aaxT7zXqI6Jh2efV5-1" vertex="1">
           <mxGeometry x="370" y="-270" width="560" height="100" as="geometry" />
         </mxCell>
         <mxCell id="cSwmM36AZzLo9rZCygAP-2" value="&lt;b style=&quot;text-align: left&quot;&gt;Proteus&lt;/b&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=27;align=center;" parent="no3aaxT7zXqI6Jh2efV5-1" vertex="1">
           <mxGeometry x="1630" y="-270" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="cSwmM36AZzLo9rZCygAP-3" value="&lt;b style=&quot;text-align: left&quot;&gt;Coeus&lt;/b&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=27;align=center;" parent="no3aaxT7zXqI6Jh2efV5-1" vertex="1">
-          <mxGeometry x="460" y="1020" width="200" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="cSwmM36AZzLo9rZCygAP-7" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rangeInput;dx=0.68;strokeColor=#9D968E;fillColor=#6600CC;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=bottom;fontStyle=0;fontSize=14;labelPosition=center;verticalLabelPosition=top;gradientColor=#F4F2EF;gradientDirection=north;rangeStyle=rect;handleStyle=rect;" parent="no3aaxT7zXqI6Jh2efV5-1" vertex="1">
           <mxGeometry x="-130" y="-180" width="2250" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="cSwmM36AZzLo9rZCygAP-8" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rangeInput;dx=1;strokeColor=#9D968E;fillColor=#6600CC;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=bottom;fontStyle=0;fontSize=14;labelPosition=center;verticalLabelPosition=top;gradientColor=#F4F2EF;gradientDirection=north;rangeStyle=rect;handleStyle=rect;" parent="no3aaxT7zXqI6Jh2efV5-1" vertex="1">
-          <mxGeometry x="-130" y="1110" width="1180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cSwmM36AZzLo9rZCygAP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=27;" parent="no3aaxT7zXqI6Jh2efV5-1" source="cSwmM36AZzLo9rZCygAP-9" target="zHk_zccn7sM2cKgAnjVr-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -262,13 +256,13 @@
             <mxPoint x="-470" y="20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5WwodNjMv_3vcbmUonWH-0" value="Manual Approval" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
+        <mxCell id="5WwodNjMv_3vcbmUonWH-0" value="Manual Approval" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" parent="no3aaxT7zXqI6Jh2efV5-1" vertex="1">
           <mxGeometry x="870" y="560" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5WwodNjMv_3vcbmUonWH-2" value="Note: add performance test and etc (scripts)&lt;br&gt;&lt;br&gt;1. add script types (&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Regional Test on Demand or not&lt;/span&gt;) and approval type. Today, we use regional Tod, what is the alternative (functionality, not a specific product) in HEX-AWS" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=21;fillColor=#E6E6E6;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
+        <mxCell id="5WwodNjMv_3vcbmUonWH-2" value="Note: add performance test and etc (scripts)&lt;br&gt;&lt;br&gt;1. add script types (&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Regional Test on Demand or not&lt;/span&gt;) and approval type. Today, we use regional Tod, what is the alternative (functionality, not a specific product) in HEX-AWS" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=21;fillColor=#E6E6E6;" parent="no3aaxT7zXqI6Jh2efV5-1" vertex="1">
           <mxGeometry x="50" y="1150" width="370" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="5WwodNjMv_3vcbmUonWH-3" value="Note: now, cache data is deployed onto Apollo envs.&amp;nbsp;&lt;br&gt;&lt;br&gt;Once RC does not deploy cache data to apollo, stage 3 and 4 is good.&lt;br&gt;&lt;br&gt;Currently, 1. bounce with package-change, but ignore the package, we use S3 &lt;br&gt;-&amp;gt; 2. just bounce without cache packages change, still use S3 &lt;br&gt;-&amp;gt; 3. no bounce at all.&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;br&gt;check: Just bounce won&#39;t disable pipeline?&lt;br&gt;&lt;br&gt;RC will disable pipeline by 1." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=21;fillColor=#E6E6E6;" vertex="1" parent="no3aaxT7zXqI6Jh2efV5-1">
+        <mxCell id="5WwodNjMv_3vcbmUonWH-3" value="Note: now, cache data is deployed onto Apollo envs.&amp;nbsp;&lt;br&gt;&lt;br&gt;Once RC does not deploy cache data to apollo, stage 3 and 4 is good.&lt;br&gt;&lt;br&gt;Currently, 1. bounce with package-change, but ignore the package, we use S3 &lt;br&gt;-&amp;gt; 2. just bounce without cache packages change, still use S3 &lt;br&gt;-&amp;gt; 3. no bounce at all.&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;br&gt;check: Just bounce won&#39;t disable pipeline?&lt;br&gt;&lt;br&gt;RC will disable pipeline by 1." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=21;fillColor=#E6E6E6;" parent="no3aaxT7zXqI6Jh2efV5-1" vertex="1">
           <mxGeometry x="1110" y="670" width="370" height="680" as="geometry" />
         </mxCell>
       </root>
