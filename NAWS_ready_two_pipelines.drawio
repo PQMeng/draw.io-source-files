@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-19T00:51:16.087Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="ezh11eVmDWH9x9tHHmUp" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-19T19:12:13.676Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="DcCU-IxvjeLmcwonoasR" version="15.7.4" type="github">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
-    <mxGraphModel dx="5746" dy="2587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3006" dy="3987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="no3aaxT7zXqI6Jh2efV5-0" />
         <mxCell id="no3aaxT7zXqI6Jh2efV5-1" parent="no3aaxT7zXqI6Jh2efV5-0" />
@@ -205,11 +205,11 @@
         <mxCell id="cSwmM36AZzLo9rZCygAP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=27;" parent="no3aaxT7zXqI6Jh2efV5-1" source="cSwmM36AZzLo9rZCygAP-9" target="zHk_zccn7sM2cKgAnjVr-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cSwmM36AZzLo9rZCygAP-9" value="ATROPSCore, ATROPSDataAccess, ATROPSService, and etc" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=21;" parent="no3aaxT7zXqI6Jh2efV5-1" vertex="1">
-          <mxGeometry x="-395" y="475" width="230" height="150" as="geometry" />
+        <mxCell id="cSwmM36AZzLo9rZCygAP-9" value="&lt;div&gt;&lt;span&gt;Packages&lt;/span&gt;&lt;/div&gt;&lt;br&gt;ATROPSCore ATROPSDataAccess ATROPSService&lt;br&gt;and etc" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=21;align=left;" parent="no3aaxT7zXqI6Jh2efV5-1" vertex="1">
+          <mxGeometry x="-395" y="475" width="230" height="275" as="geometry" />
         </mxCell>
         <mxCell id="cSwmM36AZzLo9rZCygAP-20" value="Note: NewVFI_1 uses the older version of ATROPSSharedConfig, and new ATROPSSharedConfig changes won&#39;t build into NewVFI_1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=21;fillColor=#E6E6E6;" parent="no3aaxT7zXqI6Jh2efV5-1" vertex="1">
-          <mxGeometry x="-410" y="640" width="260" height="260" as="geometry" />
+          <mxGeometry x="-410" y="800" width="260" height="260" as="geometry" />
         </mxCell>
         <mxCell id="cSwmM36AZzLo9rZCygAP-21" value="Note: newer version of&amp;nbsp; ATROPSSharedConfig will build into NewVFI_2&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=21;fillColor=#E6E6E6;" parent="no3aaxT7zXqI6Jh2efV5-1" vertex="1">
           <mxGeometry x="440" y="640" width="260" height="260" as="geometry" />
