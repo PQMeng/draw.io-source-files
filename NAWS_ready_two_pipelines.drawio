@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-03T22:33:11.184Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="B6IJnOuQjsS3p8xApGM-" version="15.8.8" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-12-03T22:39:08.067Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="p2bWsafPHTdYwVAnKoUN" version="15.8.8" type="github" pages="6">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="3606" dy="2137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -652,7 +652,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Tknh9J2Ed04yyv4EubTW" name="Current Pipeline Settings">
-    <mxGraphModel dx="2996" dy="1037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2756" dy="1037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="JSvI41LAqpofP6Lag6mr-0" />
         <mxCell id="JSvI41LAqpofP6Lag6mr-1" parent="JSvI41LAqpofP6Lag6mr-0" />
@@ -744,6 +744,24 @@
         </mxCell>
         <mxCell id="JSvI41LAqpofP6Lag6mr-41" value="work flow" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="JSvI41LAqpofP6Lag6mr-1">
           <mxGeometry x="-520" y="380" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JSvI41LAqpofP6Lag6mr-42" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;strokeWidth=2;dashed=1;fillColor=none;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="JSvI41LAqpofP6Lag6mr-1">
+          <mxGeometry x="30" y="230" width="640" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="JSvI41LAqpofP6Lag6mr-43" value="Phase1: newVFI testing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=19;fontStyle=1;fontColor=#666666;" vertex="1" parent="JSvI41LAqpofP6Lag6mr-1">
+          <mxGeometry x="50" y="240" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JSvI41LAqpofP6Lag6mr-44" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;strokeWidth=2;dashed=1;fillColor=none;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="JSvI41LAqpofP6Lag6mr-1">
+          <mxGeometry x="740" y="220" width="690" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="JSvI41LAqpofP6Lag6mr-45" value="Phase3: newVFI prod release" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=19;fontStyle=1;fontColor=#666666;" vertex="1" parent="JSvI41LAqpofP6Lag6mr-1">
+          <mxGeometry x="760" y="230" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JSvI41LAqpofP6Lag6mr-46" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;strokeWidth=2;dashed=1;fillColor=none;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="JSvI41LAqpofP6Lag6mr-1">
+          <mxGeometry x="600" y="700" width="840" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="JSvI41LAqpofP6Lag6mr-47" value="Phase2: newVFI cache builder release" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=19;fontStyle=1;fontColor=#666666;" vertex="1" parent="JSvI41LAqpofP6Lag6mr-1">
+          <mxGeometry x="620" y="710" width="380" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
