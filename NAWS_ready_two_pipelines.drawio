@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-03T03:40:37.511Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="2xA2G1iSuMIt4TrfeEh1" version="15.8.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-12-03T19:48:38.604Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="5BgS_Ecd417mIbMem7z9" version="15.8.8" type="github" pages="6">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="3606" dy="2137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -648,6 +648,14 @@
             <mxRectangle width="263" height="136" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Tknh9J2Ed04yyv4EubTW" name="Current Pipeline Settings">
+    <mxGraphModel dx="1906" dy="1037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="JSvI41LAqpofP6Lag6mr-0" />
+        <mxCell id="JSvI41LAqpofP6Lag6mr-1" parent="JSvI41LAqpofP6Lag6mr-0" />
       </root>
     </mxGraphModel>
   </diagram>
