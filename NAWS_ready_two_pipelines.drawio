@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-14T22:31:44.922Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="oCSnXbspGbIbwKuk_qFg" version="15.9.6" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-12-14T22:52:20.505Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="xR1Y5yENafou3LxNlp3N" version="15.9.6" type="github" pages="8">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="5506" dy="2587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -796,7 +796,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Bw0u8OtxaHTxY5zFHHNA" name="pipeline stages">
-    <mxGraphModel dx="2732" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3582" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="4zq0gizbVHk_ZzvY18hJ-0" />
         <mxCell id="4zq0gizbVHk_ZzvY18hJ-1" parent="4zq0gizbVHk_ZzvY18hJ-0" />
@@ -821,8 +821,8 @@
         <mxCell id="4zq0gizbVHk_ZzvY18hJ-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
           <mxGeometry x="-460" y="170" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4zq0gizbVHk_ZzvY18hJ-14" value="1. Regression tests for case 2 (NewVFI + ProdCache)&lt;br&gt;2. Performance tests / Load tests&lt;br&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
-          <mxGeometry x="-460" y="250" width="240" height="60" as="geometry" />
+        <mxCell id="4zq0gizbVHk_ZzvY18hJ-14" value="1. Regression tests.&lt;br&gt;baseline: case 1 (ProdVFI + ProdCache)&lt;br&gt;regtest: case 2 (NewVFI + ProdCache) &lt;br&gt;+ Performance tests / Load tests&lt;br&gt;&lt;br&gt;2. Regression tests.&lt;br&gt;baseline: case 1 (ProdVFI + ProdCache)&lt;br&gt;regtest: case 4 (NewVFI + NewCache) +&amp;nbsp;Performance tests / Load tests" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
+          <mxGeometry x="-460" y="250" width="280" height="190" as="geometry" />
         </mxCell>
         <mxCell id="4zq0gizbVHk_ZzvY18hJ-15" value="CIS and Gamma alarms (20 minutes waiting)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
           <mxGeometry x="-150" y="250" width="240" height="60" as="geometry" />
@@ -845,14 +845,14 @@
         <mxCell id="4zq0gizbVHk_ZzvY18hJ-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
           <mxGeometry x="-790" y="600" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4zq0gizbVHk_ZzvY18hJ-22" value="Functional tests" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
-          <mxGeometry x="-780" y="740" width="120" height="60" as="geometry" />
+        <mxCell id="4zq0gizbVHk_ZzvY18hJ-22" value="ATROPSCacheBuildWorkflow integration tests" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
+          <mxGeometry x="-790" y="740" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4zq0gizbVHk_ZzvY18hJ-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
           <mxGeometry x="-470" y="600" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4zq0gizbVHk_ZzvY18hJ-24" value="1. Regression tests for case 2 (NewVFI + ProdCache)&lt;br&gt;2. Performance tests / Load tests&lt;br&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
-          <mxGeometry x="-470" y="740" width="240" height="60" as="geometry" />
+        <mxCell id="4zq0gizbVHk_ZzvY18hJ-24" value="Regression tests.&lt;br&gt;baseline: case 1 (ProdVFI + ProdCache) &lt;br&gt;regtest: case 3 (ProdVFI+ NewCache)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
+          <mxGeometry x="-470" y="740" width="300" height="110" as="geometry" />
         </mxCell>
         <mxCell id="4zq0gizbVHk_ZzvY18hJ-25" value="CIS and Gamma alarms (20 minutes waiting)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
           <mxGeometry x="-150" y="740" width="220" height="60" as="geometry" />
@@ -862,6 +862,9 @@
         </mxCell>
         <mxCell id="4zq0gizbVHk_ZzvY18hJ-27" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
           <mxGeometry x="210" y="170" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4zq0gizbVHk_ZzvY18hJ-29" value="ATROPSDataAccess" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
+          <mxGeometry x="-1170" y="600" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
