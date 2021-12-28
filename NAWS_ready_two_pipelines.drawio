@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-14T22:52:20.505Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="xR1Y5yENafou3LxNlp3N" version="15.9.6" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-12-28T22:13:53.525Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="LVCsaH3TA2ZJDzH6tsKC" version="16.0.0" type="github" pages="8">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
-    <mxGraphModel dx="5506" dy="2587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5028" dy="2402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="no3aaxT7zXqI6Jh2efV5-0" />
         <mxCell id="no3aaxT7zXqI6Jh2efV5-1" parent="no3aaxT7zXqI6Jh2efV5-0" />
@@ -269,7 +269,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2MLWIWt5jUmwFw6QbPeq" name="Introduction">
-    <mxGraphModel dx="6356" dy="2587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5878" dy="2402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="AUR7GdO5ki74rOfuKmTA-0" />
         <mxCell id="AUR7GdO5ki74rOfuKmTA-1" parent="AUR7GdO5ki74rOfuKmTA-0" />
@@ -279,7 +279,7 @@
         <mxCell id="AUR7GdO5ki74rOfuKmTA-4" value="ATROPSCacheBuildWorkflow&amp;nbsp;NAWS pipeline" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" parent="AUR7GdO5ki74rOfuKmTA-1" vertex="1">
           <mxGeometry x="-690" y="240" width="78" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="AUR7GdO5ki74rOfuKmTA-7" value="ATROPSCacheBuildWorkflow&amp;nbsp;NAWS-ready pipeline" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" parent="AUR7GdO5ki74rOfuKmTA-1" vertex="1">
+        <mxCell id="AUR7GdO5ki74rOfuKmTA-7" value="Refactored ATROPSCacheBuildWorkflow MAWS pipeline" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" parent="AUR7GdO5ki74rOfuKmTA-1" vertex="1">
           <mxGeometry x="-1140" y="240" width="78" height="42" as="geometry" />
         </mxCell>
         <mxCell id="AUR7GdO5ki74rOfuKmTA-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;curved=1;" parent="AUR7GdO5ki74rOfuKmTA-1" source="AUR7GdO5ki74rOfuKmTA-8" target="AUR7GdO5ki74rOfuKmTA-14" edge="1">
@@ -310,7 +310,7 @@
         <mxCell id="AUR7GdO5ki74rOfuKmTA-12" value="ATROPSService MAWS pipeline" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" parent="AUR7GdO5ki74rOfuKmTA-1" vertex="1">
           <mxGeometry x="-1430" y="40" width="78" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="AUR7GdO5ki74rOfuKmTA-13" value="ATROPSService NAWS-ready pipeline" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" parent="AUR7GdO5ki74rOfuKmTA-1" vertex="1">
+        <mxCell id="AUR7GdO5ki74rOfuKmTA-13" value="Refactored ATROPSService MAWS pipeline" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" parent="AUR7GdO5ki74rOfuKmTA-1" vertex="1">
           <mxGeometry x="-1140" y="40" width="78" height="42" as="geometry" />
         </mxCell>
         <mxCell id="AUR7GdO5ki74rOfuKmTA-14" value="ATROPSService NAWS pipeline" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" parent="AUR7GdO5ki74rOfuKmTA-1" vertex="1">
@@ -359,7 +359,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Z2ExTp5K6AKtjB-6Kcgs" name="update cache data using Apollo">
-    <mxGraphModel dx="4656" dy="1487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4178" dy="1302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Yzr12HXuq8L0LepkszEk-0" />
         <mxCell id="Yzr12HXuq8L0LepkszEk-1" parent="Yzr12HXuq8L0LepkszEk-0" />
@@ -482,7 +482,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Don-ydBUnl2p7EiqHfV2" name="upload cache data using S3">
-    <mxGraphModel dx="4656" dy="1487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4178" dy="1302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0g7Tv6lx7ARxwJ9f37M4-0" />
         <mxCell id="0g7Tv6lx7ARxwJ9f37M4-1" parent="0g7Tv6lx7ARxwJ9f37M4-0" />
@@ -587,7 +587,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fHoSpmpbslikYglGtgcO" name="code-cache compatibility">
-    <mxGraphModel dx="5506" dy="2587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5028" dy="2402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0o48kv1sgL1Vjyf0R1wJ-0" />
         <mxCell id="0o48kv1sgL1Vjyf0R1wJ-1" parent="0o48kv1sgL1Vjyf0R1wJ-0" />
