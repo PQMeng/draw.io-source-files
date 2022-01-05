@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-05T23:57:10.973Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="UJUIslf8gb8XS5hGMqQL" version="16.0.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-01-05T23:57:51.643Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Pezr4yhsvZy1QYFYDHni" version="16.0.0" type="github" pages="9">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="5028" dy="2402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1149,13 +1149,13 @@
           <mxGeometry x="190" y="596" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oo6RbS8svasAvobeqkH_-76" value="I. ATROPSCacheBuildWorkflow MAWS pipeline" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;fontSize=25;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
-          <mxGeometry x="-1410" y="-80" width="540" height="40" as="geometry" />
+          <mxGeometry x="-1460" y="-90" width="540" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oo6RbS8svasAvobeqkH_-77" value="II. ATROPSService-Test MAWS pipeline" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontSize=25;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
-          <mxGeometry x="-1415" y="350" width="460" height="40" as="geometry" />
+          <mxGeometry x="-1460" y="350" width="460" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oo6RbS8svasAvobeqkH_-78" value="III. ATROPSService-Release MAWS pipeline" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;fontSize=25;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
-          <mxGeometry x="-1425" y="727.5" width="510" height="40" as="geometry" />
+          <mxGeometry x="-1460" y="727.5" width="510" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
