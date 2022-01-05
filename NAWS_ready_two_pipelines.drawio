@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-05T23:57:51.643Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Pezr4yhsvZy1QYFYDHni" version="16.0.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-01-05T23:58:18.891Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="eY7PTzXieAvaekdKIKLs" version="16.0.0" type="github" pages="9">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="5028" dy="2402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -837,7 +837,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Bw0u8OtxaHTxY5zFHHNA" name="Refracted ATROPSCacheBuildWorkflow MAWS pipeline">
-    <mxGraphModel dx="5091" dy="2388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5411" dy="2388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="4zq0gizbVHk_ZzvY18hJ-0" />
         <mxCell id="4zq0gizbVHk_ZzvY18hJ-1" parent="4zq0gizbVHk_ZzvY18hJ-0" />
@@ -1092,7 +1092,7 @@
           <mxGeometry x="-900" y="940" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oo6RbS8svasAvobeqkH_-75" value="" style="group;fontSize=18;fontStyle=0" vertex="1" connectable="0" parent="4zq0gizbVHk_ZzvY18hJ-1">
-          <mxGeometry x="-2230" width="390" height="626" as="geometry" />
+          <mxGeometry x="-2020" y="-90" width="390" height="626" as="geometry" />
         </mxCell>
         <mxCell id="1feQFLo7mZAO9X-qMvAv-0" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#1A1A1A;fontSize=18;fontStyle=0" vertex="1" parent="oo6RbS8svasAvobeqkH_-75">
           <mxGeometry x="30" width="100" height="60" as="geometry" />
