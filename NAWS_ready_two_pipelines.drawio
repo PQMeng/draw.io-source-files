@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-05T23:50:56.771Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="trWSN7uSib1wi8Izt3w2" version="16.0.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-01-05T23:57:10.973Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="UJUIslf8gb8XS5hGMqQL" version="16.0.0" type="github" pages="9">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="5028" dy="2402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -837,7 +837,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Bw0u8OtxaHTxY5zFHHNA" name="Refracted ATROPSCacheBuildWorkflow MAWS pipeline">
-    <mxGraphModel dx="5411" dy="2483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5091" dy="2388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="4zq0gizbVHk_ZzvY18hJ-0" />
         <mxCell id="4zq0gizbVHk_ZzvY18hJ-1" parent="4zq0gizbVHk_ZzvY18hJ-0" />
@@ -1092,7 +1092,7 @@
           <mxGeometry x="-900" y="940" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oo6RbS8svasAvobeqkH_-75" value="" style="group;fontSize=18;fontStyle=0" vertex="1" connectable="0" parent="4zq0gizbVHk_ZzvY18hJ-1">
-          <mxGeometry x="-1990" width="390" height="626" as="geometry" />
+          <mxGeometry x="-2230" width="390" height="626" as="geometry" />
         </mxCell>
         <mxCell id="1feQFLo7mZAO9X-qMvAv-0" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#1A1A1A;fontSize=18;fontStyle=0" vertex="1" parent="oo6RbS8svasAvobeqkH_-75">
           <mxGeometry x="30" width="100" height="60" as="geometry" />
@@ -1147,6 +1147,15 @@
         </mxCell>
         <mxCell id="oo6RbS8svasAvobeqkH_-70" value="connectivity" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontStyle=0" vertex="1" parent="oo6RbS8svasAvobeqkH_-75">
           <mxGeometry x="190" y="596" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oo6RbS8svasAvobeqkH_-76" value="I. ATROPSCacheBuildWorkflow MAWS pipeline" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;fontSize=25;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
+          <mxGeometry x="-1410" y="-80" width="540" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oo6RbS8svasAvobeqkH_-77" value="II. ATROPSService-Test MAWS pipeline" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontSize=25;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
+          <mxGeometry x="-1415" y="350" width="460" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oo6RbS8svasAvobeqkH_-78" value="III. ATROPSService-Release MAWS pipeline" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;fontSize=25;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
+          <mxGeometry x="-1425" y="727.5" width="510" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
