@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-06T23:31:56.153Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Dwj5jd6Xn17PvJqVb3kd" version="16.2.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-01-06T23:39:30.307Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="J7HjuF4Ya1UzlWbDw_oM" version="16.2.2" type="github" pages="9">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="3846" dy="2137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -837,7 +837,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Bw0u8OtxaHTxY5zFHHNA" name="Refracted ATROPSCacheBuildWorkflow MAWS pipeline">
-    <mxGraphModel dx="5616" dy="2581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5233" dy="2396" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="4zq0gizbVHk_ZzvY18hJ-0" />
         <mxCell id="4zq0gizbVHk_ZzvY18hJ-1" parent="4zq0gizbVHk_ZzvY18hJ-0" />
@@ -853,7 +853,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1feQFLo7mZAO9X-qMvAv-14" value="ATROPSDataAccess" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
-          <mxGeometry x="-1410" y="140" width="180" height="60" as="geometry" />
+          <mxGeometry x="-1410" y="110" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VLcfHtQen0w4DkQXCliC-1" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;strokeWidth=3;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="4zq0gizbVHk_ZzvY18hJ-1" source="1feQFLo7mZAO9X-qMvAv-16" target="1feQFLo7mZAO9X-qMvAv-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -890,8 +890,8 @@
         <mxCell id="VLcfHtQen0w4DkQXCliC-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
           <mxGeometry x="-280" y="25" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VLcfHtQen0w4DkQXCliC-6" value="dataset integrity tests" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
-          <mxGeometry x="-280" y="100" width="180" height="40" as="geometry" />
+        <mxCell id="VLcfHtQen0w4DkQXCliC-6" value="dataset integrity tests (startup requests)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
+          <mxGeometry x="600" y="-120" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VLcfHtQen0w4DkQXCliC-7" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;prod&amp;nbsp;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=16;" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
           <mxGeometry x="10" y="-40" width="180" height="40" as="geometry" />
@@ -1156,6 +1156,9 @@
         </mxCell>
         <mxCell id="oo6RbS8svasAvobeqkH_-78" value="III. ATROPSService-Release MAWS pipeline" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;fontSize=25;" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
           <mxGeometry x="-1460" y="727.5" width="510" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PNtUPeH3NHRRW5MrmUUP-2" value="code-cache compatibility" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
+          <mxGeometry x="-280" y="100" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
