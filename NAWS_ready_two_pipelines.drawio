@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-10T23:22:37.213Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="EsySwu1BO_WSxuhw9xp0" version="16.2.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-01-10T23:28:10.603Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="SBR0-aEJoMP_kOs_JfS1" version="16.2.2" type="github" pages="9">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="3846" dy="2137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1126,16 +1126,13 @@
           <mxGeometry x="-1125" y="247.5" width="500" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PNtUPeH3NHRRW5MrmUUP-2" value="code-cache compatibility (newVFI + prodCache)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
-          <mxGeometry x="70" y="150" width="180" height="40" as="geometry" />
+          <mxGeometry x="-40" y="150" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PNtUPeH3NHRRW5MrmUUP-7" value="ATROPSService/staging" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;fillColor=#E6E6E6;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
           <mxGeometry x="-1090" y="320" width="265" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PNtUPeH3NHRRW5MrmUUP-9" value="code-cache compatibility (newVFI + newCache)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
-          <mxGeometry x="70" y="840" width="180" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="PNtUPeH3NHRRW5MrmUUP-10" value="code-cache compatibility (newVFI + newCache). early detection" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
-          <mxGeometry x="300" y="150" width="180" height="40" as="geometry" />
+        <mxCell id="PNtUPeH3NHRRW5MrmUUP-10" value="code-cache compatibility (newVFI + newCache)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
+          <mxGeometry x="180" y="150" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PNtUPeH3NHRRW5MrmUUP-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=35;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=15;strokeColor=#333333;strokeWidth=2;" edge="1" parent="4zq0gizbVHk_ZzvY18hJ-1" source="PNtUPeH3NHRRW5MrmUUP-11" target="VLcfHtQen0w4DkQXCliC-8">
           <mxGeometry relative="1" as="geometry" />
