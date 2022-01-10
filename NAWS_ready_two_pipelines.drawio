@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-10T21:53:29.287Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="OKnua9f8FkmsNldFFfYH" version="16.2.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-01-10T23:22:37.213Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="EsySwu1BO_WSxuhw9xp0" version="16.2.2" type="github" pages="9">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="3846" dy="2137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1148,6 +1148,12 @@
         </mxCell>
         <mxCell id="PNtUPeH3NHRRW5MrmUUP-14" value="Cache Producer" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;direction=east;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
           <mxGeometry x="-1380" y="557.5" width="50" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="PNtUPeH3NHRRW5MrmUUP-15" value="code-cache status bar: newVFI + prodCache" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
+          <mxGeometry x="-230" y="240" width="1200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PNtUPeH3NHRRW5MrmUUP-16" value="code-cache status bar: newVFI + newCache" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
+          <mxGeometry x="360" y="650" width="380" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
