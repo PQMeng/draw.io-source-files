@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T20:13:50.699Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="3Y23aYqDpyPCFygdrWGy" version="16.2.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-01-11T20:14:27.952Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="leLUj-0qtnxQtVezbEew" version="16.2.2" type="github" pages="9">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="3846" dy="2137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1190,6 +1190,14 @@
         </mxCell>
         <mxCell id="PNtUPeH3NHRRW5MrmUUP-33" value="Merge the ATROPSSharedConfig&lt;br&gt;and cache builder related packages. &lt;br&gt;&lt;br&gt;Please note, ATROPSService/mainline directly tracks cache builder related packages, so it will keep the newer version, even if the live version set has the older version when merging." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=18;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
           <mxGeometry x="-880" y="-380" width="560" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="PNtUPeH3NHRRW5MrmUUP-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=18;fontColor=#CC0066;strokeColor=#333333;strokeWidth=2;" edge="1" parent="4zq0gizbVHk_ZzvY18hJ-1" source="PNtUPeH3NHRRW5MrmUUP-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-820" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PNtUPeH3NHRRW5MrmUUP-35" value="Merge the ATROPSSharedConfig&lt;br&gt;and cache builder related packages. &lt;br&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=18;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
+          <mxGeometry x="-1480" y="931" width="350" height="109" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
