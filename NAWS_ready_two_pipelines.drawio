@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T20:13:09.893Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Vw14ZQ_QHalumlVLspDP" version="16.2.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-01-11T20:13:20.813Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="zv_XQ2NJUIeduYqZp_j7" version="16.2.2" type="github" pages="9">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="3846" dy="2137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1188,7 +1188,7 @@
             <mxPoint x="-820" y="-30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PNtUPeH3NHRRW5MrmUUP-33" value="Merge the ATROPSSharedConfig&lt;br&gt;and cache builder related packages only. Please note, ATROPSService/mainline directly tracks cache builder related packages, so it will keep the newer version, even if the live version set has the older version when merging." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=18;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
+        <mxCell id="PNtUPeH3NHRRW5MrmUUP-33" value="Merge the ATROPSSharedConfig&lt;br&gt;and cache builder related packages only. &lt;br&gt;&lt;br&gt;Please note, ATROPSService/mainline directly tracks cache builder related packages, so it will keep the newer version, even if the live version set has the older version when merging." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=18;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
           <mxGeometry x="-880" y="-380" width="560" height="160" as="geometry" />
         </mxCell>
       </root>
