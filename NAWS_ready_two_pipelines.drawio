@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T01:25:27.345Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="TPZfZg_MYobVbtNJQ4IK" version="16.2.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-01-11T19:57:35.421Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="y819hcPZmW4DmscaLzG_" version="16.2.2" type="github" pages="9">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="3846" dy="2137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -905,7 +905,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oo6RbS8svasAvobeqkH_-4" value="&lt;br&gt;ATROPSDataAccess and others cache builder packages.&lt;br&gt;&lt;br&gt;ATROPSCore, ATROPSService&lt;br&gt;and other ATROPS packages" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
+        <mxCell id="oo6RbS8svasAvobeqkH_-4" value="&lt;br&gt;&lt;font color=&quot;#cc0066&quot; style=&quot;font-size: 20px&quot;&gt;ATROPSDataAccess and others cache builder packages&lt;/font&gt;.&lt;br&gt;&lt;br&gt;ATROPSCore, ATROPSService&lt;br&gt;and other ATROPS packages" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
           <mxGeometry x="-1060" y="10" width="180" height="200" as="geometry" />
         </mxCell>
         <mxCell id="oo6RbS8svasAvobeqkH_-8" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;Alpha&amp;nbsp;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=16;" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
@@ -1044,8 +1044,8 @@
         <mxCell id="oo6RbS8svasAvobeqkH_-58" value="live" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;fillColor=#B3B3B3;" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
           <mxGeometry x="1080" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oo6RbS8svasAvobeqkH_-60" value="AAASecurityDaemon/Prod&lt;br&gt;and other consumed envs" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
-          <mxGeometry x="-550" y="890" width="260" height="60" as="geometry" />
+        <mxCell id="oo6RbS8svasAvobeqkH_-60" value="AAASecurityDaemon/Prod&lt;br&gt;and other consumed envs&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#cc0066&quot; style=&quot;font-size: 20px&quot;&gt;ATROPSCacheBuilder/Gamma&lt;br&gt;ATROPSCacheBuilder/Prod&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
+          <mxGeometry x="-550" y="890" width="260" height="130" as="geometry" />
         </mxCell>
         <mxCell id="oo6RbS8svasAvobeqkH_-62" value="AAASecurityDaemon/Prod&lt;br&gt;and other consumed envs" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
           <mxGeometry x="-550" y="70" width="260" height="60" as="geometry" />
