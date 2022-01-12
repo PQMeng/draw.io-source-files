@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T22:15:20.552Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="h6egPDqXiolOuzDjb1jf" version="16.2.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-01-12T22:32:00.476Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="qOrE8BoIQ5-PeUr9IQ0p" version="16.2.2" type="github" pages="9">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="3846" dy="2137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1122,14 +1122,14 @@
         <mxCell id="oo6RbS8svasAvobeqkH_-78" value="II. ATROPSService-Release MAWS pipeline" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;fontSize=25;" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
           <mxGeometry x="-1125" y="247.5" width="500" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PNtUPeH3NHRRW5MrmUUP-2" value="code-cache compatibility &lt;br&gt;&lt;br&gt;(to be released) prodATROPSCode + newCache &lt;br&gt;vs &lt;br&gt;(baseline) prodATROPSCode + prodCache" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
-          <mxGeometry x="70" y="840" width="180" height="170" as="geometry" />
+        <mxCell id="PNtUPeH3NHRRW5MrmUUP-2" value="code-cache compatibility (both for MAWS and NAWS endpoints?)&lt;br&gt;&lt;br&gt;(to be released) prodATROPSCode + newCache &lt;br&gt;vs &lt;br&gt;(baseline) prodATROPSCode + prodCache" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
+          <mxGeometry x="35" y="840" width="250" height="300" as="geometry" />
         </mxCell>
         <mxCell id="PNtUPeH3NHRRW5MrmUUP-7" value="ATROPSService/staging" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;fillColor=#E6E6E6;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
           <mxGeometry x="-1090" y="320" width="265" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PNtUPeH3NHRRW5MrmUUP-11" value="Note, this is the stage where cache is built by production RC.&lt;br&gt;&lt;br&gt;After release, G2S2 not updated, until a new RC is launched." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=17;strokeWidth=1;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
-          <mxGeometry x="570" y="940" width="310" height="160" as="geometry" />
+        <mxCell id="PNtUPeH3NHRRW5MrmUUP-11" value="Note, this is the stage where cache is built by production RC.&lt;br&gt;&lt;br&gt;After release, G2S2 not updated, until a new RC is launched.&lt;br&gt;&lt;br&gt;Q: After release, update G2S2 to make sure all production EC2 hosts use the newCache" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=17;strokeWidth=1;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
+          <mxGeometry x="570" y="940" width="310" height="250" as="geometry" />
         </mxCell>
         <mxCell id="PNtUPeH3NHRRW5MrmUUP-13" value="Cache Consumer" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;direction=east;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
           <mxGeometry x="-1380" y="247.5" width="50" height="310" as="geometry" />
