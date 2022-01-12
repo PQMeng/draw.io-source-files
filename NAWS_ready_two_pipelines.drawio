@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T22:32:00.476Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="qOrE8BoIQ5-PeUr9IQ0p" version="16.2.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-01-12T22:38:17.786Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="7SLIPiXqGgEGoXpFe7K1" version="16.2.2" type="github" pages="9">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="3846" dy="2137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1122,7 +1122,7 @@
         <mxCell id="oo6RbS8svasAvobeqkH_-78" value="II. ATROPSService-Release MAWS pipeline" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;fontSize=25;" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
           <mxGeometry x="-1125" y="247.5" width="500" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PNtUPeH3NHRRW5MrmUUP-2" value="code-cache compatibility (both for MAWS and NAWS endpoints?)&lt;br&gt;&lt;br&gt;(to be released) prodATROPSCode + newCache &lt;br&gt;vs &lt;br&gt;(baseline) prodATROPSCode + prodCache" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
+        <mxCell id="PNtUPeH3NHRRW5MrmUUP-2" value="code-cache compatibility (both for MAWS and NAWS endpoints?)&lt;br&gt;&lt;br&gt;(to be released) prodATROPSCode + newCache &lt;br&gt;vs &lt;br&gt;(baseline) prodATROPSCode + prodCache&lt;br&gt;&lt;br&gt;Why need bounce (sync with Ivan)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
           <mxGeometry x="35" y="840" width="250" height="300" as="geometry" />
         </mxCell>
         <mxCell id="PNtUPeH3NHRRW5MrmUUP-7" value="ATROPSService/staging" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;fillColor=#E6E6E6;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
