@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-14T23:27:19.682Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="wl6R5KO3fCDT6-8CH3f-" version="16.2.6" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-01-14T23:27:29.831Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="TRYA2MMcUI-rjZncFKFl" version="16.2.6" type="github" pages="9">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="5268" dy="2402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1129,7 +1129,7 @@
           <mxGeometry x="-1090" y="320" width="265" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PNtUPeH3NHRRW5MrmUUP-11" value="Note, this is the stage where cache is built by production RCs.&lt;br&gt;&lt;br&gt;Currently, after release, new cache building is not triggered, until a new RC is launched.&lt;br&gt;&lt;br&gt;Q: After release, should we update G2S2 to make sure all production EC2 hosts use the newCache?" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=17;strokeWidth=1;" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
-          <mxGeometry x="570" y="940" width="310" height="250" as="geometry" />
+          <mxGeometry x="520" y="960" width="310" height="250" as="geometry" />
         </mxCell>
         <mxCell id="PNtUPeH3NHRRW5MrmUUP-13" value="Cache Consumer" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;direction=east;" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
           <mxGeometry x="-1380" y="247.5" width="50" height="310" as="geometry" />
