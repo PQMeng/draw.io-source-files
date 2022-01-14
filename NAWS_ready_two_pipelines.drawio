@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-14T23:27:29.831Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="TRYA2MMcUI-rjZncFKFl" version="16.2.6" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-01-14T23:27:48.989Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="Sa9s7y5TeDYA4eDCbzxI" version="16.2.6" type="github" pages="9">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="5268" dy="2402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -944,8 +944,10 @@
         <mxCell id="oo6RbS8svasAvobeqkH_-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
           <mxGeometry x="70" y="355" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="PNtUPeH3NHRRW5MrmUUP-54" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontColor=#CC0066;strokeColor=#333333;strokeWidth=2;" parent="4zq0gizbVHk_ZzvY18hJ-1" source="oo6RbS8svasAvobeqkH_-19" target="PNtUPeH3NHRRW5MrmUUP-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="PNtUPeH3NHRRW5MrmUUP-54" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontColor=#CC0066;strokeColor=#333333;strokeWidth=2;" parent="4zq0gizbVHk_ZzvY18hJ-1" source="oo6RbS8svasAvobeqkH_-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="378.4210526315792" y="280" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="oo6RbS8svasAvobeqkH_-19" value="&lt;b style=&quot;font-size: 16px&quot;&gt;prod-EU&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=16;" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
           <mxGeometry x="300" y="287.5" width="180" height="40" as="geometry" />
@@ -1136,12 +1138,6 @@
         </mxCell>
         <mxCell id="PNtUPeH3NHRRW5MrmUUP-14" value="Cache Producer" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;direction=east;" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
           <mxGeometry x="-1380" y="557.5" width="50" height="330" as="geometry" />
-        </mxCell>
-        <mxCell id="PNtUPeH3NHRRW5MrmUUP-15" value="code-cache status bar on EC2 hosts on production: newCode + prodCache" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontColor=#A66990;fontStyle=1" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
-          <mxGeometry x="-230" y="240" width="1200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="PNtUPeH3NHRRW5MrmUUP-16" value="code-cache status bar: newCache (Producer)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontColor=#FFB570;fontStyle=1" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
-          <mxGeometry x="360" y="600" width="450" height="90" as="geometry" />
         </mxCell>
         <mxCell id="PNtUPeH3NHRRW5MrmUUP-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=20;fontColor=#FFB570;strokeColor=#d79b00;strokeWidth=3;curved=1;fillColor=#ffe6cc;" parent="4zq0gizbVHk_ZzvY18hJ-1" source="PNtUPeH3NHRRW5MrmUUP-18" target="1feQFLo7mZAO9X-qMvAv-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
