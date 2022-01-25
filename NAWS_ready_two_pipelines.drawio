@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-25T01:09:52.225Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="XB_auM8dfFTgWqXEOyl2" version="16.2.7" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-01-25T01:15:32.453Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="881-Dz19ucDjMD-7XiH6" version="16.2.7" type="github" pages="9">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="5028" dy="2402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1166,6 +1166,12 @@
         </mxCell>
         <mxCell id="UPNnoS0v0_IpGkMLvSwG-0" value="ATROPSCacheBuildWokrflow/development" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
           <mxGeometry x="1100" y="340" width="345" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UPNnoS0v0_IpGkMLvSwG-1" value="AutoPublish" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=5;fontSize=18;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
+          <mxGeometry x="620" y="-44" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UPNnoS0v0_IpGkMLvSwG-2" value="AutoPublish" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=5;fontSize=18;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
+          <mxGeometry x="985" y="345" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
