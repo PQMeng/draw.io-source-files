@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-25T23:11:27.891Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="mxt_EkbnRWIdxBBfbzLi" version="16.2.7" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-01-25T23:59:29.245Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="v2X7FWMTLNFJuINYG87y" version="16.2.7" type="github" pages="10">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="5028" dy="2402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -837,7 +837,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Bw0u8OtxaHTxY5zFHHNA" name="Refracted ATROPSCacheBuildWorkflow MAWS pipeline">
-    <mxGraphModel dx="5878" dy="2338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5878" dy="2402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="4zq0gizbVHk_ZzvY18hJ-0" />
         <mxCell id="4zq0gizbVHk_ZzvY18hJ-1" parent="4zq0gizbVHk_ZzvY18hJ-0" />
@@ -1158,6 +1158,59 @@
         </mxCell>
         <mxCell id="UPNnoS0v0_IpGkMLvSwG-2" value="AutoPublish" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=5;fontSize=18;" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
           <mxGeometry x="985" y="345" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="a9e60PuTGQPDjzxKSvQA" name="Page-10">
+    <mxGraphModel dx="4178" dy="1302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="6-_mVW4phuMw7F7UGn4q-0" />
+        <mxCell id="6-_mVW4phuMw7F7UGn4q-1" parent="6-_mVW4phuMw7F7UGn4q-0" />
+        <mxCell id="6-_mVW4phuMw7F7UGn4q-2" value="Week 1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="6-_mVW4phuMw7F7UGn4q-1">
+          <mxGeometry x="-550" y="300" width="550" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-_mVW4phuMw7F7UGn4q-3" value="Week 2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="6-_mVW4phuMw7F7UGn4q-1">
+          <mxGeometry y="300" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-_mVW4phuMw7F7UGn4q-4" value="Thur" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.alarm_clock;fontSize=18;" vertex="1" parent="6-_mVW4phuMw7F7UGn4q-1">
+          <mxGeometry x="-230" y="240" width="27" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qqJYp90q-h0-jZmOOjnR-0" value="&lt;b style=&quot;font-size: 16px&quot;&gt;alpha&amp;nbsp;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=16;" vertex="1" parent="6-_mVW4phuMw7F7UGn4q-1">
+          <mxGeometry x="-440" y="235" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="luC52MoGn5U06Y4IKzsU-0" value="&lt;b style=&quot;font-size: 16px&quot;&gt;code-cache compatibility validation&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=16;" vertex="1" parent="6-_mVW4phuMw7F7UGn4q-1">
+          <mxGeometry x="-180" y="235" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="luC52MoGn5U06Y4IKzsU-2" value="NewCode" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="6-_mVW4phuMw7F7UGn4q-1">
+          <mxGeometry x="-410" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N34uPd5O6_ORVXVfcUgN-0" value="Wed" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.alarm_clock;fontSize=18;" vertex="1" parent="6-_mVW4phuMw7F7UGn4q-1">
+          <mxGeometry x="270" y="240" width="27" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N34uPd5O6_ORVXVfcUgN-3" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=18;" edge="1" parent="6-_mVW4phuMw7F7UGn4q-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-217" y="530" as="sourcePoint" />
+            <mxPoint x="-217" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N34uPd5O6_ORVXVfcUgN-4" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=18;" edge="1" parent="6-_mVW4phuMw7F7UGn4q-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="283" y="530" as="sourcePoint" />
+            <mxPoint x="283" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N34uPd5O6_ORVXVfcUgN-5" value="NewCode pushed before week 1, Thursday is blocked at I. ATROPSService-Staging MAWS pipeline, alpha stage.&amp;nbsp;&lt;br&gt;&lt;br&gt;At week 1, Thursday, the clock is open and NewCode is promoted to the next stages." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=18;align=left;" vertex="1" parent="6-_mVW4phuMw7F7UGn4q-1">
+          <mxGeometry x="-510" y="510" width="270" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="3_DrNxGxo72D0w_vBP4f-0" value="&lt;b style=&quot;font-size: 16px&quot;&gt;release-validation&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=16;" vertex="1" parent="6-_mVW4phuMw7F7UGn4q-1">
+          <mxGeometry x="80" y="235" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3_DrNxGxo72D0w_vBP4f-1" value="During week 1, Thursday to week 2, Wed, NewCode is passed through all approval workflows under&amp;nbsp; I. ATROPSService-Staging MAWS pipeline, code-cache compatibility validation and release-validation stages.&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=18;align=left;" vertex="1" parent="6-_mVW4phuMw7F7UGn4q-1">
+          <mxGeometry x="-170" y="510" width="420" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="3_DrNxGxo72D0w_vBP4f-2" value="On week 2, Wednesday, release captain executes the release MCM to release NewCode via II. ATROPSService-Release pipeline, by manually approving the CIS verification stage.&amp;nbsp;&lt;br&gt;&lt;br&gt;After II. ATROPSService-Release pipeline release is complete, start release the III. ATROPSCacheBuildWorkflow pipeline.&lt;br&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;&lt;br&gt;Fi%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bb%20style%3D%26quot%3Bfont-size%3A%2016px%26quot%3B%26gt%3BCIS%20verification%26lt%3Bbr%20style%3D%26quot%3Bfont-size%3A%2016px%26quot%3B%26gt%3B%26lt%3B%2Fb%26gt%3B%22%20style%3D%22shape%3Dprocess%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BbackgroundOutline%3D1%3BfontSize%3D16%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-230%22%20y%3D%22287.5%22%20width%3D%22180%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bb%20style%3D%26quot%3Bfont-size%3A%2016px%26quot%3B%26gt%3BCIS%20verification%26lt%3Bbr%20style%3D%26quot%3Bfont-size%3A%2016px%26quot%3B%26gt%3B%26lt%3B%2Fb%26gt%3B%22%20style%3D%22shape%3Dprocess%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BbackgroundOutline%3D1%3BfontSize%3D16%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-230%22%20y%3D%22287.5%22%20width%3D%22180%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3Essss&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=18;align=left;" vertex="1" parent="6-_mVW4phuMw7F7UGn4q-1">
+          <mxGeometry x="320" y="510" width="420" height="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
