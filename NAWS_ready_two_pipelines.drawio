@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-25T01:05:46.239Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="_7dnM-cjdWTIXOV_9LOc" version="16.2.7" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-01-25T01:09:52.225Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="XB_auM8dfFTgWqXEOyl2" version="16.2.7" type="github" pages="9">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="5028" dy="2402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -837,7 +837,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Bw0u8OtxaHTxY5zFHHNA" name="Refracted ATROPSCacheBuildWorkflow MAWS pipeline">
-    <mxGraphModel dx="6118" dy="2402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5878" dy="2402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="4zq0gizbVHk_ZzvY18hJ-0" />
         <mxCell id="4zq0gizbVHk_ZzvY18hJ-1" parent="4zq0gizbVHk_ZzvY18hJ-0" />
@@ -847,7 +847,7 @@
         <mxCell id="VLcfHtQen0w4DkQXCliC-1" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;strokeWidth=3;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="4zq0gizbVHk_ZzvY18hJ-1" source="1feQFLo7mZAO9X-qMvAv-16" target="1feQFLo7mZAO9X-qMvAv-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1feQFLo7mZAO9X-qMvAv-16" value="ATROPSCacheBuildWokrflow/development" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
+        <mxCell id="1feQFLo7mZAO9X-qMvAv-16" value="ATROPSCacheBuildWokrflow/development" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
           <mxGeometry x="-755" y="750" width="345" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1feQFLo7mZAO9X-qMvAv-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;curved=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=3;" parent="4zq0gizbVHk_ZzvY18hJ-1" source="1feQFLo7mZAO9X-qMvAv-17" target="1feQFLo7mZAO9X-qMvAv-16" edge="1">
@@ -891,7 +891,7 @@
         <mxCell id="oo6RbS8svasAvobeqkH_-11" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" parent="4zq0gizbVHk_ZzvY18hJ-1" source="oo6RbS8svasAvobeqkH_-0" target="oo6RbS8svasAvobeqkH_-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oo6RbS8svasAvobeqkH_-0" value="ATROPSService/mainline" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
+        <mxCell id="oo6RbS8svasAvobeqkH_-0" value="ATROPSService/mainline" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
           <mxGeometry x="-755" y="-50" width="265" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oo6RbS8svasAvobeqkH_-66" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=16;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" parent="4zq0gizbVHk_ZzvY18hJ-1" source="oo6RbS8svasAvobeqkH_-3" target="oo6RbS8svasAvobeqkH_-0" edge="1">
@@ -973,9 +973,10 @@
         <mxCell id="oo6RbS8svasAvobeqkH_-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
           <mxGeometry x="750" y="355" width="220" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="oo6RbS8svasAvobeqkH_-59" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="4zq0gizbVHk_ZzvY18hJ-1" source="oo6RbS8svasAvobeqkH_-24" target="oo6RbS8svasAvobeqkH_-58" edge="1">
+        <mxCell id="oo6RbS8svasAvobeqkH_-59" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="4zq0gizbVHk_ZzvY18hJ-1" source="oo6RbS8svasAvobeqkH_-24" target="UPNnoS0v0_IpGkMLvSwG-0" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1230" y="380" as="sourcePoint" />
+            <mxPoint x="1080" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oo6RbS8svasAvobeqkH_-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;fontSize=16;strokeWidth=2;strokeColor=#333333;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="4zq0gizbVHk_ZzvY18hJ-1" source="oo6RbS8svasAvobeqkH_-29" target="PNtUPeH3NHRRW5MrmUUP-7" edge="1">
@@ -989,7 +990,7 @@
             <mxPoint x="-1160" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oo6RbS8svasAvobeqkH_-29" value="ATROPSService/release" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;fillColor=#E6E6E6;" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
+        <mxCell id="oo6RbS8svasAvobeqkH_-29" value="ATROPSService/release" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
           <mxGeometry x="750" y="-50" width="265" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oo6RbS8svasAvobeqkH_-47" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="4zq0gizbVHk_ZzvY18hJ-1" source="PNtUPeH3NHRRW5MrmUUP-7" target="oo6RbS8svasAvobeqkH_-44" edge="1">
@@ -1031,19 +1032,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-310" y="480" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="PNtUPeH3NHRRW5MrmUUP-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;strokeColor=#333333;" parent="4zq0gizbVHk_ZzvY18hJ-1" source="oo6RbS8svasAvobeqkH_-58" target="1feQFLo7mZAO9X-qMvAv-17" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1220" y="380" />
-              <mxPoint x="1220" y="575" />
-              <mxPoint x="-1220" y="575" />
-              <mxPoint x="-1220" y="770" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oo6RbS8svasAvobeqkH_-58" value="live" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;fillColor=#B3B3B3;" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
-          <mxGeometry x="1080" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oo6RbS8svasAvobeqkH_-60" value="AAASecurityDaemon/Prod&lt;br&gt;and other consumed envs&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#cc0066&quot; style=&quot;font-size: 20px&quot;&gt;ATROPSCacheBuilder/Gamma&lt;br&gt;ATROPSCacheBuilder/Prod&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
           <mxGeometry x="-550" y="890" width="260" height="130" as="geometry" />
@@ -1123,7 +1111,7 @@
         <mxCell id="PNtUPeH3NHRRW5MrmUUP-2" value="code-cache compatibility test&lt;br&gt;&lt;br&gt;baseline (prodCode [for ATROPS] + prodCache)&lt;br&gt;vs&lt;br&gt;(to be released) newCode [for ATROPS] + newCache" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
           <mxGeometry x="35" y="840" width="250" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="PNtUPeH3NHRRW5MrmUUP-7" value="ATROPSService/release" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;fillColor=#E6E6E6;" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
+        <mxCell id="PNtUPeH3NHRRW5MrmUUP-7" value="ATROPSService/release" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
           <mxGeometry x="-780" y="340" width="265" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PNtUPeH3NHRRW5MrmUUP-11" value="Note, this is the stage where cache is built by production RCs.&lt;br&gt;&lt;br&gt;Currently, after release, new cache building is not triggered, until a new RC is launched.&lt;br&gt;&lt;br&gt;Q: After release, should we update G2S2 to make sure all production EC2 hosts use the newCache?" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=17;strokeWidth=1;" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
@@ -1175,6 +1163,9 @@
         </mxCell>
         <mxCell id="VjXw4w3UAI3KicRrXk1o-3" value="regression tests" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
           <mxGeometry x="380" y="40" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UPNnoS0v0_IpGkMLvSwG-0" value="ATROPSCacheBuildWokrflow/development" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
+          <mxGeometry x="1100" y="340" width="345" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
