@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-26T00:19:10.567Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="AokMeT_UF4H4QSgBiRRo" version="16.2.7" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-01-26T00:20:39.339Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="7ywEJrtakKXV9yoV1Aup" version="16.2.7" type="github" pages="10">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="5028" dy="2402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -837,7 +837,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Bw0u8OtxaHTxY5zFHHNA" name="Refracted ATROPSCacheBuildWorkflow MAWS pipeline">
-    <mxGraphModel dx="5878" dy="2402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5878" dy="2338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="4zq0gizbVHk_ZzvY18hJ-0" />
         <mxCell id="4zq0gizbVHk_ZzvY18hJ-1" parent="4zq0gizbVHk_ZzvY18hJ-0" />
@@ -1159,11 +1159,17 @@
         <mxCell id="UPNnoS0v0_IpGkMLvSwG-2" value="AutoPublish" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=5;fontSize=18;" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
           <mxGeometry x="985" y="345" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="2OUMoTsotYBvilvgS_0m-0" value="Thur" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.alarm_clock;fontSize=18;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
+          <mxGeometry x="-10" y="-95" width="27" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JJlFYHBQMqHONmjVRzwk-0" value="Wed" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.alarm_clock;fontSize=18;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
+          <mxGeometry x="-10" y="292.5" width="27" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="a9e60PuTGQPDjzxKSvQA" name="weekly code release">
-    <mxGraphModel dx="4178" dy="1302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4178" dy="1238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="6-_mVW4phuMw7F7UGn4q-0" />
         <mxCell id="6-_mVW4phuMw7F7UGn4q-1" parent="6-_mVW4phuMw7F7UGn4q-0" />
