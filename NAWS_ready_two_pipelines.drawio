@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-27T23:49:32.395Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="jSFblvmA0sNIM6J7Y6dZ" version="16.2.7" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-01-27T23:59:18.569Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="IsV9nAoQvuuyyWjCcxir" version="16.2.7" type="github" pages="11">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="5268" dy="2402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -837,7 +837,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Bw0u8OtxaHTxY5zFHHNA" name="Refracted ATROPSCacheBuildWorkflow MAWS pipeline">
-    <mxGraphModel dx="6118" dy="2402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5878" dy="2402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="4zq0gizbVHk_ZzvY18hJ-0" />
         <mxCell id="4zq0gizbVHk_ZzvY18hJ-1" parent="4zq0gizbVHk_ZzvY18hJ-0" />
@@ -1094,7 +1094,7 @@
         <mxCell id="oo6RbS8svasAvobeqkH_-78" value="II. ATROPSService-Release MAWS pipeline" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;fontSize=25;" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
           <mxGeometry x="-1125" y="247.5" width="500" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PNtUPeH3NHRRW5MrmUUP-2" value="code-cache compatibility test&lt;br&gt;&lt;br&gt;baseline (prodCode [for ATROPS] + prodCache)&lt;br&gt;vs&lt;br&gt;(to be released) prodCode [for ATROPS] + newCache" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
+        <mxCell id="PNtUPeH3NHRRW5MrmUUP-2" value="code-cache compatibility test&lt;br&gt;&lt;br&gt;baseline (prodCode [for ATROPS] + prodCache)&lt;br&gt;vs&lt;br&gt;to be released (&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 20px&quot;&gt;prodCode&lt;/font&gt; [for ATROPS] + newCache)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
           <mxGeometry x="35" y="840" width="250" height="190" as="geometry" />
         </mxCell>
         <mxCell id="PNtUPeH3NHRRW5MrmUUP-7" value="ATROPSService/release" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
@@ -1157,6 +1157,9 @@
         </mxCell>
         <mxCell id="JJlFYHBQMqHONmjVRzwk-3" value="AutoPublish ATROPSSharedConfig only" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=5;fontSize=18;" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
           <mxGeometry x="910" y="480" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xvRbw52rgjAnOJCnc7OQ-4" value="(do we need this one?)&lt;br&gt;code-cache compatibility test&lt;br&gt;&lt;br&gt;baseline (prodCode [for ATROPS] + prodCache)&lt;br&gt;vs&lt;br&gt;to be released (&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 19px&quot;&gt;newCode&lt;/font&gt; [for ATROPS] + newCache)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
+          <mxGeometry x="35" y="1060" width="250" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
