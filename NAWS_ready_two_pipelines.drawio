@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-28T01:16:38.063Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="UJheD0foXfssVTVaYe3k" version="16.2.7" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-01-28T18:32:36.072Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="5RxpNX1sFHXjqSwPI4-f" version="16.2.7" type="github" pages="11">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="5268" dy="2402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -837,7 +837,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Bw0u8OtxaHTxY5zFHHNA" name="Refracted ATROPSCacheBuildWorkflow MAWS pipeline">
-    <mxGraphModel dx="5878" dy="2402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="6118" dy="2402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="4zq0gizbVHk_ZzvY18hJ-0" />
         <mxCell id="4zq0gizbVHk_ZzvY18hJ-1" parent="4zq0gizbVHk_ZzvY18hJ-0" />
@@ -1100,7 +1100,7 @@
         <mxCell id="PNtUPeH3NHRRW5MrmUUP-7" value="ATROPSService/release" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
           <mxGeometry x="-780" y="340" width="265" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PNtUPeH3NHRRW5MrmUUP-11" value="Note, this is the stage where cache is built by production RCs.&lt;br&gt;&lt;br&gt;Currently, after release, new cache building is not triggered, until a new RC is launched.&lt;br&gt;&lt;br&gt;Q: After release, should we update G2S2 to make sure all production EC2 hosts use the newCache?" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=17;strokeWidth=1;" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
+        <mxCell id="PNtUPeH3NHRRW5MrmUUP-11" value="Note, this is the stage where cache is built by production RCs.&lt;br&gt;&lt;br&gt;Currently, after release, new cache building is not triggered, until a new RC is executed.&lt;br&gt;&lt;br&gt;Q: After release, should we update G2S2 to make sure all production EC2 hosts use the newCache?" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=17;strokeWidth=1;" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
           <mxGeometry x="520" y="960" width="310" height="250" as="geometry" />
         </mxCell>
         <mxCell id="PNtUPeH3NHRRW5MrmUUP-13" value="Cache Consumer" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;direction=east;" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
