@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-01T21:49:02.293Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="_p100W4amWtGC9Ajndt3" version="16.5.2" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-02-01T22:14:00.044Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="egeB-JXjnSKerSM4m4tg" version="16.5.2" type="github" pages="13">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="5268" dy="2402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1161,12 +1161,6 @@
         <mxCell id="xvRbw52rgjAnOJCnc7OQ-4" value="&lt;font color=&quot;#cc0000&quot;&gt;(do we need this one?)&lt;br&gt;&lt;/font&gt;code-cache compatibility test&lt;br&gt;&lt;br&gt;baseline (prodCode [for ATROPS] + prodCache)&lt;br&gt;vs&lt;br&gt;to be released (&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 19px&quot;&gt;newCode&lt;/font&gt; [for ATROPS] + newCache)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" parent="4zq0gizbVHk_ZzvY18hJ-1" vertex="1">
           <mxGeometry x="35" y="1060" width="250" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="qAS3mXSuoUyoW4JJWQeQ-1" value="chaos tests" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
-          <mxGeometry x="150" y="222.5" width="420" height="37.5" as="geometry" />
-        </mxCell>
-        <mxCell id="s2_TGci3Sjki0rWWjt6i-0" value="CIS should after the ATROPSSharedConfig changes" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="4zq0gizbVHk_ZzvY18hJ-1">
-          <mxGeometry x="-240" y="510" width="200" height="100" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -1521,6 +1515,9 @@
         </mxCell>
         <mxCell id="K9dUeOy4qHA_z-7VvbK--0" value="ATROPSService-Release-nativeAWS" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=25;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" vertex="1" parent="8Pr_fSHH0Vp5eSxZrcAP-1">
           <mxGeometry x="1430" y="2.3100000000000023" width="400" height="215.38" as="geometry" />
+        </mxCell>
+        <mxCell id="wS3mPaxNoO83t54r-mpJ-0" value="CIS should after the ATROPSSharedConfig changes" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="8Pr_fSHH0Vp5eSxZrcAP-1">
+          <mxGeometry x="-240" y="510" width="200" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
