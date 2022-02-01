@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-01T23:26:24.416Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="FAdWQlPRqPdrIAQCwTP8" version="16.5.2" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-02-01T23:30:05.442Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="VFe0QWwptZqmtdlvAI4K" version="16.5.2" type="github" pages="14">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="5268" dy="2402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1709,37 +1709,37 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vHfqYuZVj2X4OEv_fgNe-0" value="&lt;b style=&quot;font-size: 16px&quot;&gt;prod-NA&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=16;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
-          <mxGeometry x="1745" y="490" width="180" height="40" as="geometry" />
+          <mxGeometry x="1780" y="490" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vHfqYuZVj2X4OEv_fgNe-1" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="Gb0QxALXs7Epk8y6YClU-1" source="vHfqYuZVj2X4OEv_fgNe-2" target="vHfqYuZVj2X4OEv_fgNe-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vHfqYuZVj2X4OEv_fgNe-2" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;ECS deployment target&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
-          <mxGeometry x="1745" y="557.5" width="180" height="50" as="geometry" />
+          <mxGeometry x="1780" y="557.5" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vHfqYuZVj2X4OEv_fgNe-3" value="&lt;b style=&quot;font-size: 16px&quot;&gt;prod-EU&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=16;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
-          <mxGeometry x="1975" y="490" width="180" height="40" as="geometry" />
+          <mxGeometry x="2070" y="490" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vHfqYuZVj2X4OEv_fgNe-4" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="Gb0QxALXs7Epk8y6YClU-1" source="vHfqYuZVj2X4OEv_fgNe-5" target="vHfqYuZVj2X4OEv_fgNe-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vHfqYuZVj2X4OEv_fgNe-5" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;ECS deployment target&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
-          <mxGeometry x="1975" y="557.5" width="180" height="50" as="geometry" />
+          <mxGeometry x="2070" y="557.5" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vHfqYuZVj2X4OEv_fgNe-6" value="&lt;b style=&quot;font-size: 16px&quot;&gt;prod-FE&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=16;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
-          <mxGeometry x="2205" y="490" width="180" height="40" as="geometry" />
+          <mxGeometry x="2360" y="490" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vHfqYuZVj2X4OEv_fgNe-7" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="Gb0QxALXs7Epk8y6YClU-1" source="vHfqYuZVj2X4OEv_fgNe-8" target="vHfqYuZVj2X4OEv_fgNe-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vHfqYuZVj2X4OEv_fgNe-8" value="&lt;span&gt;ECS deployment target&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
-          <mxGeometry x="2205" y="557.5" width="180" height="50" as="geometry" />
+          <mxGeometry x="2360" y="557.5" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vHfqYuZVj2X4OEv_fgNe-9" value="&lt;b style=&quot;font-size: 16px&quot;&gt;prod-CN&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=16;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
-          <mxGeometry x="2425" y="490" width="185" height="40" as="geometry" />
+          <mxGeometry x="2640" y="490" width="185" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vHfqYuZVj2X4OEv_fgNe-10" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;ECS deployment target&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
-          <mxGeometry x="2425" y="557.5" width="185" height="50" as="geometry" />
+          <mxGeometry x="2640" y="557.5" width="185" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vHfqYuZVj2X4OEv_fgNe-11" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="Gb0QxALXs7Epk8y6YClU-1" source="vHfqYuZVj2X4OEv_fgNe-19" target="vHfqYuZVj2X4OEv_fgNe-22">
           <mxGeometry relative="1" as="geometry">
@@ -1757,20 +1757,20 @@
             <mxPoint x="919.2982456140353" y="601.0964912280701" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vHfqYuZVj2X4OEv_fgNe-13" value="ATROPSSharedConfig" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
+        <mxCell id="vHfqYuZVj2X4OEv_fgNe-13" value="ATROPSSharedConfig" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=16;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
           <mxGeometry x="605" y="642.5" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vHfqYuZVj2X4OEv_fgNe-18" value="II. ATROPSService-Release-native pipeline" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;fontSize=25;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
+        <mxCell id="vHfqYuZVj2X4OEv_fgNe-18" value="II. ATROPSService-Release-native pipeline" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#cce5ff;fontSize=25;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
           <mxGeometry x="555" y="450" width="490" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vHfqYuZVj2X4OEv_fgNe-19" value="ATROPSService/release" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
+        <mxCell id="vHfqYuZVj2X4OEv_fgNe-19" value="ATROPSService/release" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
           <mxGeometry x="895" y="542.5" width="265" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vHfqYuZVj2X4OEv_fgNe-21" value="&lt;b style=&quot;font-size: 16px&quot;&gt;CIS-verification&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=16;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
           <mxGeometry x="1460" y="491" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vHfqYuZVj2X4OEv_fgNe-22" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;ECS deployment target&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
-          <mxGeometry x="1460" y="558.5" width="180" height="50" as="geometry" />
+          <mxGeometry x="1460" y="557.5" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vHfqYuZVj2X4OEv_fgNe-23" value="&lt;u&gt;Manual approval&lt;/u&gt;&lt;br&gt;&lt;br&gt;For ATROPSSharedConfig changes and weekly release code changes, verify the CIS simulation results in II. ATROPSService-Release-MAWS pipeline, CIS-verification stage. If everything is good, approve here." style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
           <mxGeometry x="1420" y="640" width="280" height="230" as="geometry" />
