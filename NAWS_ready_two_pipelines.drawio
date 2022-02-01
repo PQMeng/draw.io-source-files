@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-01T23:41:09.620Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="UpSqn_CXwrPq8T0nE-BS" version="16.5.2" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-02-01T23:43:47.736Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="syW00I5QufEYIv6V_uec" version="16.5.2" type="github" pages="14">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="5268" dy="2402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1597,8 +1597,8 @@
         <mxCell id="_Sa5jf0HU8xZuGDQSpfq-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=239.99999999999997;exitDy=65;exitPerimeter=0;entryX=-0.008;entryY=0.385;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontColor=#009900;" edge="1" parent="Gb0QxALXs7Epk8y6YClU-1" source="_Sa5jf0HU8xZuGDQSpfq-25" target="_Sa5jf0HU8xZuGDQSpfq-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_Sa5jf0HU8xZuGDQSpfq-25" value="Note, this entire pipeline is defined in CDK" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
-          <mxGeometry x="-1440" y="-180" width="240" height="100" as="geometry" />
+        <mxCell id="_Sa5jf0HU8xZuGDQSpfq-25" value="Note, this entire pipeline is defined in CDK" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=23;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
+          <mxGeometry x="-1560" y="-180" width="360" height="150" as="geometry" />
         </mxCell>
         <mxCell id="_Sa5jf0HU8xZuGDQSpfq-31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontColor=#009900;dashed=1;" edge="1" parent="Gb0QxALXs7Epk8y6YClU-1" source="_Sa5jf0HU8xZuGDQSpfq-26" target="_Sa5jf0HU8xZuGDQSpfq-6">
           <mxGeometry relative="1" as="geometry" />
@@ -1606,8 +1606,8 @@
         <mxCell id="_Sa5jf0HU8xZuGDQSpfq-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#009900;dashed=1;" edge="1" parent="Gb0QxALXs7Epk8y6YClU-1" source="_Sa5jf0HU8xZuGDQSpfq-26" target="_Sa5jf0HU8xZuGDQSpfq-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_Sa5jf0HU8xZuGDQSpfq-26" value="Note, all pink boxes are in native-AWS infra&lt;br&gt;Hydra, AWS Batch, Fargate" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
-          <mxGeometry x="-40" y="-280" width="270" height="100" as="geometry" />
+        <mxCell id="_Sa5jf0HU8xZuGDQSpfq-26" value="Note, all pink boxes are in native-AWS infra, include&lt;br style=&quot;font-size: 19px&quot;&gt;Hydra, AWS Batch, Fargate" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=19;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
+          <mxGeometry x="-30" y="-350" width="260" height="170" as="geometry" />
         </mxCell>
         <mxCell id="vHfqYuZVj2X4OEv_fgNe-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;dashed=1;fontColor=#009900;strokeColor=#7EA6E0;elbow=vertical;curved=1;strokeWidth=3;" edge="1" parent="Gb0QxALXs7Epk8y6YClU-1" source="_Sa5jf0HU8xZuGDQSpfq-27" target="vHfqYuZVj2X4OEv_fgNe-19">
           <mxGeometry relative="1" as="geometry">
@@ -1862,6 +1862,21 @@
             <mxPoint x="5500" y="-60" as="sourcePoint" />
             <mxPoint x="5365" y="-90" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="uBRtOFitl4szsU4WpkWy-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=360;exitDy=90;exitPerimeter=0;dashed=1;fontSize=19;fontColor=#000000;strokeColor=#000000;strokeWidth=1;elbow=vertical;entryX=-0.01;entryY=0.539;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Gb0QxALXs7Epk8y6YClU-1" source="uBRtOFitl4szsU4WpkWy-24" target="vHfqYuZVj2X4OEv_fgNe-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uBRtOFitl4szsU4WpkWy-24" value="Note, this entire pipeline is defined in CDK" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=23;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
+          <mxGeometry x="730" y="341" width="360" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="uBRtOFitl4szsU4WpkWy-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;fontSize=19;fontColor=#000000;strokeColor=#000000;strokeWidth=1;elbow=vertical;" edge="1" parent="Gb0QxALXs7Epk8y6YClU-1" source="uBRtOFitl4szsU4WpkWy-26" target="PbhVhEMthCwnt144fewY-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uBRtOFitl4szsU4WpkWy-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;fontSize=19;fontColor=#000000;strokeColor=#000000;strokeWidth=1;elbow=vertical;" edge="1" parent="Gb0QxALXs7Epk8y6YClU-1" source="uBRtOFitl4szsU4WpkWy-26" target="PbhVhEMthCwnt144fewY-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uBRtOFitl4szsU4WpkWy-26" value="Note, all pink boxes are in MAWS infra, include Tod and etc." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=19;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
+          <mxGeometry x="2330" y="-550" width="260" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
