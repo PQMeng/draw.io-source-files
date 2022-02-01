@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-01T23:44:22.738Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="0zbE8PHZ8YrBn7YMo9c6" version="16.5.2" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-02-01T23:46:05.902Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="uj_0PN93fiPlHr-iVc17" version="16.5.2" type="github" pages="14">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="5268" dy="2402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1715,7 +1715,8 @@
             <mxPoint x="1120" y="-10.449999999999989" as="sourcePoint" />
             <mxPoint x="1405" y="-10.449999999999989" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1073" y="-236" />
+              <mxPoint x="1150" y="-23" />
+              <mxPoint x="1150" y="-236" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1845,7 +1846,7 @@
         <mxCell id="uBRtOFitl4szsU4WpkWy-16" value="&lt;u&gt;code-cache compatibility test&lt;br&gt;&lt;/u&gt;&lt;br&gt;baseline endpoint (prodCache + prodCode) vs&amp;nbsp;&lt;br&gt;to-be-released endpoint (&lt;b&gt;newCache&lt;/b&gt; +&amp;nbsp;prodCode)&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(204 , 0 , 0)&quot;&gt;(do we need this one?)&lt;/span&gt;&lt;br style=&quot;color: rgb(204 , 0 , 0)&quot;&gt;baseline endpoint (prodCache + prodCode) vs&amp;nbsp;&lt;br&gt;to-be-released endpoint (&lt;b&gt;newCache&lt;/b&gt;&amp;nbsp;+ &lt;b&gt;newCode&lt;/b&gt;)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
           <mxGeometry x="4870" y="-160" width="370" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="uBRtOFitl4szsU4WpkWy-17" value="Note, this is the stage where cache is built by production RCs.&lt;br&gt;&lt;br&gt;Currently, after release, new cache building is not triggered, until a new RC is executed.&lt;br&gt;&lt;br&gt;Q: After release, should we update G2S2 to make sure all production EC2 hosts use the newCache?" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=17;strokeWidth=1;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
+        <mxCell id="uBRtOFitl4szsU4WpkWy-17" value="Note, this is the stage where cache is built by production RCs.&lt;br&gt;&lt;br&gt;Currently, after release, new cache building is not triggered, until a new RC is executed.&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;Q: After release, should we update G2S2 to make sure all production EC2 hosts use the newCache?&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=17;strokeWidth=1;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
           <mxGeometry x="5415" y="-40" width="310" height="250" as="geometry" />
         </mxCell>
         <mxCell id="uBRtOFitl4szsU4WpkWy-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=20;fontColor=#FFB570;strokeColor=#d79b00;strokeWidth=3;curved=1;fillColor=#ffe6cc;" edge="1" parent="Gb0QxALXs7Epk8y6YClU-1" source="uBRtOFitl4szsU4WpkWy-19" target="uBRtOFitl4szsU4WpkWy-2">
