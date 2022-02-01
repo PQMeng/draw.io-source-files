@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-01T23:38:47.733Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="ihCXOSyHvWFJ7bF_Aug6" version="16.5.2" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-02-01T23:41:09.620Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="UpSqn_CXwrPq8T0nE-BS" version="16.5.2" type="github" pages="14">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="5268" dy="2402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1771,8 +1771,8 @@
         <mxCell id="vHfqYuZVj2X4OEv_fgNe-13" value="ATROPSSharedConfig&lt;br&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;ATROPSServiceReleaseCDK&lt;br&gt;...&lt;br&gt;&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=16;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
           <mxGeometry x="1150" y="602.5" width="320" height="137.5" as="geometry" />
         </mxCell>
-        <mxCell id="vHfqYuZVj2X4OEv_fgNe-18" value="II. ATROPSService-Release-native pipeline" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#cce5ff;fontSize=25;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
-          <mxGeometry x="1240" y="410" width="490" height="40" as="geometry" />
+        <mxCell id="vHfqYuZVj2X4OEv_fgNe-18" value="III. ATROPSService-Release-native pipeline" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#cce5ff;fontSize=25;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
+          <mxGeometry x="1235" y="410" width="500" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vHfqYuZVj2X4OEv_fgNe-19" value="ATROPSService/release" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
           <mxGeometry x="1580" y="502.5" width="265" height="80" as="geometry" />
@@ -1810,7 +1810,7 @@
         <mxCell id="uBRtOFitl4szsU4WpkWy-5" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;strokeWidth=3;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="Gb0QxALXs7Epk8y6YClU-1" source="uBRtOFitl4szsU4WpkWy-6" target="uBRtOFitl4szsU4WpkWy-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uBRtOFitl4szsU4WpkWy-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
+        <mxCell id="uBRtOFitl4szsU4WpkWy-6" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Apollo environment&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
           <mxGeometry x="4665" y="-235" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uBRtOFitl4szsU4WpkWy-7" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;strokeWidth=3;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="Gb0QxALXs7Epk8y6YClU-1" source="uBRtOFitl4szsU4WpkWy-14" target="uBRtOFitl4szsU4WpkWy-6">
@@ -1827,19 +1827,19 @@
         <mxCell id="uBRtOFitl4szsU4WpkWy-10" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;strokeWidth=3;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="Gb0QxALXs7Epk8y6YClU-1" source="uBRtOFitl4szsU4WpkWy-11" target="uBRtOFitl4szsU4WpkWy-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uBRtOFitl4szsU4WpkWy-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
+        <mxCell id="uBRtOFitl4szsU4WpkWy-11" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Apollo environment&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
           <mxGeometry x="4965" y="-235" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uBRtOFitl4szsU4WpkWy-12" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;prod&amp;nbsp;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=16;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
           <mxGeometry x="5255" y="-300" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uBRtOFitl4szsU4WpkWy-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
+        <mxCell id="uBRtOFitl4szsU4WpkWy-13" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Apollo environment&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
           <mxGeometry x="5255" y="-235" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uBRtOFitl4szsU4WpkWy-14" value="AAASecurityDaemon/Prod&lt;br&gt;and other consumed envs&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#cc0066&quot; style=&quot;font-size: 20px&quot;&gt;ATROPSCacheBuilder/Gamma&lt;br&gt;ATROPSCacheBuilder/Prod&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
           <mxGeometry x="4345" y="-110" width="260" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="uBRtOFitl4szsU4WpkWy-15" value="III. ATROPSCacheBuildWorkflow MAWS pipeline" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;fontSize=25;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
+        <mxCell id="uBRtOFitl4szsU4WpkWy-15" value="IV. ATROPSCacheBuildWorkflow-MAWS pipeline" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;fontSize=25;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
           <mxGeometry x="3770" y="-350" width="560" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uBRtOFitl4szsU4WpkWy-16" value="&lt;u&gt;code-cache compatibility test&lt;br&gt;&lt;/u&gt;&lt;br&gt;baseline endpoint (prodCache + prodCode) vs&amp;nbsp;&lt;br&gt;to-be-released endpoint (&lt;b&gt;newCache&lt;/b&gt; +&amp;nbsp;prodCode)&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(204 , 0 , 0)&quot;&gt;(do we need this one?)&lt;/span&gt;&lt;br style=&quot;color: rgb(204 , 0 , 0)&quot;&gt;baseline endpoint (prodCache + prodCode) vs&amp;nbsp;&lt;br&gt;to-be-released endpoint (&lt;b&gt;newCache&lt;/b&gt;&amp;nbsp;+ &lt;b&gt;newCode&lt;/b&gt;)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
