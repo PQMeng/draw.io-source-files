@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-01T22:16:21.021Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="gF8QbDR8r1u7tDmVWMDw" version="16.5.2" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-02-01T22:16:30.169Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="iqeK-OQ6BxJZQPsWErRP" version="16.5.2" type="github" pages="13">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="5268" dy="2402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1164,7 +1164,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Copy of Refracted ATROPSCacheBuildWorkflow MAWS pipeline" id="U823b7MgiYlOSNG6qOgX">
+  <diagram name="Clocina-v2" id="U823b7MgiYlOSNG6qOgX">
     <mxGraphModel dx="6118" dy="2402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="8Pr_fSHH0Vp5eSxZrcAP-0" />
