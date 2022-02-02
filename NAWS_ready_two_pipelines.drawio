@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-02T21:59:43.347Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="_1J1WQDkfNcdZAwc1b21" version="16.5.2" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-02-02T22:56:00.385Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="DSwVRwr2XNXED9ZJyLTu" version="16.5.2" type="github" pages="13">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="5268" dy="2402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1518,7 +1518,7 @@
         <mxCell id="uBRtOFitl4szsU4WpkWy-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;fontSize=19;fontColor=#000000;strokeColor=#000000;strokeWidth=1;elbow=vertical;" edge="1" parent="Gb0QxALXs7Epk8y6YClU-1" source="uBRtOFitl4szsU4WpkWy-26" target="PbhVhEMthCwnt144fewY-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uBRtOFitl4szsU4WpkWy-26" value="Note, all pink boxes are in MAWS infra, include Tod and etc." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=19;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
+        <mxCell id="uBRtOFitl4szsU4WpkWy-26" value="Note, we do not add production fleets into the pipeline, because RC still deploys cache packages onto those production fleets directly." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=19;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
           <mxGeometry x="2330" y="-550" width="260" height="170" as="geometry" />
         </mxCell>
         <mxCell id="y0iaxBKoOtaPxmnr53Z5-1" value="&lt;u&gt;Manual approval&lt;br&gt;&lt;/u&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;Verify the CIS simulation triggered by the &lt;u&gt;CIS verification&lt;/u&gt; stage, and approve manually.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
