@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-02T21:24:08.055Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="BSq1m4vP95qX7zsjT8y-" version="16.5.2" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-02-02T21:27:21.248Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="B-S0HAXkq9PLzXjGOx0l" version="16.5.2" type="github" pages="13">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="5268" dy="2402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1310,7 +1310,7 @@
         <mxCell id="PbhVhEMthCwnt144fewY-17" value="Apollo environment" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
           <mxGeometry x="2135" y="-242.5" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="PbhVhEMthCwnt144fewY-18" value="&lt;u&gt;CIS verification&lt;br&gt;&lt;/u&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&amp;nbsp; scripts&amp;nbsp;deploy the ATROPSService/release-maws VFI to ATROPSService/XX/Gamma, and CIS simulation is triggered automatically&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
+        <mxCell id="PbhVhEMthCwnt144fewY-18" value="&lt;u&gt;CIS verification&lt;br&gt;&lt;/u&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&amp;nbsp; scripts&amp;nbsp;deploy the ATROPSService/release-maws VFI to ATROPSService/XX/Gamma, and CIS simulation is triggered automatically.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
           <mxGeometry x="2058.75" y="-157.5" width="332.5" height="130" as="geometry" />
         </mxCell>
         <mxCell id="PbhVhEMthCwnt144fewY-19" value="II. ATROPSService-Release-MAWS pipeline" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;fontSize=25;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
@@ -1523,6 +1523,9 @@
         </mxCell>
         <mxCell id="y0iaxBKoOtaPxmnr53Z5-0" value="&lt;u&gt;stress tests&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
           <mxGeometry x="150" y="360" width="420" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="y0iaxBKoOtaPxmnr53Z5-1" value="&lt;u&gt;Manual approval&lt;br&gt;&lt;/u&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;Verify the CIS simulation triggered by the &lt;u&gt;CIS verification&lt;/u&gt; stage, and approve manually.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
+          <mxGeometry x="2058.75" y="-5" width="332.5" height="115" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
