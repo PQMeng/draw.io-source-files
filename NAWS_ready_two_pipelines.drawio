@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-02T21:42:38.116Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="BuBcRdS9O1wIljpU5m32" version="16.5.2" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-02-02T21:43:27.484Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="P1TJaH9vFOpoGoe1-riN" version="16.5.2" type="github" pages="13">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="5268" dy="2402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1215,7 +1215,7 @@
         <mxCell id="_Sa5jf0HU8xZuGDQSpfq-13" value="&lt;span&gt;ECS deployment target&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
           <mxGeometry x="255" y="-35" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_Sa5jf0HU8xZuGDQSpfq-14" value="&lt;u&gt;performance tests (include stress tests)&lt;br&gt;&lt;/u&gt;&lt;br&gt;baseline endpoint (prodCache + prodCode) vs&amp;nbsp;&lt;br&gt;to-be-released endpoint (prodCache + &lt;b&gt;newCode&lt;/b&gt;)&amp;nbsp;&lt;br&gt;&lt;br&gt;Hydra native&lt;br&gt;&amp;nbsp;Tod MAWS (same as today, drop this finally)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
+        <mxCell id="_Sa5jf0HU8xZuGDQSpfq-14" value="&lt;u&gt;performance tests (include stress tests)&lt;br&gt;&lt;/u&gt;&lt;br&gt;baseline endpoint (prodCache + prodCode) vs&amp;nbsp;&lt;br&gt;to-be-released endpoint (prodCache + &lt;b&gt;newCode&lt;/b&gt;)&amp;nbsp;&lt;br&gt;&lt;br&gt;Hydra for native&lt;br&gt;&amp;nbsp;Tod for MAWS (same as today, drop this finally)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
           <mxGeometry x="150" y="176.25" width="420" height="163.75" as="geometry" />
         </mxCell>
         <mxCell id="_Sa5jf0HU8xZuGDQSpfq-15" value="ATROPSService/release-maws (deploy to Apollo)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
