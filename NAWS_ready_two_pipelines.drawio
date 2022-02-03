@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-03T00:59:59.644Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="RZCl78NfB2juR3JVK_PF" version="16.5.2" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-02-03T19:00:37.356Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="jKBKLNRf3BsL3uPJ8S8u" version="16.5.2" type="github" pages="13">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="5268" dy="2402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1165,7 +1165,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="86ocHlj4WXsmZVL128dG" name="Cloacina-v2">
-    <mxGraphModel dx="5588" dy="2616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4872" dy="2339" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Gb0QxALXs7Epk8y6YClU-0" />
         <mxCell id="Gb0QxALXs7Epk8y6YClU-1" parent="Gb0QxALXs7Epk8y6YClU-0" />
@@ -1650,8 +1650,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="a9e60PuTGQPDjzxKSvQA" name="weekly code release">
-    <mxGraphModel dx="4418" dy="1302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="a9e60PuTGQPDjzxKSvQA" name="weekly code release for version 1">
+    <mxGraphModel dx="4656" dy="1487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="6-_mVW4phuMw7F7UGn4q-0" />
         <mxCell id="6-_mVW4phuMw7F7UGn4q-1" parent="6-_mVW4phuMw7F7UGn4q-0" />
@@ -1701,7 +1701,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-rGSFYf4_val-GhWO3CQ" name="Versin set sync between MAWS and NAWS">
-    <mxGraphModel dx="5268" dy="2402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="6366" dy="2919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="9JrOXn1GNhd57JUTk-pu-0" />
         <mxCell id="9JrOXn1GNhd57JUTk-pu-1" parent="9JrOXn1GNhd57JUTk-pu-0" />
