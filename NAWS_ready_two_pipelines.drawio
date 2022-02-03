@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-03T19:04:45.765Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="AJurC2RAMtOTq31V3MKu" version="16.5.2" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-02-03T19:09:43.938Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="33xl3GmBcWJp0bKAiF3y" version="16.5.2" type="github" pages="14">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="5268" dy="2402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -785,7 +785,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZbpepYdf8PmOTVr45S1K" name="Phase1: NewVFI functional tests">
-    <mxGraphModel dx="4418" dy="1302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4656" dy="1416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Guw3VmQmpdpebZ_AA1XY-0" />
         <mxCell id="Guw3VmQmpdpebZ_AA1XY-1" parent="Guw3VmQmpdpebZ_AA1XY-0" />
@@ -1165,7 +1165,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="86ocHlj4WXsmZVL128dG" name="Cloacina-v2">
-    <mxGraphModel dx="4872" dy="2280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="7555" dy="3278" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Gb0QxALXs7Epk8y6YClU-0" />
         <mxCell id="Gb0QxALXs7Epk8y6YClU-1" parent="Gb0QxALXs7Epk8y6YClU-0" />
@@ -1781,10 +1781,28 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xM8IIrtaCSNMpa9aV9YH" name="v2 - weekly code release">
-    <mxGraphModel dx="3806" dy="1416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4656" dy="1416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="gB0pgyVOcXeR8TcLnQ7Q-0" />
         <mxCell id="gB0pgyVOcXeR8TcLnQ7Q-1" parent="gB0pgyVOcXeR8TcLnQ7Q-0" />
+        <mxCell id="AUidQLGsCtGkOR1lYGVc-1" value="&lt;span&gt;I. ATROPSService-Staging-native&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=19;fontColor=#000000;" vertex="1" parent="gB0pgyVOcXeR8TcLnQ7Q-1">
+          <mxGeometry x="-320" y="490" width="380" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AUidQLGsCtGkOR1lYGVc-2" value="II. ATROPSService-Release-MAWS" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=19;fontColor=#000000;" vertex="1" parent="gB0pgyVOcXeR8TcLnQ7Q-1">
+          <mxGeometry x="210" y="360" width="380" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AUidQLGsCtGkOR1lYGVc-3" value="&lt;span&gt;III. ATROPSService-Release-native&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=19;fontColor=#000000;" vertex="1" parent="gB0pgyVOcXeR8TcLnQ7Q-1">
+          <mxGeometry x="180" y="600" width="380" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AUidQLGsCtGkOR1lYGVc-4" value="&lt;span&gt;VI. ATROPSService-Staging-native&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=19;fontColor=#000000;" vertex="1" parent="gB0pgyVOcXeR8TcLnQ7Q-1">
+          <mxGeometry x="680" y="360" width="380" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AUidQLGsCtGkOR1lYGVc-5" value="&lt;span&gt;I. ATROPSService-Staging-native&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=19;fontColor=#000000;" vertex="1" parent="gB0pgyVOcXeR8TcLnQ7Q-1">
+          <mxGeometry x="1070" y="580" width="380" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AUidQLGsCtGkOR1lYGVc-6" value="&lt;span&gt;I. ATROPSService-Staging-native&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=19;fontColor=#000000;" vertex="1" parent="gB0pgyVOcXeR8TcLnQ7Q-1">
+          <mxGeometry x="600" y="590" width="380" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
