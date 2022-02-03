@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-03T00:51:23.111Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="Uk4Vl5JqIbVAgex8FUL0" version="16.5.2" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-02-03T00:59:05.138Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="smyDO9_xrSC6VRET9Yz1" version="16.5.2" type="github" pages="13">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="5268" dy="2402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1227,7 +1227,7 @@
           <mxGeometry x="150" y="46.25" width="420" height="110" as="geometry" />
         </mxCell>
         <mxCell id="_Sa5jf0HU8xZuGDQSpfq-21" value="AutoPublish" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=5;fontSize=18;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
-          <mxGeometry x="530" y="-287.5" width="110" height="30" as="geometry" />
+          <mxGeometry x="580" y="-190" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_Sa5jf0HU8xZuGDQSpfq-22" value="Thur" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.alarm_clock;fontSize=18;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
           <mxGeometry x="86.5" y="-70" width="27" height="30" as="geometry" />
@@ -1447,7 +1447,7 @@
           <mxGeometry x="1350" y="-117.5" width="385" height="77.5" as="geometry" />
         </mxCell>
         <mxCell id="y0iaxBKoOtaPxmnr53Z5-16" value="perf tests take longer to run NAWS and MAWS in sequence (could cause 1 day delay)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=19;fontColor=#FF3333;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
-          <mxGeometry x="336.25" y="473" width="380" height="150" as="geometry" />
+          <mxGeometry x="705" y="490" width="380" height="150" as="geometry" />
         </mxCell>
         <mxCell id="y0iaxBKoOtaPxmnr53Z5-19" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;ECS deployment target&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
           <mxGeometry x="1427.19" y="376.13" width="230" height="50" as="geometry" />
@@ -1459,7 +1459,7 @@
           <mxGeometry x="605" y="300" width="590" height="40" as="geometry" />
         </mxCell>
         <mxCell id="y0iaxBKoOtaPxmnr53Z5-24" value="Why do we need 5 ATROPSService pipelines" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=19;fontColor=#FF3333;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
-          <mxGeometry x="336.25" y="671" width="380" height="150" as="geometry" />
+          <mxGeometry x="705" y="688" width="380" height="150" as="geometry" />
         </mxCell>
         <mxCell id="y0iaxBKoOtaPxmnr53Z5-27" value="&lt;b style=&quot;font-size: 16px&quot;&gt;apollo-platform-test&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=16;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
           <mxGeometry x="1426.25" y="-442.5" width="233.75" height="40" as="geometry" />
@@ -1492,7 +1492,7 @@
           <mxGeometry x="1820" y="-402.5" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y0iaxBKoOtaPxmnr53Z5-39" value="AutoPublish" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=5;fontSize=18;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
-          <mxGeometry x="590" y="110" width="110" height="30" as="geometry" />
+          <mxGeometry x="580" y="120" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y0iaxBKoOtaPxmnr53Z5-40" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;strokeWidth=3;fillColor=#cce5ff;strokeColor=#7EA6E0;" edge="1" parent="Gb0QxALXs7Epk8y6YClU-1" source="_Sa5jf0HU8xZuGDQSpfq-27" target="y0iaxBKoOtaPxmnr53Z5-19">
           <mxGeometry relative="1" as="geometry">
@@ -1520,6 +1520,24 @@
         </mxCell>
         <mxCell id="y0iaxBKoOtaPxmnr53Z5-48" value="AutoPublish ATROPSSharedConfig only" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=5;fontSize=18;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
           <mxGeometry x="3700" y="462" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y0iaxBKoOtaPxmnr53Z5-49" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=19;fontColor=#FF3333;strokeColor=#999999;strokeWidth=3;curved=1;elbow=vertical;" edge="1" parent="Gb0QxALXs7Epk8y6YClU-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="910" as="sourcePoint" />
+            <mxPoint x="550" y="-790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y0iaxBKoOtaPxmnr53Z5-50" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=19;fontColor=#FF3333;strokeColor=#999999;strokeWidth=3;curved=1;elbow=vertical;" edge="1" parent="Gb0QxALXs7Epk8y6YClU-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1780" y="920" as="sourcePoint" />
+            <mxPoint x="1770" y="-780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y0iaxBKoOtaPxmnr53Z5-51" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=19;fontColor=#FF3333;strokeColor=#999999;strokeWidth=3;curved=1;elbow=vertical;" edge="1" parent="Gb0QxALXs7Epk8y6YClU-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3920" y="940" as="sourcePoint" />
+            <mxPoint x="3910" y="-760" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
