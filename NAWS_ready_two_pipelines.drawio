@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-03T22:19:44.869Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="XarlOD4qEElVtnf7s9mx" version="16.5.2" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2022-02-03T22:52:02.910Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="Q5wc4IQiwLfg1EQ_Iv6W" version="16.5.2" type="github" pages="16">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="5268" dy="2402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1165,7 +1165,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="86ocHlj4WXsmZVL128dG" name="Cloacina-v2">
-    <mxGraphModel dx="6820" dy="3005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5615" dy="2556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Gb0QxALXs7Epk8y6YClU-0" />
         <mxCell id="Gb0QxALXs7Epk8y6YClU-1" parent="Gb0QxALXs7Epk8y6YClU-0" />
@@ -1432,7 +1432,7 @@
           <mxGeometry x="2568.75" y="-145" width="332.5" height="115" as="geometry" />
         </mxCell>
         <mxCell id="y0iaxBKoOtaPxmnr53Z5-8" value="Don&#39;t want to add perf test because it is slow, and don&#39;t need it for sharedconfig packages" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=19;fontColor=#FF3333;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
-          <mxGeometry x="2614.69" y="520" width="210" height="166" as="geometry" />
+          <mxGeometry x="2630" y="750" width="210" height="166" as="geometry" />
         </mxCell>
         <mxCell id="y0iaxBKoOtaPxmnr53Z5-9" value="ATROPSService/staging-apollo (deploy to Apollo)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
           <mxGeometry x="805" y="-402.5" width="265" height="80" as="geometry" />
@@ -1538,6 +1538,12 @@
             <mxPoint x="3920" y="940" as="sourcePoint" />
             <mxPoint x="3910" y="-760" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_aYSmsMUf_Uff9cY4Mk2-1" value="What&#39;s the plan for CN?&lt;br&gt;no CN fleets?" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=19;fontColor=#FF3333;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
+          <mxGeometry x="3507.19" y="475" width="210" height="166" as="geometry" />
+        </mxCell>
+        <mxCell id="_aYSmsMUf_Uff9cY4Mk2-2" value="All functional tests are in PDX today" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=19;fontColor=#FF3333;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
+          <mxGeometry x="-340" y="170" width="380" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
