@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-03T21:34:27.412Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="SpgP_aHKf1a8SgvtMbw3" version="16.5.2" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2022-02-03T22:15:47.431Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="rF06f94Mr66veljuwZlM" version="16.5.2" type="github" pages="16">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="5268" dy="2402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1165,7 +1165,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="86ocHlj4WXsmZVL128dG" name="Cloacina-v2">
-    <mxGraphModel dx="7555" dy="3278" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="6820" dy="3005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Gb0QxALXs7Epk8y6YClU-0" />
         <mxCell id="Gb0QxALXs7Epk8y6YClU-1" parent="Gb0QxALXs7Epk8y6YClU-0" />
@@ -1961,6 +1961,101 @@
         </mxCell>
         <mxCell id="Q9m01WX9dVxeOhdycNyf-26" value="run tests for cache builder code&lt;br&gt;on apollo" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="uItWplDT1Str5DpfFGvm-1">
           <mxGeometry x="1170" y="720" width="300" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="1ZATR-e7iZbq0jMWs3V-" name="Page-16">
+    <mxGraphModel dx="5506" dy="2516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="zkQwPFfuVGQF6Zvs6U14-0" />
+        <mxCell id="zkQwPFfuVGQF6Zvs6U14-1" parent="zkQwPFfuVGQF6Zvs6U14-0" />
+        <mxCell id="NmpBEtLgSm852c-_JS42-0" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="zkQwPFfuVGQF6Zvs6U14-1" source="NmpBEtLgSm852c-_JS42-1" target="NmpBEtLgSm852c-_JS42-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NmpBEtLgSm852c-_JS42-1" value="ATROPSService/staging" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="zkQwPFfuVGQF6Zvs6U14-1">
+          <mxGeometry x="-755" y="-50" width="265" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NmpBEtLgSm852c-_JS42-2" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=16;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="zkQwPFfuVGQF6Zvs6U14-1" source="NmpBEtLgSm852c-_JS42-3" target="NmpBEtLgSm852c-_JS42-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NmpBEtLgSm852c-_JS42-3" value="live" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;fillColor=#B3B3B3;" vertex="1" parent="zkQwPFfuVGQF6Zvs6U14-1">
+          <mxGeometry x="-1115" y="-59" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NmpBEtLgSm852c-_JS42-4" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=16;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="zkQwPFfuVGQF6Zvs6U14-1" source="NmpBEtLgSm852c-_JS42-5" target="NmpBEtLgSm852c-_JS42-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-810" y="70" />
+              <mxPoint x="-810" y="9" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NmpBEtLgSm852c-_JS42-5" value="&lt;font color=&quot;#cc0066&quot;&gt;(deleted)&lt;br&gt;&lt;strike&gt;ATROPSCacheBuilder&lt;/strike&gt;&lt;br&gt;&lt;strike&gt;ATROPSCacheBuilderScripts&lt;/strike&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 17px&quot;&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;(unchanged)&lt;br&gt;ATROPSDataAccess&lt;/font&gt;&lt;font color=&quot;#00cccc&quot;&gt;&lt;br style=&quot;font-size: 17px&quot;&gt;&lt;/font&gt;ATROPSCore&lt;br&gt;ATROPSService&lt;br style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;font color=&quot;#009900&quot;&gt;(added)&lt;br&gt;ATROPSServiceStagingCDK&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=17;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;" vertex="1" parent="zkQwPFfuVGQF6Zvs6U14-1">
+          <mxGeometry x="-1200" y="40" width="290" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="NmpBEtLgSm852c-_JS42-6" value="&lt;b style=&quot;font-size: 16px&quot;&gt;functional-test&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=16;" vertex="1" parent="zkQwPFfuVGQF6Zvs6U14-1">
+          <mxGeometry x="-230" y="-100" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NmpBEtLgSm852c-_JS42-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#82b366;fillColor=#d5e8d4;" edge="1" parent="zkQwPFfuVGQF6Zvs6U14-1" source="NmpBEtLgSm852c-_JS42-8" target="NmpBEtLgSm852c-_JS42-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="-10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NmpBEtLgSm852c-_JS42-8" value="ECS deployment target&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="zkQwPFfuVGQF6Zvs6U14-1">
+          <mxGeometry x="-230" y="-35" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NmpBEtLgSm852c-_JS42-9" value="&lt;u&gt;functional tests&lt;/u&gt;&lt;br&gt;&lt;br&gt;(Note, this is running in native-AWS infra)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="zkQwPFfuVGQF6Zvs6U14-1">
+          <mxGeometry x="-230" y="40" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NmpBEtLgSm852c-_JS42-10" value="&lt;b style=&quot;font-size: 16px&quot;&gt;regression-test&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=16;" vertex="1" parent="zkQwPFfuVGQF6Zvs6U14-1">
+          <mxGeometry x="255" y="-100" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NmpBEtLgSm852c-_JS42-11" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" edge="1" parent="zkQwPFfuVGQF6Zvs6U14-1" source="NmpBEtLgSm852c-_JS42-12" target="NmpBEtLgSm852c-_JS42-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="-32.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NmpBEtLgSm852c-_JS42-12" value="&lt;span&gt;ECS deployment target&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="zkQwPFfuVGQF6Zvs6U14-1">
+          <mxGeometry x="255" y="-35" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NmpBEtLgSm852c-_JS42-13" value="I. ATROPSService-Staging-native pipeline" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontSize=25;" vertex="1" parent="zkQwPFfuVGQF6Zvs6U14-1">
+          <mxGeometry x="-1120" y="-130" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NmpBEtLgSm852c-_JS42-14" value="&lt;u&gt;regression tests&lt;br&gt;&lt;/u&gt;&lt;br&gt;baseline endpoint (prodCache + prodCode) vs&amp;nbsp;&lt;br&gt;to-be-released endpoint (prodCache + &lt;b&gt;newCode&lt;/b&gt;)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="zkQwPFfuVGQF6Zvs6U14-1">
+          <mxGeometry x="150" y="46.25" width="420" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="NmpBEtLgSm852c-_JS42-15" value="AutoPublish" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=5;fontSize=18;" vertex="1" parent="zkQwPFfuVGQF6Zvs6U14-1">
+          <mxGeometry x="580" y="-190" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NmpBEtLgSm852c-_JS42-16" value="Thur" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.alarm_clock;fontSize=18;" vertex="1" parent="zkQwPFfuVGQF6Zvs6U14-1">
+          <mxGeometry x="86.5" y="-70" width="27" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NmpBEtLgSm852c-_JS42-17" value="ATROPSService/staging-native (deploy to ECS)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="zkQwPFfuVGQF6Zvs6U14-1">
+          <mxGeometry x="796.25" y="363" width="265" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NmpBEtLgSm852c-_JS42-18" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" edge="1" parent="zkQwPFfuVGQF6Zvs6U14-1" source="NmpBEtLgSm852c-_JS42-12" target="NmpBEtLgSm852c-_JS42-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="59.5" as="sourcePoint" />
+            <mxPoint x="765" y="59.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NmpBEtLgSm852c-_JS42-19" value="ATROPSService/staging-apollo (deploy to Apollo)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="zkQwPFfuVGQF6Zvs6U14-1">
+          <mxGeometry x="805" y="-402.5" width="265" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NmpBEtLgSm852c-_JS42-21" value="II. ATROPSService-Staging-apollo-platform pipeline" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;fontSize=25;" vertex="1" parent="zkQwPFfuVGQF6Zvs6U14-1">
+          <mxGeometry x="600" y="-471.25" width="590" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NmpBEtLgSm852c-_JS42-22" value="IV. ATROPSService-Staging-native-platform pipeline" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#cce5ff;fontSize=25;" vertex="1" parent="zkQwPFfuVGQF6Zvs6U14-1">
+          <mxGeometry x="605" y="300" width="590" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NmpBEtLgSm852c-_JS42-24" value="AutoPublish" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=5;fontSize=18;" vertex="1" parent="zkQwPFfuVGQF6Zvs6U14-1">
+          <mxGeometry x="580" y="120" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GZyB6rqlbnz_M1cY1yJD-0" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=19;fontColor=#FF3333;strokeColor=#999999;strokeWidth=3;curved=1;elbow=vertical;" edge="1" parent="zkQwPFfuVGQF6Zvs6U14-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="910" as="sourcePoint" />
+            <mxPoint x="580" y="-790" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
