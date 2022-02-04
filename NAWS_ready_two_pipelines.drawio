@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-04T23:50:15.163Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="1NH-1eHOFbad7gqGo4_n" version="16.5.3" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2022-02-04T23:50:27.493Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="gblc8Hjdb3u2Le0Rnp9J" version="16.5.3" type="github" pages="16">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="3339" dy="2002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1461,7 +1461,7 @@
         <mxCell id="y0iaxBKoOtaPxmnr53Z5-29" value="&lt;b style=&quot;font-size: 16px&quot;&gt;native-platform-test&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=16;" parent="Gb0QxALXs7Epk8y6YClU-1" vertex="1">
           <mxGeometry x="1427.19" y="327.63" width="233.75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="y0iaxBKoOtaPxmnr53Z5-30" value="In the long run, we will drop this pipeline once we migrate entire ATROPSService from MAWS to NAWS" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=19;fontColor=#FF3333;" parent="Gb0QxALXs7Epk8y6YClU-1" vertex="1">
+        <mxCell id="y0iaxBKoOtaPxmnr53Z5-30" value="In the long run, we will drop this pipeline once we migrate the entire ATROPSService from MAWS to NAWS" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=19;fontColor=#FF3333;" parent="Gb0QxALXs7Epk8y6YClU-1" vertex="1">
           <mxGeometry x="710" y="-690" width="380" height="150" as="geometry" />
         </mxCell>
         <mxCell id="y0iaxBKoOtaPxmnr53Z5-31" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="Gb0QxALXs7Epk8y6YClU-1" source="y0iaxBKoOtaPxmnr53Z5-9" target="y0iaxBKoOtaPxmnr53Z5-13" edge="1">
@@ -1541,9 +1541,6 @@
         </mxCell>
         <mxCell id="_aYSmsMUf_Uff9cY4Mk2-3" value="? run 3 regions here" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=19;fontColor=#FF3333;" parent="Gb0QxALXs7Epk8y6YClU-1" vertex="1">
           <mxGeometry x="155" y="180" width="380" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="_aYSmsMUf_Uff9cY4Mk2-4" value="? run CN regression test here?&lt;br&gt;- no PLAN, PROMISE fleet, just some smaller fleets&lt;br&gt;- put a milestone in the Cloacina design doc" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=19;fontColor=#FF3333;" parent="Gb0QxALXs7Epk8y6YClU-1" vertex="1">
-          <mxGeometry x="1070" y="-330" width="260" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
