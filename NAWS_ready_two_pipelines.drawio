@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-05T01:09:56.996Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="5qmMUJZ1gnMbxrak2ea4" version="16.5.3" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2022-02-05T01:15:16.046Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="UnsLD84ujme9fepQ8sl6" version="16.5.3" type="github" pages="16">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="3339" dy="2002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1969,7 +1969,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1ZATR-e7iZbq0jMWs3V-" name="temp">
-    <mxGraphModel dx="2476" dy="2962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3326" dy="2962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="zkQwPFfuVGQF6Zvs6U14-0" />
         <mxCell id="zkQwPFfuVGQF6Zvs6U14-1" parent="zkQwPFfuVGQF6Zvs6U14-0" />
@@ -2121,6 +2121,24 @@
             <mxPoint x="3920" y="940" as="sourcePoint" />
             <mxPoint x="3910" y="-760" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JW6iHHy4Vt29aRlDQ2GJ-0" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="zkQwPFfuVGQF6Zvs6U14-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1661.88" y="-362.5" as="sourcePoint" />
+            <mxPoint x="2092.5" y="-362.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JW6iHHy4Vt29aRlDQ2GJ-1" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;strokeWidth=3;fillColor=#cce5ff;strokeColor=#7EA6E0;dashed=1;" edge="1" parent="zkQwPFfuVGQF6Zvs6U14-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1657.1900000000005" y="401.1111111111113" as="sourcePoint" />
+            <mxPoint x="2102.1900000000005" y="402.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BBpGOPjetN4l-jhWi8nn-0" value="AutoPublish" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=5;fontSize=18;" vertex="1" parent="zkQwPFfuVGQF6Zvs6U14-1">
+          <mxGeometry x="1680" y="-410" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BBpGOPjetN4l-jhWi8nn-1" value="AutoPublish" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=5;fontSize=18;" vertex="1" parent="zkQwPFfuVGQF6Zvs6U14-1">
+          <mxGeometry x="1680" y="347.5" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
