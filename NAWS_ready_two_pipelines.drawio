@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-05T00:09:36.493Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="rSymX-kpU0jRD0qEY0H1" version="16.5.3" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2022-02-05T01:09:56.996Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="5qmMUJZ1gnMbxrak2ea4" version="16.5.3" type="github" pages="16">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="3339" dy="2002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2098,9 +2098,6 @@
         <mxCell id="2CgOholxQqJUeTmla5ke-44" value="&lt;u&gt;Manual approval&lt;br&gt;&lt;/u&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;Verify the CIS simulation triggered by the above&amp;nbsp;&lt;u&gt;CIS verification&lt;/u&gt; stage, and approve manually.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="zkQwPFfuVGQF6Zvs6U14-1">
           <mxGeometry x="2568.75" y="-145" width="332.5" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="2CgOholxQqJUeTmla5ke-45" value="Don&#39;t want to add perf test because it is slow, and don&#39;t need it for sharedconfig packages" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=19;fontColor=#FF3333;" vertex="1" parent="zkQwPFfuVGQF6Zvs6U14-1">
-          <mxGeometry x="2630" y="750" width="210" height="166" as="geometry" />
-        </mxCell>
         <mxCell id="2CgOholxQqJUeTmla5ke-46" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="zkQwPFfuVGQF6Zvs6U14-1" source="2CgOholxQqJUeTmla5ke-3" target="2CgOholxQqJUeTmla5ke-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2135" y="-257.5" as="sourcePoint" />
@@ -2124,9 +2121,6 @@
             <mxPoint x="3920" y="940" as="sourcePoint" />
             <mxPoint x="3910" y="-760" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="2CgOholxQqJUeTmla5ke-52" value="What&#39;s the plan for CN?&lt;br&gt;- no CN production fleets?" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=19;fontColor=#FF3333;" vertex="1" parent="zkQwPFfuVGQF6Zvs6U14-1">
-          <mxGeometry x="3507.19" y="475" width="210" height="166" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
