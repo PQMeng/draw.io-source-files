@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-07T23:43:54.060Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="OOsVd0XHK8eDT6MEGx1o" version="16.5.3" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2022-02-07T23:56:15.587Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="WLeBjSnRO2-KfbXa3j7h" version="16.5.3" type="github" pages="16">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="3339" dy="2002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1165,7 +1165,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="86ocHlj4WXsmZVL128dG" name="Cloacina-v2">
-    <mxGraphModel dx="5876" dy="3104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5876" dy="2962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Gb0QxALXs7Epk8y6YClU-0" />
         <mxCell id="Gb0QxALXs7Epk8y6YClU-1" parent="Gb0QxALXs7Epk8y6YClU-0" />
@@ -1535,12 +1535,6 @@
         </mxCell>
         <mxCell id="_aYSmsMUf_Uff9cY4Mk2-1" value="What&#39;s the plan for CN?&lt;br&gt;- no CN production fleets?" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=19;fontColor=#FF3333;" parent="Gb0QxALXs7Epk8y6YClU-1" vertex="1">
           <mxGeometry x="3507.19" y="475" width="210" height="166" as="geometry" />
-        </mxCell>
-        <mxCell id="_aYSmsMUf_Uff9cY4Mk2-2" value="- All functional tests are in PDX today" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=19;fontColor=#FF3333;" parent="Gb0QxALXs7Epk8y6YClU-1" vertex="1">
-          <mxGeometry x="-320" y="170" width="360" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="_aYSmsMUf_Uff9cY4Mk2-3" value="? run 3 regions here" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=19;fontColor=#FF3333;" parent="Gb0QxALXs7Epk8y6YClU-1" vertex="1">
-          <mxGeometry x="155" y="180" width="380" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -1969,7 +1963,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1ZATR-e7iZbq0jMWs3V-" name="temp">
-    <mxGraphModel dx="-716" dy="1289" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-716" dy="1197" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="zkQwPFfuVGQF6Zvs6U14-0" />
         <mxCell id="zkQwPFfuVGQF6Zvs6U14-1" parent="zkQwPFfuVGQF6Zvs6U14-0" />
