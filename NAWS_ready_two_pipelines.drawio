@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-09T23:06:00.791Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="QloalLJ2gMXEwnr8rdQ8" version="16.5.3" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2022-02-09T23:26:56.012Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="62u3Y1UHjByO7UAM7Iyf" version="16.5.3" type="github" pages="17">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="3339" dy="2002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -837,7 +837,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Bw0u8OtxaHTxY5zFHHNA" name="Cloacina-v1">
-    <mxGraphModel dx="6643" dy="2698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="7860" dy="3023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="4zq0gizbVHk_ZzvY18hJ-0" />
         <mxCell id="4zq0gizbVHk_ZzvY18hJ-1" parent="4zq0gizbVHk_ZzvY18hJ-0" />
@@ -1165,7 +1165,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="86ocHlj4WXsmZVL128dG" name="Cloacina-v2">
-    <mxGraphModel dx="6602" dy="2875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5448" dy="2458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Gb0QxALXs7Epk8y6YClU-0" />
         <mxCell id="Gb0QxALXs7Epk8y6YClU-1" parent="Gb0QxALXs7Epk8y6YClU-0" />
@@ -1401,8 +1401,8 @@
         <mxCell id="uBRtOFitl4szsU4WpkWy-16" value="&lt;u&gt;code-cache compatibility test&lt;br&gt;&lt;/u&gt;&lt;br&gt;baseline endpoint (prodCache + prodCode) vs&amp;nbsp;&lt;br&gt;to-be-released endpoint (&lt;b&gt;newCache&lt;/b&gt; +&amp;nbsp;prodCode)&lt;br&gt;&lt;br&gt;running on Tod" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" parent="Gb0QxALXs7Epk8y6YClU-1" vertex="1">
           <mxGeometry x="5045" y="470" width="370" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="uBRtOFitl4szsU4WpkWy-17" value="Note, this is the stage where cache is built by production RCs.&lt;br&gt;&lt;br&gt;Currently, after release, new cache building is not triggered, until a new RC is executed.&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;Q: After release, should we update G2S2 to make sure all production EC2 hosts use the newCache?&lt;br&gt;- potentially using scripts to build new cache and sync&lt;br&gt;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=17;strokeWidth=1;" parent="Gb0QxALXs7Epk8y6YClU-1" vertex="1">
-          <mxGeometry x="5590" y="590" width="310" height="250" as="geometry" />
+        <mxCell id="uBRtOFitl4szsU4WpkWy-17" value="Note, this is the stage where cache is built by production RCs.&lt;br&gt;&lt;br&gt;Currently, after release, new cache building is not triggered, until a new RC is executed.&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;Q: After release, should we update G2S2 to make sure all production EC2 hosts use the newCache?&lt;br&gt;- potentially using scripts to build new cache and sync&lt;br&gt;&lt;br&gt;- currently, RCs build the new cache (regression test catch the errors)&lt;br&gt;- end state: an empty RC to update the cache data (no sync problem, C2O skip the QA)&lt;br&gt;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=17;strokeWidth=1;" parent="Gb0QxALXs7Epk8y6YClU-1" vertex="1">
+          <mxGeometry x="5590" y="590" width="450" height="420" as="geometry" />
         </mxCell>
         <mxCell id="uBRtOFitl4szsU4WpkWy-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=20;fontColor=#FFB570;strokeColor=#d79b00;strokeWidth=3;curved=1;fillColor=#ffe6cc;" parent="Gb0QxALXs7Epk8y6YClU-1" source="uBRtOFitl4szsU4WpkWy-19" target="uBRtOFitl4szsU4WpkWy-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1544,6 +1544,12 @@
         </mxCell>
         <mxCell id="5XiGtk5d8Tyc8vyfAsqf-3" value="&lt;u&gt;Manual approval&lt;br&gt;&lt;/u&gt;&lt;br&gt;weekly release, MCM approval" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
           <mxGeometry x="3229.54" y="490" width="200.31" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="7ipXsIri714jo9JCJ29y-0" value="- III and V finish first, and then start VI.&lt;br&gt;- cross pipeline blocking (manual SOP is ncessary)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=19;fontColor=#FF3333;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
+          <mxGeometry x="3955" y="-250" width="380" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="7ipXsIri714jo9JCJ29y-1" value="&lt;u&gt;add to the doc code-cache compatibility test&lt;br&gt;&lt;/u&gt;&lt;br&gt;prodCode here is the newCode in III and V." style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
+          <mxGeometry x="5045" y="10" width="370" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
