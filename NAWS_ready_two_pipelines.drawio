@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-09T21:06:10.596Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="Ny0m-c5sSUnnFw8jQKxA" version="16.5.3" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2022-02-09T21:09:33.262Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="fem-pya0Y0ULzyrVvTEl" version="16.5.3" type="github" pages="17">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="3339" dy="2002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2042,7 +2042,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="G3CFthC1bywiDR4_s_Se" name="dependency">
-    <mxGraphModel dx="4734" dy="2145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4734" dy="2199" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="SePJ-acrWyg4Tnw_KMCF-0" />
         <mxCell id="SePJ-acrWyg4Tnw_KMCF-1" parent="SePJ-acrWyg4Tnw_KMCF-0" />
@@ -2196,7 +2196,7 @@
         <mxCell id="-vs4U3zbwD0IohKWItVu-7" value="Note, this diagram assumes that only 1 SDE (tony) works on the Cloacina track" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontColor=#FF3333;fontSize=14;" vertex="1" parent="SePJ-acrWyg4Tnw_KMCF-1">
           <mxGeometry x="-1260" y="380" width="260" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="-vs4U3zbwD0IohKWItVu-8" value="Questions to answer&lt;br&gt;&lt;br&gt;1. Dependency looks good? any thing I am missing?&lt;br&gt;2. How to parallelize to shorten the timeline&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontColor=#FF3333;fontSize=14;" vertex="1" parent="SePJ-acrWyg4Tnw_KMCF-1">
+        <mxCell id="-vs4U3zbwD0IohKWItVu-8" value="Questions to answer&lt;br&gt;&lt;br&gt;1. Dependency looks good? any thing I am missing?&lt;br&gt;2. How to parallelize to shorten the timeline&amp;nbsp;&lt;br&gt;&lt;br&gt;Li&lt;br&gt;- Do we want to launch PLAN before the Gamma?&lt;br&gt;- connectivity track needs to be closed before any production traffic" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontColor=#FF3333;fontSize=14;" vertex="1" parent="SePJ-acrWyg4Tnw_KMCF-1">
           <mxGeometry x="-1287.5" y="-220" width="315" height="220" as="geometry" />
         </mxCell>
       </root>
