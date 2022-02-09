@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-09T20:30:51.923Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="_uYpkyuLvzqeItlez7cD" version="16.5.3" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2022-02-09T20:57:25.345Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="A9ASFDODF7EzjnEEU3Az" version="16.5.3" type="github" pages="17">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="3339" dy="2002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2042,15 +2042,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="G3CFthC1bywiDR4_s_Se" name="dependency">
-    <mxGraphModel dx="4725" dy="2284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4725" dy="2225" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="SePJ-acrWyg4Tnw_KMCF-0" />
         <mxCell id="SePJ-acrWyg4Tnw_KMCF-1" parent="SePJ-acrWyg4Tnw_KMCF-0" />
         <mxCell id="SePJ-acrWyg4Tnw_KMCF-20" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="SePJ-acrWyg4Tnw_KMCF-1" source="SePJ-acrWyg4Tnw_KMCF-2" target="SePJ-acrWyg4Tnw_KMCF-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SePJ-acrWyg4Tnw_KMCF-2" value="Cloacina-M2, CDK TypeScript interface design and class implementation" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="SePJ-acrWyg4Tnw_KMCF-1">
-          <mxGeometry x="2.5" y="390" width="265" height="80" as="geometry" />
+        <mxCell id="SePJ-acrWyg4Tnw_KMCF-2" value="Cloacina-M2, CDK TypeScript interface design and class implementation&lt;br&gt;&lt;br&gt;- (8 w) CDK TypeScript design and class impl" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="SePJ-acrWyg4Tnw_KMCF-1">
+          <mxGeometry x="2.5" y="375" width="265" height="110" as="geometry" />
         </mxCell>
         <mxCell id="SePJ-acrWyg4Tnw_KMCF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;fontSize=14;" edge="1" parent="SePJ-acrWyg4Tnw_KMCF-1" source="SePJ-acrWyg4Tnw_KMCF-4" target="SePJ-acrWyg4Tnw_KMCF-11">
           <mxGeometry relative="1" as="geometry" />
@@ -2100,8 +2100,8 @@
         <mxCell id="SePJ-acrWyg4Tnw_KMCF-34" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;fontColor=#000000;strokeColor=#000000;strokeWidth=1;" edge="1" parent="SePJ-acrWyg4Tnw_KMCF-1" source="SePJ-acrWyg4Tnw_KMCF-28" target="SePJ-acrWyg4Tnw_KMCF-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SePJ-acrWyg4Tnw_KMCF-28" value="Cloacina-M1, refactor ATROPS MAWS pipelines" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="SePJ-acrWyg4Tnw_KMCF-1">
-          <mxGeometry x="-520" y="390" width="265" height="80" as="geometry" />
+        <mxCell id="SePJ-acrWyg4Tnw_KMCF-28" value="Cloacina-M1, refactor ATROPS MAWS pipelines&lt;br&gt;&lt;br&gt;- (9 w) remove cache builder as consumed environments" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="SePJ-acrWyg4Tnw_KMCF-1">
+          <mxGeometry x="-520" y="370" width="265" height="120" as="geometry" />
         </mxCell>
         <mxCell id="SePJ-acrWyg4Tnw_KMCF-35" value="" style="group" vertex="1" connectable="0" parent="SePJ-acrWyg4Tnw_KMCF-1">
           <mxGeometry x="-190" y="-270" width="120" height="1020" as="geometry" />
@@ -2192,6 +2192,9 @@
         </mxCell>
         <mxCell id="-vs4U3zbwD0IohKWItVu-4" value="Cloacina-PreMilestone, risk mitigation, low level design and prototypes" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="SePJ-acrWyg4Tnw_KMCF-1">
           <mxGeometry x="-940" y="390" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-vs4U3zbwD0IohKWItVu-7" value="Note, this diagram assumes that only 1 SDE (tony) works on the Cloacina track" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontColor=#FF3333;fontSize=14;" vertex="1" parent="SePJ-acrWyg4Tnw_KMCF-1">
+          <mxGeometry x="-1260" y="380" width="260" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
