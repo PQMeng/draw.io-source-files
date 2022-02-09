@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-09T18:04:36.998Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="v0cSkbR_3NNhIziat0AF" version="16.5.3" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2022-02-09T20:22:28.039Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="rhuKRX2NypO-v_sqtPMm" version="16.5.3" type="github" pages="17">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="3339" dy="2002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2042,7 +2042,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="G3CFthC1bywiDR4_s_Se" name="dependency">
-    <mxGraphModel dx="1639" dy="2002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4178" dy="2402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="SePJ-acrWyg4Tnw_KMCF-0" />
         <mxCell id="SePJ-acrWyg4Tnw_KMCF-1" parent="SePJ-acrWyg4Tnw_KMCF-0" />
@@ -2055,20 +2055,20 @@
         <mxCell id="SePJ-acrWyg4Tnw_KMCF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;fontSize=14;" edge="1" parent="SePJ-acrWyg4Tnw_KMCF-1" source="SePJ-acrWyg4Tnw_KMCF-4" target="SePJ-acrWyg4Tnw_KMCF-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SePJ-acrWyg4Tnw_KMCF-4" value="Neptune CDK TypeScript&amp;nbsp;parameters" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="SePJ-acrWyg4Tnw_KMCF-1">
-          <mxGeometry x="30" y="150" width="210" height="60" as="geometry" />
+        <mxCell id="SePJ-acrWyg4Tnw_KMCF-4" value="Neptune CDK TypeScript&amp;nbsp;parameters&lt;br&gt;(any?)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="SePJ-acrWyg4Tnw_KMCF-1">
+          <mxGeometry x="-60" y="150" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SePJ-acrWyg4Tnw_KMCF-16" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="SePJ-acrWyg4Tnw_KMCF-1" source="SePJ-acrWyg4Tnw_KMCF-5" target="SePJ-acrWyg4Tnw_KMCF-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SePJ-acrWyg4Tnw_KMCF-5" value="Janus CDK TypeScript&amp;nbsp;parameters" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="SePJ-acrWyg4Tnw_KMCF-1">
-          <mxGeometry x="30" y="220" width="210" height="60" as="geometry" />
+        <mxCell id="SePJ-acrWyg4Tnw_KMCF-5" value="Janus CDK TypeScript&amp;nbsp;parameters&lt;br&gt;(initiate PLAN ECS clusters)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="SePJ-acrWyg4Tnw_KMCF-1">
+          <mxGeometry x="-60" y="220" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SePJ-acrWyg4Tnw_KMCF-18" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="SePJ-acrWyg4Tnw_KMCF-1" source="SePJ-acrWyg4Tnw_KMCF-6" target="SePJ-acrWyg4Tnw_KMCF-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SePJ-acrWyg4Tnw_KMCF-6" value="Coeus CDK TypeScript&amp;nbsp;parameters" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="SePJ-acrWyg4Tnw_KMCF-1">
-          <mxGeometry x="30" y="290" width="210" height="60" as="geometry" />
+        <mxCell id="SePJ-acrWyg4Tnw_KMCF-6" value="Coeus CDK TypeScript&amp;nbsp;parameters&lt;br&gt;(test workflow setup)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="SePJ-acrWyg4Tnw_KMCF-1">
+          <mxGeometry x="-60" y="290" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SePJ-acrWyg4Tnw_KMCF-24" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="SePJ-acrWyg4Tnw_KMCF-1" source="SePJ-acrWyg4Tnw_KMCF-11" target="SePJ-acrWyg4Tnw_KMCF-14">
           <mxGeometry relative="1" as="geometry" />
@@ -2082,6 +2082,9 @@
         <mxCell id="SePJ-acrWyg4Tnw_KMCF-12" value="Cloacina-M3,&amp;nbsp;&lt;span style=&quot;font-size: 14px;&quot;&gt;Shift 1% PLAN fleet&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="SePJ-acrWyg4Tnw_KMCF-1">
           <mxGeometry x="970" y="270" width="220" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="SePJ-acrWyg4Tnw_KMCF-54" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;fontColor=#000000;strokeColor=#000000;strokeWidth=1;" edge="1" parent="SePJ-acrWyg4Tnw_KMCF-1" source="SePJ-acrWyg4Tnw_KMCF-13" target="SePJ-acrWyg4Tnw_KMCF-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SePJ-acrWyg4Tnw_KMCF-13" value="Cloacina-M3,&amp;nbsp;&lt;span style=&quot;font-size: 14px;&quot;&gt;Shift 100% PLAN fleet&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="SePJ-acrWyg4Tnw_KMCF-1">
           <mxGeometry x="1230" y="270" width="220" height="60" as="geometry" />
         </mxCell>
@@ -2094,11 +2097,89 @@
         <mxCell id="SePJ-acrWyg4Tnw_KMCF-22" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="SePJ-acrWyg4Tnw_KMCF-1" source="SePJ-acrWyg4Tnw_KMCF-21" target="SePJ-acrWyg4Tnw_KMCF-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SePJ-acrWyg4Tnw_KMCF-21" value="Tracks providing CDK TypeScript parameters" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="SePJ-acrWyg4Tnw_KMCF-1">
+        <mxCell id="SePJ-acrWyg4Tnw_KMCF-21" value="Other tracks providing CDK TypeScript parameters" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="SePJ-acrWyg4Tnw_KMCF-1">
           <mxGeometry x="30" y="80" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SePJ-acrWyg4Tnw_KMCF-23" value="Following milestones are executed in parallel" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontColor=#FF3333;fontSize=14;" vertex="1" parent="SePJ-acrWyg4Tnw_KMCF-1">
           <mxGeometry y="-60" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SePJ-acrWyg4Tnw_KMCF-34" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;fontColor=#000000;strokeColor=#000000;strokeWidth=1;" edge="1" parent="SePJ-acrWyg4Tnw_KMCF-1" source="SePJ-acrWyg4Tnw_KMCF-28" target="SePJ-acrWyg4Tnw_KMCF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SePJ-acrWyg4Tnw_KMCF-28" value="Cloacina-M1, refactor ATROPS MAWS pipelines" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="SePJ-acrWyg4Tnw_KMCF-1">
+          <mxGeometry x="-520" y="390" width="265" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SePJ-acrWyg4Tnw_KMCF-35" value="" style="group" vertex="1" connectable="0" parent="SePJ-acrWyg4Tnw_KMCF-1">
+          <mxGeometry x="-190" y="-270" width="120" height="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="SePJ-acrWyg4Tnw_KMCF-29" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=14;fontColor=#FF3333;curved=1;strokeWidth=3;strokeColor=#999999;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="SePJ-acrWyg4Tnw_KMCF-35" target="SePJ-acrWyg4Tnw_KMCF-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="1020" as="sourcePoint" />
+            <mxPoint x="60" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SePJ-acrWyg4Tnw_KMCF-32" value="timeline checkpoint 1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;fontColor=#000000;" vertex="1" parent="SePJ-acrWyg4Tnw_KMCF-35">
+          <mxGeometry width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SePJ-acrWyg4Tnw_KMCF-36" value="" style="group" vertex="1" connectable="0" parent="SePJ-acrWyg4Tnw_KMCF-1">
+          <mxGeometry x="310" y="-270" width="120" height="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="SePJ-acrWyg4Tnw_KMCF-37" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=14;fontColor=#FF3333;curved=1;strokeWidth=3;strokeColor=#999999;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="SePJ-acrWyg4Tnw_KMCF-36" target="SePJ-acrWyg4Tnw_KMCF-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="1020" as="sourcePoint" />
+            <mxPoint x="60" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SePJ-acrWyg4Tnw_KMCF-38" value="timeline checkpoint 2" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;fontColor=#000000;" vertex="1" parent="SePJ-acrWyg4Tnw_KMCF-36">
+          <mxGeometry width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SePJ-acrWyg4Tnw_KMCF-39" value="" style="group" vertex="1" connectable="0" parent="SePJ-acrWyg4Tnw_KMCF-1">
+          <mxGeometry x="630" y="-270" width="120" height="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="SePJ-acrWyg4Tnw_KMCF-40" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=14;fontColor=#FF3333;curved=1;strokeWidth=3;strokeColor=#999999;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="SePJ-acrWyg4Tnw_KMCF-39" target="SePJ-acrWyg4Tnw_KMCF-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="1020" as="sourcePoint" />
+            <mxPoint x="60" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SePJ-acrWyg4Tnw_KMCF-41" value="timeline checkpoint 3" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;fontColor=#000000;" vertex="1" parent="SePJ-acrWyg4Tnw_KMCF-39">
+          <mxGeometry width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SePJ-acrWyg4Tnw_KMCF-42" value="" style="group" vertex="1" connectable="0" parent="SePJ-acrWyg4Tnw_KMCF-1">
+          <mxGeometry x="890" y="-270" width="120" height="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="SePJ-acrWyg4Tnw_KMCF-43" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=14;fontColor=#FF3333;curved=1;strokeWidth=3;strokeColor=#999999;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="SePJ-acrWyg4Tnw_KMCF-42" target="SePJ-acrWyg4Tnw_KMCF-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="1020" as="sourcePoint" />
+            <mxPoint x="60" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SePJ-acrWyg4Tnw_KMCF-44" value="timeline checkpoint 4" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;fontColor=#000000;" vertex="1" parent="SePJ-acrWyg4Tnw_KMCF-42">
+          <mxGeometry width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SePJ-acrWyg4Tnw_KMCF-45" value="" style="group" vertex="1" connectable="0" parent="SePJ-acrWyg4Tnw_KMCF-1">
+          <mxGeometry x="1150" y="-270" width="120" height="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="SePJ-acrWyg4Tnw_KMCF-46" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=14;fontColor=#FF3333;curved=1;strokeWidth=3;strokeColor=#999999;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="SePJ-acrWyg4Tnw_KMCF-45" target="SePJ-acrWyg4Tnw_KMCF-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="1020" as="sourcePoint" />
+            <mxPoint x="60" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SePJ-acrWyg4Tnw_KMCF-47" value="timeline checkpoint 5" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;fontColor=#000000;" vertex="1" parent="SePJ-acrWyg4Tnw_KMCF-45">
+          <mxGeometry width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SePJ-acrWyg4Tnw_KMCF-51" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;fontSize=18;fontColor=#000000;" vertex="1" parent="SePJ-acrWyg4Tnw_KMCF-1">
+          <mxGeometry x="1600" y="275" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SePJ-acrWyg4Tnw_KMCF-56" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;fontColor=#000000;strokeColor=#000000;strokeWidth=1;" edge="1" parent="SePJ-acrWyg4Tnw_KMCF-1" source="SePJ-acrWyg4Tnw_KMCF-55" target="SePJ-acrWyg4Tnw_KMCF-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SePJ-acrWyg4Tnw_KMCF-55" value="connectivity track" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="SePJ-acrWyg4Tnw_KMCF-1">
+          <mxGeometry x="970" y="180" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SePJ-acrWyg4Tnw_KMCF-57" value="Janus&amp;nbsp;&lt;br&gt;(delegate design pattern implementation)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="SePJ-acrWyg4Tnw_KMCF-1">
+          <mxGeometry x="-537.5" y="250" width="300" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
