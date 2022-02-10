@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-10T00:38:08.258Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="OxzfMpy7HinGTMkfHIBB" version="16.5.3" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2022-02-10T00:42:17.850Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="PQ1SZHSWxHGd8mfRGghi" version="16.5.3" type="github" pages="18">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="3339" dy="2002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1921,24 +1921,24 @@
         <mxCell id="-CVW1ONWwOLDJdvdoauc-6" value="II. ATROPSService-Staging-apollo-platform" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=19;fillColor=#e1d5e7;strokeColor=#9673a6;fillOpacity=30;strokeOpacity=30;textOpacity=30;" vertex="1" parent="-CVW1ONWwOLDJdvdoauc-1">
           <mxGeometry x="200" y="340" width="450" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-CVW1ONWwOLDJdvdoauc-7" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;fontSize=19;fontColor=#000000;strokeColor=#999999;strokeWidth=3;elbow=vertical;fillOpacity=30;strokeOpacity=30;textOpacity=30;" edge="1" parent="-CVW1ONWwOLDJdvdoauc-1" source="-CVW1ONWwOLDJdvdoauc-8" target="-CVW1ONWwOLDJdvdoauc-12">
+        <mxCell id="-CVW1ONWwOLDJdvdoauc-7" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;fontSize=19;fontColor=#000000;strokeColor=#999999;strokeWidth=3;elbow=vertical;fillOpacity=100;strokeOpacity=100;" edge="1" parent="-CVW1ONWwOLDJdvdoauc-1" source="-CVW1ONWwOLDJdvdoauc-8" target="-CVW1ONWwOLDJdvdoauc-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-CVW1ONWwOLDJdvdoauc-8" value="IV. ATROPSService-Staging-native-platform" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=19;fillColor=#dae8fc;strokeColor=#6c8ebf;fillOpacity=30;strokeOpacity=30;textOpacity=30;" vertex="1" parent="-CVW1ONWwOLDJdvdoauc-1">
+        <mxCell id="-CVW1ONWwOLDJdvdoauc-8" value="IV. ATROPSService-Staging-native-platform" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=19;fillColor=#dae8fc;strokeColor=#6c8ebf;fillOpacity=100;strokeOpacity=100;" vertex="1" parent="-CVW1ONWwOLDJdvdoauc-1">
           <mxGeometry x="200" y="620" width="440" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-CVW1ONWwOLDJdvdoauc-9" value="&lt;span&gt;III. ATROPSService-Release-apollo&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=19;fillColor=#e1d5e7;strokeColor=#9673a6;fillOpacity=30;strokeOpacity=30;textOpacity=30;" vertex="1" parent="-CVW1ONWwOLDJdvdoauc-1">
           <mxGeometry x="710" y="340" width="380" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-CVW1ONWwOLDJdvdoauc-10" value="&lt;span&gt;VI. ATROPSCacheBuildWorkflow-apollo&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=19;fillColor=#ffe6cc;strokeColor=#d79b00;fillOpacity=100;strokeOpacity=100;" vertex="1" parent="-CVW1ONWwOLDJdvdoauc-1">
+        <mxCell id="-CVW1ONWwOLDJdvdoauc-10" value="&lt;span&gt;VI. ATROPSCacheBuildWorkflow-apollo&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=19;fillColor=#ffe6cc;strokeColor=#d79b00;fillOpacity=30;strokeOpacity=30;textOpacity=30;" vertex="1" parent="-CVW1ONWwOLDJdvdoauc-1">
           <mxGeometry x="1160" y="340" width="540" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-CVW1ONWwOLDJdvdoauc-11" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;fontSize=19;fontColor=#000000;strokeColor=#999999;strokeWidth=3;elbow=vertical;fillOpacity=100;strokeOpacity=100;" edge="1" parent="-CVW1ONWwOLDJdvdoauc-1" target="-CVW1ONWwOLDJdvdoauc-10">
+        <mxCell id="-CVW1ONWwOLDJdvdoauc-11" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;fontSize=19;fontColor=#000000;strokeColor=#999999;strokeWidth=3;elbow=vertical;fillOpacity=30;strokeOpacity=30;textOpacity=30;" edge="1" parent="-CVW1ONWwOLDJdvdoauc-1" target="-CVW1ONWwOLDJdvdoauc-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1090" y="380" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-CVW1ONWwOLDJdvdoauc-12" value="&lt;span&gt;V. ATROPSService-Release-native&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=19;fillColor=#dae8fc;strokeColor=#6c8ebf;fillOpacity=30;strokeOpacity=30;textOpacity=30;" vertex="1" parent="-CVW1ONWwOLDJdvdoauc-1">
+        <mxCell id="-CVW1ONWwOLDJdvdoauc-12" value="&lt;span&gt;V. ATROPSService-Release-native&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=19;fillColor=#dae8fc;strokeColor=#6c8ebf;fillOpacity=100;strokeOpacity=100;" vertex="1" parent="-CVW1ONWwOLDJdvdoauc-1">
           <mxGeometry x="710" y="620" width="390" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-CVW1ONWwOLDJdvdoauc-13" value="functional test on native" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#d5e8d4;strokeColor=#82b366;fillOpacity=30;strokeOpacity=30;textOpacity=30;" vertex="1" parent="-CVW1ONWwOLDJdvdoauc-1">
@@ -1953,22 +1953,22 @@
         <mxCell id="-CVW1ONWwOLDJdvdoauc-16" value="chaos test on apollo" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#e1d5e7;strokeColor=#9673a6;fillOpacity=30;strokeOpacity=30;textOpacity=30;" vertex="1" parent="-CVW1ONWwOLDJdvdoauc-1">
           <mxGeometry x="460" y="440" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-CVW1ONWwOLDJdvdoauc-17" value="performance test on native" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#dae8fc;strokeColor=#6c8ebf;fillOpacity=30;strokeOpacity=30;textOpacity=30;" vertex="1" parent="-CVW1ONWwOLDJdvdoauc-1">
+        <mxCell id="-CVW1ONWwOLDJdvdoauc-17" value="performance test on native" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#dae8fc;strokeColor=#6c8ebf;fillOpacity=100;strokeOpacity=100;" vertex="1" parent="-CVW1ONWwOLDJdvdoauc-1">
           <mxGeometry x="243" y="720" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-CVW1ONWwOLDJdvdoauc-18" value="chaos test on native" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#dae8fc;strokeColor=#6c8ebf;fillOpacity=30;strokeOpacity=30;textOpacity=30;" vertex="1" parent="-CVW1ONWwOLDJdvdoauc-1">
+        <mxCell id="-CVW1ONWwOLDJdvdoauc-18" value="chaos test on native" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#dae8fc;strokeColor=#6c8ebf;fillOpacity=100;strokeOpacity=100;" vertex="1" parent="-CVW1ONWwOLDJdvdoauc-1">
           <mxGeometry x="468" y="720" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-CVW1ONWwOLDJdvdoauc-19" value="deploy to apollo EC2 hosts" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#e1d5e7;strokeColor=#9673a6;fillOpacity=30;strokeOpacity=30;textOpacity=30;" vertex="1" parent="-CVW1ONWwOLDJdvdoauc-1">
           <mxGeometry x="810" y="440" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-CVW1ONWwOLDJdvdoauc-20" value="deploy to ECS clusters" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#dae8fc;strokeColor=#6c8ebf;fillOpacity=30;strokeOpacity=30;textOpacity=30;" vertex="1" parent="-CVW1ONWwOLDJdvdoauc-1">
+        <mxCell id="-CVW1ONWwOLDJdvdoauc-20" value="deploy to ECS clusters" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#dae8fc;strokeColor=#6c8ebf;fillOpacity=100;strokeOpacity=100;" vertex="1" parent="-CVW1ONWwOLDJdvdoauc-1">
           <mxGeometry x="810" y="720" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-CVW1ONWwOLDJdvdoauc-21" value="deploy cache builder code&lt;br&gt;to apollo EC2 hosts" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#ffe6cc;strokeColor=#d79b00;fillOpacity=100;strokeOpacity=100;" vertex="1" parent="-CVW1ONWwOLDJdvdoauc-1">
+        <mxCell id="-CVW1ONWwOLDJdvdoauc-21" value="deploy cache builder code&lt;br&gt;to apollo EC2 hosts" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#ffe6cc;strokeColor=#d79b00;fillOpacity=30;strokeOpacity=30;textOpacity=30;" vertex="1" parent="-CVW1ONWwOLDJdvdoauc-1">
           <mxGeometry x="1480" y="440" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-CVW1ONWwOLDJdvdoauc-28" value="run tests for cache builder code&lt;br&gt;on apollo" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#ffe6cc;strokeColor=#d79b00;fillOpacity=100;strokeOpacity=100;" vertex="1" parent="-CVW1ONWwOLDJdvdoauc-1">
+        <mxCell id="-CVW1ONWwOLDJdvdoauc-28" value="run tests for cache builder code&lt;br&gt;on apollo" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#ffe6cc;strokeColor=#d79b00;fillOpacity=30;strokeOpacity=30;textOpacity=30;" vertex="1" parent="-CVW1ONWwOLDJdvdoauc-1">
           <mxGeometry x="1160" y="440" width="300" height="60" as="geometry" />
         </mxCell>
       </root>
