@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-13T22:12:35.323Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="GcqefZMuFvD2jYYMJVUA" version="16.5.3" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2022-02-13T22:13:42.925Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="-N9FYJEAL5iPDzq-7RXB" version="16.5.3" type="github" pages="18">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="2646" dy="3374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -659,7 +659,7 @@
         <mxCell id="JSvI41LAqpofP6Lag6mr-46" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;strokeWidth=2;dashed=1;fillColor=none;fontColor=#333333;strokeColor=#666666;" parent="JSvI41LAqpofP6Lag6mr-1" vertex="1">
           <mxGeometry x="600" y="700" width="840" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="JSvI41LAqpofP6Lag6mr-2" value="ATROPSService MAWS pipeline" style="shape=umlFrame;whiteSpace=wrap;html=1;width=310;height=40;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fontSize=18;" parent="JSvI41LAqpofP6Lag6mr-1" vertex="1">
+        <mxCell id="JSvI41LAqpofP6Lag6mr-2" value="ATROPSService-atrops-release MAWS pipeline" style="shape=umlFrame;whiteSpace=wrap;html=1;width=430;height=40;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fontSize=18;" parent="JSvI41LAqpofP6Lag6mr-1" vertex="1">
           <mxGeometry x="-350" y="180" width="1880" height="480" as="geometry" />
         </mxCell>
         <mxCell id="JSvI41LAqpofP6Lag6mr-3" value="ATROPSCacheBuildWorkflow MAWS pipeline" style="shape=umlFrame;whiteSpace=wrap;html=1;width=385;height=40;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fontSize=18;" parent="JSvI41LAqpofP6Lag6mr-1" vertex="1">
@@ -700,7 +700,7 @@
         <mxCell id="JSvI41LAqpofP6Lag6mr-13" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;strokeColor=#006666;strokeWidth=2;startArrow=none;" parent="JSvI41LAqpofP6Lag6mr-1" source="JSvI41LAqpofP6Lag6mr-48" target="JSvI41LAqpofP6Lag6mr-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JSvI41LAqpofP6Lag6mr-12" value="NewVFI" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=18;" parent="JSvI41LAqpofP6Lag6mr-1" vertex="1">
+        <mxCell id="JSvI41LAqpofP6Lag6mr-12" value="NewCode" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=18;" parent="JSvI41LAqpofP6Lag6mr-1" vertex="1">
           <mxGeometry x="-340" y="312.5" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="JSvI41LAqpofP6Lag6mr-17" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;fontSize=18;" parent="JSvI41LAqpofP6Lag6mr-1" vertex="1">
