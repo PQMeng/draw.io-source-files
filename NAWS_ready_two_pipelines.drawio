@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-13T22:13:42.925Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="-N9FYJEAL5iPDzq-7RXB" version="16.5.3" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2022-02-14T06:53:40.209Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="uZRSlVxYclfIWAOh2L0H" version="16.5.3" type="github" pages="18">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="2646" dy="3374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -652,7 +652,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Tknh9J2Ed04yyv4EubTW" name="Current Pipeline Settings">
-    <mxGraphModel dx="2646" dy="2274" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4222" dy="1388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="JSvI41LAqpofP6Lag6mr-0" />
         <mxCell id="JSvI41LAqpofP6Lag6mr-1" parent="JSvI41LAqpofP6Lag6mr-0" />
@@ -837,7 +837,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Bw0u8OtxaHTxY5zFHHNA" name="Cloacina-v1">
-    <mxGraphModel dx="7860" dy="3023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5282" dy="2603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="4zq0gizbVHk_ZzvY18hJ-0" />
         <mxCell id="4zq0gizbVHk_ZzvY18hJ-1" parent="4zq0gizbVHk_ZzvY18hJ-0" />
@@ -1165,7 +1165,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="86ocHlj4WXsmZVL128dG" name="Cloacina-v2">
-    <mxGraphModel dx="7493" dy="3198" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4591" dy="2488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Gb0QxALXs7Epk8y6YClU-0" />
         <mxCell id="Gb0QxALXs7Epk8y6YClU-1" parent="Gb0QxALXs7Epk8y6YClU-0" />
@@ -1339,7 +1339,7 @@
         <mxCell id="vHfqYuZVj2X4OEv_fgNe-19" value="ATROPSService/release-native&lt;br&gt;(deploy to ECS)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;fillColor=#cce5ff;strokeColor=#36393d;" parent="Gb0QxALXs7Epk8y6YClU-1" vertex="1">
           <mxGeometry x="2102.19" y="362.5" width="265" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vHfqYuZVj2X4OEv_fgNe-23" value="&lt;u&gt;Manual approval (move to VS verification)&lt;/u&gt;&lt;br&gt;&lt;br&gt;For ATROPSSharedConfig changes and weekly release code changes, verify the CIS simulation results in II. ATROPSService-Release-MAWS pipeline, CIS-verification stage. If everything is good, approve here." style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" parent="Gb0QxALXs7Epk8y6YClU-1" vertex="1">
+        <mxCell id="vHfqYuZVj2X4OEv_fgNe-23" value="&lt;u&gt;Version set manual approval&lt;/u&gt;&lt;br&gt;&lt;br&gt;For ATROPSSharedConfig changes and weekly release code changes, verify the CIS simulation results in II. ATROPSService-Release-MAWS pipeline, CIS-verification stage. If everything is good, approve here." style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" parent="Gb0QxALXs7Epk8y6YClU-1" vertex="1">
           <mxGeometry x="2085" y="490" width="280" height="230" as="geometry" />
         </mxCell>
         <mxCell id="vHfqYuZVj2X4OEv_fgNe-26" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;strokeWidth=3;fillColor=#cce5ff;strokeColor=#7EA6E0;" parent="Gb0QxALXs7Epk8y6YClU-1" source="vHfqYuZVj2X4OEv_fgNe-19" target="vHfqYuZVj2X4OEv_fgNe-2" edge="1">
@@ -1458,9 +1458,6 @@
         <mxCell id="y0iaxBKoOtaPxmnr53Z5-29" value="&lt;b style=&quot;font-size: 16px&quot;&gt;native-platform-test&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=16;" parent="Gb0QxALXs7Epk8y6YClU-1" vertex="1">
           <mxGeometry x="1427.19" y="327.63" width="233.75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="y0iaxBKoOtaPxmnr53Z5-30" value="In the long run, we will drop this pipeline once we migrate the entire ATROPSService from MAWS to NAWS" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=19;fontColor=#FF3333;" parent="Gb0QxALXs7Epk8y6YClU-1" vertex="1">
-          <mxGeometry x="710" y="-690" width="380" height="150" as="geometry" />
-        </mxCell>
         <mxCell id="y0iaxBKoOtaPxmnr53Z5-31" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="Gb0QxALXs7Epk8y6YClU-1" source="y0iaxBKoOtaPxmnr53Z5-9" target="y0iaxBKoOtaPxmnr53Z5-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1130" y="-364.58" as="sourcePoint" />
@@ -1533,7 +1530,7 @@
         <mxCell id="_aYSmsMUf_Uff9cY4Mk2-1" value="We don&#39;t need CN for the PLAN fleets, but we need CN for other specific fleets" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=19;fontColor=#FF3333;" parent="Gb0QxALXs7Epk8y6YClU-1" vertex="1">
           <mxGeometry x="3507.19" y="475" width="210" height="166" as="geometry" />
         </mxCell>
-        <mxCell id="5XiGtk5d8Tyc8vyfAsqf-0" value="&lt;u&gt;Manual approval&lt;br&gt;&lt;/u&gt;&lt;br&gt;weekly release, MCM approval" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
+        <mxCell id="5XiGtk5d8Tyc8vyfAsqf-0" value="&lt;u&gt;Version set manual approval&lt;br&gt;&lt;/u&gt;&lt;br&gt;weekly release, MCM approval" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
           <mxGeometry x="2085" y="-265" width="280" height="100" as="geometry" />
         </mxCell>
         <mxCell id="5XiGtk5d8Tyc8vyfAsqf-1" value="&lt;u&gt;Manual approval&lt;br&gt;&lt;/u&gt;&lt;br&gt;weekly release, MCM approval" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
