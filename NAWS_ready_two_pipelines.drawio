@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-18T00:15:19.765Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="BnEPlnp3W7Bm4KD0Okqk" version="16.5.3" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2022-02-18T00:16:25.720Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="5vyhVGZf6oD-MnwJOJE7" version="16.5.3" type="github" pages="19">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="4591" dy="2488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2512,7 +2512,7 @@
         </mxCell>
         <mxCell id="8IGwWFrxJbk-LCroXUhA-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=85;exitDy=0;exitPerimeter=0;fontSize=16;fontColor=#000000;" edge="1" parent="KX7e3Zod2fWI0CfmFm_l-1" source="8IGwWFrxJbk-LCroXUhA-34">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="20" y="860" as="targetPoint" />
+            <mxPoint x="25" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8IGwWFrxJbk-LCroXUhA-34" value="regression tests (~ 6-8 hours) start running for the new code.&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 16px&quot;&gt;For release captain &lt;br style=&quot;font-size: 16px&quot;&gt;1). verify the results on &lt;b&gt;week1, Fri&lt;/b&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;2). if result is good, press approval button&lt;/font&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;new code gets auto published into pipeline 2.1 and pipeline 2.2" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=16;" vertex="1" parent="KX7e3Zod2fWI0CfmFm_l-1">
@@ -2530,6 +2530,11 @@
             <mxPoint x="150" y="855" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Oqcs1NhTMPeGuBaQGf8N-0" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=220;exitDy=0;exitPerimeter=0;fontSize=16;fontColor=#000000;" edge="1" parent="KX7e3Zod2fWI0CfmFm_l-1" source="8IGwWFrxJbk-LCroXUhA-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8IGwWFrxJbk-LCroXUhA-38" value="pipeline 2.1 and 2.2 start execution in parallel.&amp;nbsp;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;In 2.1 or 2.2, performance test and chaos test start running in parallel as well.&lt;br style=&quot;font-size: 16px&quot;&gt;&amp;nbsp;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 16px&quot;&gt;For release captain &lt;/font&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 16px&quot;&gt;3). In pipeline 2.1, verify the performance test and chaos test results on &lt;b&gt;week2, Mon&lt;/b&gt;;&lt;/font&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 16px&quot;&gt;press approval button&lt;/font&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;new code gets auto-published into 3.1&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 16px&quot;&gt;For release captain&lt;/font&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 16px&quot;&gt;4). In 2.2,&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(204 , 0 , 0) ; font-size: 16px&quot;&gt;verify the performance test and chaos test results on &lt;b&gt;week2, Mon&lt;/b&gt;;&lt;br style=&quot;font-size: 16px&quot;&gt;press approval button&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;new code gets auto published into 3.2&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 16px&quot;&gt;For release captain&lt;br style=&quot;font-size: 16px&quot;&gt;5) Draft MCM and get it approved on &lt;b&gt;week2, Mon&lt;/b&gt;.&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=16;" vertex="1" parent="KX7e3Zod2fWI0CfmFm_l-1">
           <mxGeometry x="160" y="920" width="470" height="480" as="geometry" />
         </mxCell>
@@ -2537,6 +2542,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="680" y="854.47" as="sourcePoint" />
             <mxPoint x="1100" y="855" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Oqcs1NhTMPeGuBaQGf8N-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=190;exitDy=0;exitPerimeter=0;fontSize=16;fontColor=#000000;" edge="1" parent="KX7e3Zod2fWI0CfmFm_l-1" source="8IGwWFrxJbk-LCroXUhA-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880.1111111111109" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8IGwWFrxJbk-LCroXUhA-41" value="&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 16px&quot;&gt;For release captain on &lt;b&gt;week2, Wed&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 16px&quot;&gt;6). In pipeline 3.1&lt;/font&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 16px&quot;&gt;press Gamma deployment button;&lt;/font&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 16px&quot;&gt;bake and verify CIS report;&lt;/font&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 16px&quot;&gt;press regional approval button to start production deployment&lt;/font&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;At the end, ATROPSDataAccess package (used for cache builder) is auto-published into pipeline 4" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=16;" vertex="1" parent="KX7e3Zod2fWI0CfmFm_l-1">
@@ -2549,6 +2559,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1160" y="854.47" as="sourcePoint" />
             <mxPoint x="1720" y="855" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Oqcs1NhTMPeGuBaQGf8N-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=240;exitDy=0;exitPerimeter=0;fontSize=16;fontColor=#000000;" edge="1" parent="KX7e3Zod2fWI0CfmFm_l-1" source="8IGwWFrxJbk-LCroXUhA-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1410.1111111111109" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8IGwWFrxJbk-LCroXUhA-44" value="&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 16px&quot;&gt;For release captain on &lt;b&gt;week2, Wed&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 16px&quot;&gt;8). In pipeline 4&lt;/font&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 16px&quot;&gt;verify cache builder tests;&lt;/font&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 16px&quot;&gt;press regional approval button to start production deployment;&lt;/font&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;In theory, pipeline 4 can start deployment as long as pipeline 3.1 finishes deployment, while pipeline 3.2 is still deploying. However, to ensure new code &lt;span style=&quot;font-size: 16px&quot;&gt;synchronization between apollo and native, we only start pipeline 4 until both pipeline 3.1 and pipeline 3.2 finish deployment.&lt;/span&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 16px&quot;&gt;&amp;nbsp;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=16;" vertex="1" parent="KX7e3Zod2fWI0CfmFm_l-1">
