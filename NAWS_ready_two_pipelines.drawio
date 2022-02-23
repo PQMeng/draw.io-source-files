@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T18:47:51.190Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="qkquZtzd0jESQzFfEtKG" version="16.6.0" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2022-02-23T18:48:34.015Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="1-sLgVdgUB13v47XsWEz" version="16.6.0" type="github" pages="19">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="4432" dy="2603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1553,6 +1553,12 @@
         </mxCell>
         <mxCell id="reLZ1uIaH8Zd4ik7_jVO-2" value="&lt;font color=&quot;#000000&quot;&gt;Please note, there are 2 options for releasing ATROPSSharedConfig code changes during weekly code release.&lt;br&gt;&lt;br&gt;1. On the weekly release day, add a step in MCM to ask release captains TURN OFF the ATROPSSharedConfig package promotion, and TRUN ON after the release is complete.&lt;br&gt;&lt;br&gt;2.&amp;nbsp;we ask engineers to ensure that DO NOT push ATROPSSharedConfig code changes during the weekly release.&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=16;fontColor=#CC0000;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
           <mxGeometry x="1820" y="-117.5" width="510" height="307.5" as="geometry" />
+        </mxCell>
+        <mxCell id="reLZ1uIaH8Zd4ik7_jVO-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/nuvola2/48x48/actions/no.png;fontSize=16;fontColor=#000000;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
+          <mxGeometry x="2037" y="-283" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="reLZ1uIaH8Zd4ik7_jVO-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/nuvola2/48x48/actions/no.png;fontSize=16;fontColor=#000000;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
+          <mxGeometry x="2060" y="444" width="48" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
