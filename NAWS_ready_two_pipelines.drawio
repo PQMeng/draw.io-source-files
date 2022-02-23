@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T18:41:02.088Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="8ko2lvDZjG6kvMfTlm3C" version="16.6.0" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2022-02-23T18:47:51.190Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="qkquZtzd0jESQzFfEtKG" version="16.6.0" type="github" pages="19">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="4432" dy="2603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1551,8 +1551,8 @@
         <mxCell id="reLZ1uIaH8Zd4ik7_jVO-1" value="Please note,&amp;nbsp;&lt;br&gt;In the current&amp;nbsp;&lt;a href=&quot;https://pipelines.amazon.com/pipelines/ATROPSService-atrops-release&quot;&gt;ATROPSService-atrops-release&lt;/a&gt;&amp;nbsp; pipeline, code committers take care of the functional test results for each code commit, and release captains take care of the regression test results for a bunch of code commits that are going to be released.&lt;br&gt;&lt;br&gt;In the above I. ATROPSServoce-Staging-native pipeline, code committers take care of the functional test results, &lt;b&gt;and the regression test results for each code commit&lt;/b&gt;. &lt;b&gt;&lt;font color=&quot;#cc0000&quot;&gt;If any test fails, code committer is paged&lt;/font&gt;&lt;/b&gt;. We do this to ensure the pipeline is ALWAY green, making release captain&#39;s life easier!" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=16;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
           <mxGeometry x="-410" y="215" width="960" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="reLZ1uIaH8Zd4ik7_jVO-2" value="&lt;font color=&quot;#000000&quot;&gt;Please note,&amp;nbsp;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=16;fontColor=#CC0000;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
-          <mxGeometry x="1850" y="-100" width="250" height="275" as="geometry" />
+        <mxCell id="reLZ1uIaH8Zd4ik7_jVO-2" value="&lt;font color=&quot;#000000&quot;&gt;Please note, there are 2 options for releasing ATROPSSharedConfig code changes during weekly code release.&lt;br&gt;&lt;br&gt;1. On the weekly release day, add a step in MCM to ask release captains TURN OFF the ATROPSSharedConfig package promotion, and TRUN ON after the release is complete.&lt;br&gt;&lt;br&gt;2.&amp;nbsp;we ask engineers to ensure that DO NOT push ATROPSSharedConfig code changes during the weekly release.&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=16;fontColor=#CC0000;" vertex="1" parent="Gb0QxALXs7Epk8y6YClU-1">
+          <mxGeometry x="1820" y="-117.5" width="510" height="307.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
