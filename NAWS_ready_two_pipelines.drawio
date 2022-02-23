@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T20:04:17.508Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="hgbcOs7zVKABJHoGWLCs" version="16.6.0" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2022-02-23T20:50:54.699Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="khr1k6S1h169g0m7FlD7" version="16.6.0" type="github" pages="19">
   <diagram id="9V4gXKh2e1AULSLboZQO" name="Cloacina - Standardization of ATROPSService Pipelines">
     <mxGraphModel dx="4432" dy="2603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2075,7 +2075,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1ZATR-e7iZbq0jMWs3V-" name="temp">
-    <mxGraphModel dx="-61" dy="2002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2002" dy="2864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="zkQwPFfuVGQF6Zvs6U14-0" />
         <mxCell id="zkQwPFfuVGQF6Zvs6U14-1" parent="zkQwPFfuVGQF6Zvs6U14-0" />
@@ -2236,6 +2236,18 @@
         </mxCell>
         <mxCell id="Oe8XzBD0iriZ4ghdF1kc-20" value="&lt;u&gt;Manual approval&lt;br&gt;&lt;/u&gt;&lt;br&gt;weekly release, MCM approval" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" parent="zkQwPFfuVGQF6Zvs6U14-1" vertex="1">
           <mxGeometry x="3229.54" y="490" width="200.31" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="UKcXEquotnnOZl7Gg6tO-0" value="&lt;font color=&quot;#000000&quot;&gt;Please note, there are 2 options for releasing ATROPSSharedConfig code changes during weekly code release.&lt;br&gt;&lt;br&gt;1. On the weekly release day, add a step in MCM to ask release captains TURN OFF the ATROPSSharedConfig package promotion, and TRUN ON after the release is complete.&lt;br&gt;&lt;br&gt;2.&amp;nbsp;we ask engineers to ensure that DO NOT push ATROPSSharedConfig code changes during the weekly release.&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=16;fontColor=#CC0000;" vertex="1" parent="zkQwPFfuVGQF6Zvs6U14-1">
+          <mxGeometry x="1820" y="-117.5" width="510" height="307.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UKcXEquotnnOZl7Gg6tO-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/nuvola2/48x48/actions/no.png;fontSize=16;fontColor=#000000;" vertex="1" parent="zkQwPFfuVGQF6Zvs6U14-1">
+          <mxGeometry x="2037" y="-283" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="UKcXEquotnnOZl7Gg6tO-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/nuvola2/48x48/actions/no.png;fontSize=16;fontColor=#000000;" vertex="1" parent="zkQwPFfuVGQF6Zvs6U14-1">
+          <mxGeometry x="2060" y="444" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="UKcXEquotnnOZl7Gg6tO-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/nuvola2/48x48/actions/no.png;fontSize=16;fontColor=#000000;" vertex="1" parent="zkQwPFfuVGQF6Zvs6U14-1">
+          <mxGeometry x="1780" y="4.5" width="48" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
