@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-01T00:46:13.662Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="BaCqo1250kqi3mPAdOY6" version="16.6.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-03-01T02:08:11.033Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="pVkBZlPhUe02HaJtdLku" version="16.6.3" type="github" pages="2">
   <diagram id="_vjgZyVGTsaRPyy51QTJ" name="compliance-SMGs-permission-control">
     <mxGraphModel dx="3095" dy="3775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -152,21 +152,17 @@
     </mxGraphModel>
   </diagram>
   <diagram id="asXJ7Vp2pnZu-XaPGV5D" name="3 components">
-    <mxGraphModel dx="1186" dy="3374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="3317" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="IhGaBdKcK8gU0wBtRPoo-0" />
         <mxCell id="IhGaBdKcK8gU0wBtRPoo-1" parent="IhGaBdKcK8gU0wBtRPoo-0" />
-        <mxCell id="IhGaBdKcK8gU0wBtRPoo-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;" edge="1" parent="IhGaBdKcK8gU0wBtRPoo-1" source="IhGaBdKcK8gU0wBtRPoo-2" target="IhGaBdKcK8gU0wBtRPoo-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="IhGaBdKcK8gU0wBtRPoo-2" value="compliance rule" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="IhGaBdKcK8gU0wBtRPoo-1">
-          <mxGeometry x="50" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IhGaBdKcK8gU0wBtRPoo-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERmany;startFill=0;endArrow=ERmany;endFill=0;" edge="1" parent="IhGaBdKcK8gU0wBtRPoo-1" source="IhGaBdKcK8gU0wBtRPoo-3" target="IhGaBdKcK8gU0wBtRPoo-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="IhGaBdKcK8gU0wBtRPoo-3" value="compliance rule to complianc-SMGs map" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="IhGaBdKcK8gU0wBtRPoo-1">
-          <mxGeometry x="260" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="IhGaBdKcK8gU0wBtRPoo-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERmany;startFill=0;endArrow=ERmany;endFill=0;" edge="1" parent="IhGaBdKcK8gU0wBtRPoo-1" source="IhGaBdKcK8gU0wBtRPoo-2" target="IhGaBdKcK8gU0wBtRPoo-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="220" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="IhGaBdKcK8gU0wBtRPoo-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERmany;startFill=0;endArrow=ERmany;endFill=0;" edge="1" parent="IhGaBdKcK8gU0wBtRPoo-1" source="IhGaBdKcK8gU0wBtRPoo-4" target="IhGaBdKcK8gU0wBtRPoo-5">
           <mxGeometry relative="1" as="geometry" />
@@ -195,11 +191,8 @@
         <mxCell id="IhGaBdKcK8gU0wBtRPoo-11" value="ship method XXX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="IhGaBdKcK8gU0wBtRPoo-1">
           <mxGeometry x="640" y="300" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IhGaBdKcK8gU0wBtRPoo-18" value="one to one" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="IhGaBdKcK8gU0wBtRPoo-1">
-          <mxGeometry x="180" y="260" width="70" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="IhGaBdKcK8gU0wBtRPoo-19" value="many to many" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="IhGaBdKcK8gU0wBtRPoo-1">
-          <mxGeometry x="380" y="260" width="90" height="20" as="geometry" />
+          <mxGeometry x="370" y="260" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IhGaBdKcK8gU0wBtRPoo-20" value="many to many" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="IhGaBdKcK8gU0wBtRPoo-1">
           <mxGeometry x="560" y="360" width="90" height="20" as="geometry" />
