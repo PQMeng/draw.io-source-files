@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-01T00:38:09.811Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="wm-EGL8xiKlMB2m1dRCe" version="16.6.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-03-01T00:46:13.662Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="BaCqo1250kqi3mPAdOY6" version="16.6.3" type="github" pages="2">
   <diagram id="_vjgZyVGTsaRPyy51QTJ" name="compliance-SMGs-permission-control">
     <mxGraphModel dx="3095" dy="3775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -152,7 +152,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="asXJ7Vp2pnZu-XaPGV5D" name="3 components">
-    <mxGraphModel dx="1186" dy="2274" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="3374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="IhGaBdKcK8gU0wBtRPoo-0" />
         <mxCell id="IhGaBdKcK8gU0wBtRPoo-1" parent="IhGaBdKcK8gU0wBtRPoo-0" />
@@ -203,6 +203,12 @@
         </mxCell>
         <mxCell id="IhGaBdKcK8gU0wBtRPoo-20" value="many to many" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="IhGaBdKcK8gU0wBtRPoo-1">
           <mxGeometry x="560" y="360" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IhGaBdKcK8gU0wBtRPoo-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=15;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="IhGaBdKcK8gU0wBtRPoo-1" source="IhGaBdKcK8gU0wBtRPoo-21" target="IhGaBdKcK8gU0wBtRPoo-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IhGaBdKcK8gU0wBtRPoo-21" value="Compliance rules can map to ship methods directly, and the mapping relation is &lt;b style=&quot;font-size: 15px&quot;&gt;many-to-many&lt;/b&gt;. &lt;br&gt;&lt;br&gt;In this case, compliance-SMGs are not needed." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=15;" vertex="1" parent="IhGaBdKcK8gU0wBtRPoo-1">
+          <mxGeometry x="345" y="-130" width="350" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
