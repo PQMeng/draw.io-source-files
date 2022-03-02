@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-02T00:46:29.378Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="K_etjDkCkbRTzXmouZlW" version="16.6.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-03-02T00:46:51.866Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="epTmODnezjf7TzWZtf2q" version="16.6.3" type="github" pages="3">
   <diagram id="_vjgZyVGTsaRPyy51QTJ" name="compliance-SMGs-permission-control">
     <mxGraphModel dx="3095" dy="3775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -244,7 +244,7 @@
         <mxCell id="n0FhpveJUtz-mq7WPZJd-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=15;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="-ZsLPrj2MBK-SmV7sRIG-1" source="n0FhpveJUtz-mq7WPZJd-7" target="-ZsLPrj2MBK-SmV7sRIG-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n0FhpveJUtz-mq7WPZJd-7" value="&lt;span&gt;compliance tule to compliance-SMGs map&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;strokeColor=#000000;strokeWidth=2;fillColor=none;" vertex="1" parent="-ZsLPrj2MBK-SmV7sRIG-1">
+        <mxCell id="n0FhpveJUtz-mq7WPZJd-7" value="&lt;span&gt;DG compliance rule to compliance-SMGs map&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;strokeColor=#000000;strokeWidth=2;fillColor=none;" vertex="1" parent="-ZsLPrj2MBK-SmV7sRIG-1">
           <mxGeometry x="-220" y="390" width="200" height="70" as="geometry" />
         </mxCell>
       </root>
