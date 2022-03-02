@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-02T06:51:11.612Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="AZOHZfMSKjzOsfZ7-qS7" version="16.6.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-03-02T06:55:53.168Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="tJszsEq0_wq_SE3Dn19d" version="16.6.3" type="github" pages="5">
   <diagram id="_vjgZyVGTsaRPyy51QTJ" name="compliance-SMGs-permission-control">
     <mxGraphModel dx="4869" dy="2864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -251,7 +251,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ue_smeVgCrzQDhMfRKu4" name="Solution-Non-DG">
-    <mxGraphModel dx="3702" dy="2688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4552" dy="2688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="j2rf-v7bGQMZTTUiE--k-0" />
         <mxCell id="j2rf-v7bGQMZTTUiE--k-1" parent="j2rf-v7bGQMZTTUiE--k-0" />
@@ -294,8 +294,8 @@
         <mxCell id="j2rf-v7bGQMZTTUiE--k-12" value="AppliedRoute" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=0" vertex="1" parent="j2rf-v7bGQMZTTUiE--k-2">
           <mxGeometry x="560" y="60" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="j2rf-v7bGQMZTTUiE--k-13" value="ship methods,&lt;br style=&quot;font-size: 16px&quot;&gt;transit times,&lt;br style=&quot;font-size: 16px&quot;&gt;UDDs,&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#ff9933&quot; style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;ACM-SMGs,&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;/b&gt;&lt;/font&gt;..." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=0" vertex="1" parent="j2rf-v7bGQMZTTUiE--k-1">
-          <mxGeometry x="-230" y="60" width="120" height="100" as="geometry" />
+        <mxCell id="j2rf-v7bGQMZTTUiE--k-13" value="ship methods,&lt;br style=&quot;font-size: 16px&quot;&gt;transit times,&lt;br style=&quot;font-size: 16px&quot;&gt;UDDs,&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#ff9933&quot; style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Compliance-SMGs,&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;/b&gt;&lt;/font&gt;..." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=0" vertex="1" parent="j2rf-v7bGQMZTTUiE--k-1">
+          <mxGeometry x="-230" y="60" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="j2rf-v7bGQMZTTUiE--k-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;fontStyle=0" edge="1" parent="j2rf-v7bGQMZTTUiE--k-1" source="j2rf-v7bGQMZTTUiE--k-15" target="j2rf-v7bGQMZTTUiE--k-17">
           <mxGeometry relative="1" as="geometry" />
@@ -420,6 +420,30 @@
         </mxCell>
         <mxCell id="j2rf-v7bGQMZTTUiE--k-46" value="Color: &lt;font color=&quot;#cc0000&quot;&gt;removed&lt;/font&gt;, &lt;font color=&quot;#ff9933&quot;&gt;modified&lt;/font&gt;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontColor=#000000;" vertex="1" parent="j2rf-v7bGQMZTTUiE--k-1">
           <mxGeometry x="-520" y="790" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6uF3lZfe3bFVzXlmggD7-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=80;exitDy=30;exitPerimeter=0;fontSize=15;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="j2rf-v7bGQMZTTUiE--k-1" source="6uF3lZfe3bFVzXlmggD7-1" target="6uF3lZfe3bFVzXlmggD7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6uF3lZfe3bFVzXlmggD7-1" value="proposal" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=15;strokeColor=#000000;strokeWidth=2;fillColor=none;" vertex="1" parent="j2rf-v7bGQMZTTUiE--k-1">
+          <mxGeometry x="-1130" y="150" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6uF3lZfe3bFVzXlmggD7-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=15;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="j2rf-v7bGQMZTTUiE--k-1" source="6uF3lZfe3bFVzXlmggD7-2" target="j2rf-v7bGQMZTTUiE--k-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6uF3lZfe3bFVzXlmggD7-2" value="RC" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;strokeColor=#000000;strokeWidth=2;fillColor=none;" vertex="1" parent="j2rf-v7bGQMZTTUiE--k-1">
+          <mxGeometry x="-830" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6uF3lZfe3bFVzXlmggD7-8" value="Why normal RC?" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=15;strokeColor=#000000;strokeWidth=2;fillColor=none;" vertex="1" parent="j2rf-v7bGQMZTTUiE--k-1">
+          <mxGeometry x="-850" y="270" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6uF3lZfe3bFVzXlmggD7-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=15;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="j2rf-v7bGQMZTTUiE--k-1" source="6uF3lZfe3bFVzXlmggD7-10" target="6uF3lZfe3bFVzXlmggD7-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6uF3lZfe3bFVzXlmggD7-10" value="ATROPS users" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=15;strokeColor=#000000;strokeWidth=2;fillColor=none;" vertex="1" parent="j2rf-v7bGQMZTTUiE--k-1">
+          <mxGeometry x="-1370" y="180" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6uF3lZfe3bFVzXlmggD7-13" value="Why use cache builder?" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=15;strokeColor=#000000;strokeWidth=2;fillColor=none;" vertex="1" parent="j2rf-v7bGQMZTTUiE--k-1">
+          <mxGeometry x="210" y="50" width="130" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
