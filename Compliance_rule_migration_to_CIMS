@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T21:42:09.998Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="cDlGWuC1Um1S1CLafLHK" version="16.6.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-03-15T21:50:11.549Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="7qyx0LVMizLzF_FhyBP-" version="16.6.5" type="github" pages="8">
   <diagram id="_vjgZyVGTsaRPyy51QTJ" name="compliance-SMGs-permission-control">
     <mxGraphModel dx="2646" dy="3374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -594,7 +594,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xUaCzud4Xvkv84jtCmDV" name="ACM-SMGs_DB_change">
-    <mxGraphModel dx="1796" dy="3374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3483" dy="2081" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="2h9FjHO1IJPqkuL_77Uz-0" />
         <mxCell id="2h9FjHO1IJPqkuL_77Uz-1" parent="2h9FjHO1IJPqkuL_77Uz-0" />
@@ -666,7 +666,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xyWFL9k01iCVHRP0fMye" name="Permission_group">
-    <mxGraphModel dx="3483" dy="1033" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3483" dy="981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="h7e2wgw16RDMjC7ZFj7C-0" />
         <mxCell id="h7e2wgw16RDMjC7ZFj7C-1" parent="h7e2wgw16RDMjC7ZFj7C-0" />
