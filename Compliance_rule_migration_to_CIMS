@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-29T19:18:56.992Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="0TwHJyYJDpE2ZSJCZ8uC" version="17.2.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-03-29T20:27:51.148Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="9C-4Nom6Q38tPe4Jr36O" version="17.2.1" type="github" pages="10">
   <diagram id="_vjgZyVGTsaRPyy51QTJ" name="compliance-SMGs-permission-control">
     <mxGraphModel dx="4333" dy="2133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -808,7 +808,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9oiEo9leKeL85O5NPx_U" name="Revision_3_overview">
-    <mxGraphModel dx="3483" dy="2133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4361" dy="2477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -975,7 +975,7 @@
         <mxCell id="IsHhjhciVdZgHW6muI4J-15" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;fontSize=20;fontColor=#000000;strokeColor=#C7C7C7;strokeWidth=2;" vertex="1" parent="IsHhjhciVdZgHW6muI4J-1">
           <mxGeometry y="150" width="610" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IsHhjhciVdZgHW6muI4J-16" value="optional ENUM value" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;fontSize=20;fontColor=#009900;strokeColor=#C7C7C7;strokeWidth=2;" vertex="1" parent="IsHhjhciVdZgHW6muI4J-15">
+        <mxCell id="IsHhjhciVdZgHW6muI4J-16" value="nullable" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;fontSize=20;fontColor=#009900;strokeColor=#C7C7C7;strokeWidth=2;" vertex="1" parent="IsHhjhciVdZgHW6muI4J-15">
           <mxGeometry width="210" height="30" as="geometry">
             <mxRectangle width="210" height="30" as="alternateBounds" />
           </mxGeometry>
