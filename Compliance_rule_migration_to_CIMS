@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-26T00:39:22.164Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="04ZHfIs2NQ9X2KaH36z7" version="17.2.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-03-29T18:26:41.209Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="C44j9V3a4hmJmhLVu35H" version="17.2.1" type="github" pages="9">
   <diagram id="_vjgZyVGTsaRPyy51QTJ" name="compliance-SMGs-permission-control">
     <mxGraphModel dx="4573" dy="2133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -725,7 +725,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IU-NcuvvdaVYW0y8_jrs" name="multi_step_approval">
-    <mxGraphModel dx="3723" dy="1033" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3723" dy="2133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="e1akW3SdRz6uiLq8clli-0" />
         <mxCell id="e1akW3SdRz6uiLq8clli-1" parent="e1akW3SdRz6uiLq8clli-0" />
@@ -802,7 +802,106 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e1akW3SdRz6uiLq8clli-40" value="Q: What can we do to identify wether the SMG belongs to DG or not.&lt;br&gt;&lt;br&gt;A: Dropdown column. Default value is ACM. Available options are the permission groups we support. This value is maintained manually in some brazil packages, and is written into the ship_method_group table, permission group column." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=17;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;" parent="e1akW3SdRz6uiLq8clli-1" vertex="1">
-          <mxGeometry x="250" y="110" width="310" height="230" as="geometry" />
+          <mxGeometry x="60" y="-270" width="310" height="230" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="9oiEo9leKeL85O5NPx_U" name="Revision_3_overview">
+    <mxGraphModel dx="3483" dy="1033" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dTIHk3CCYKVot6JVe053-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=20;" edge="1" parent="1" source="dTIHk3CCYKVot6JVe053-3" target="dTIHk3CCYKVot6JVe053-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dTIHk3CCYKVot6JVe053-3" value="Draft" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dTIHk3CCYKVot6JVe053-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;strokeWidth=2;" edge="1" parent="1" source="dTIHk3CCYKVot6JVe053-4" target="dTIHk3CCYKVot6JVe053-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dTIHk3CCYKVot6JVe053-4" value="Validate" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="10" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dTIHk3CCYKVot6JVe053-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=20;strokeWidth=2;" edge="1" parent="1" source="dTIHk3CCYKVot6JVe053-5" target="dTIHk3CCYKVot6JVe053-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dTIHk3CCYKVot6JVe053-41" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=20;strokeWidth=2;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="dTIHk3CCYKVot6JVe053-5" target="dTIHk3CCYKVot6JVe053-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dTIHk3CCYKVot6JVe053-5" value="Peer Review" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="620" y="450" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dTIHk3CCYKVot6JVe053-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=2;fontSize=20;" edge="1" parent="1" source="dTIHk3CCYKVot6JVe053-8" target="dTIHk3CCYKVot6JVe053-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dTIHk3CCYKVot6JVe053-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=20;strokeWidth=2;" edge="1" parent="1" source="dTIHk3CCYKVot6JVe053-8" target="dTIHk3CCYKVot6JVe053-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dTIHk3CCYKVot6JVe053-8" value="Multi-Step Approval (MSA)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="950" y="680" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dTIHk3CCYKVot6JVe053-10" value="AttachToRC" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dTIHk3CCYKVot6JVe053-13" value="Submit" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="430" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dTIHk3CCYKVot6JVe053-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;fontSize=20;" edge="1" parent="1" source="dTIHk3CCYKVot6JVe053-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-120" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dTIHk3CCYKVot6JVe053-16" value="Rejected" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="280" y="855" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dTIHk3CCYKVot6JVe053-22" value="Re-submit" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="150" y="850" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dTIHk3CCYKVot6JVe053-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=20;strokeWidth=2;" edge="1" parent="1" source="dTIHk3CCYKVot6JVe053-23" target="dTIHk3CCYKVot6JVe053-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dTIHk3CCYKVot6JVe053-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;strokeWidth=2;" edge="1" parent="1" source="dTIHk3CCYKVot6JVe053-23" target="dTIHk3CCYKVot6JVe053-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dTIHk3CCYKVot6JVe053-23" value="Require MSA?" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="310" y="420" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dTIHk3CCYKVot6JVe053-29" value="Reject" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="745" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dTIHk3CCYKVot6JVe053-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=20;strokeWidth=2;" edge="1" parent="1" source="dTIHk3CCYKVot6JVe053-33" target="dTIHk3CCYKVot6JVe053-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dTIHk3CCYKVot6JVe053-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontSize=20;strokeWidth=2;" edge="1" parent="1" source="dTIHk3CCYKVot6JVe053-33" target="dTIHk3CCYKVot6JVe053-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dTIHk3CCYKVot6JVe053-33" value="Peer Review" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="620" y="680" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dTIHk3CCYKVot6JVe053-42" value="&lt;font face=&quot;amazon ember, helvetica, arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b style=&quot;color: rgb(51 , 51 , 51)&quot;&gt;passed (Boolean)&amp;nbsp; - &lt;/b&gt;&lt;font color=&quot;#333333&quot;&gt;Indicates whether the proposal passed to validation or not. This sets to true if none of the validation rules results in ERROR. &lt;/font&gt;&lt;br&gt;&lt;b style=&quot;color: rgb(51 , 51 , 51)&quot;&gt;terminated (Boolean)&amp;nbsp; - &lt;/b&gt;&lt;font color=&quot;#333333&quot;&gt;Indicates whether the validation is complete or not.&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#009900&quot;&gt;&lt;b&gt;(newly added) MultiStepApproval_Required (Boolean) - &lt;/b&gt;indicate whether proposal needs to trigger MSA or not.&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#009900&quot;&gt;&lt;b&gt;(newly added) Business_Usecase (String) - &lt;/b&gt;which business use case of the proposal triggers MSA, this will be used as a key to load template ID linked to business case to create approval.&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=20;strokeWidth=2;align=left;" vertex="1" parent="1">
+          <mxGeometry x="190" y="40" width="800" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="dTIHk3CCYKVot6JVe053-43" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="430" y="430" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dTIHk3CCYKVot6JVe053-44" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="375" y="550" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dTIHk3CCYKVot6JVe053-45" value="Approve" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="770" y="430" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dTIHk3CCYKVot6JVe053-46" value="Approve" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="770" y="660" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dTIHk3CCYKVot6JVe053-47" value="Approve" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="660" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dTIHk3CCYKVot6JVe053-48" value="Reject" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="700" y="745" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
