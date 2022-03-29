@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-29T18:31:09.226Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="tJ62IsLH88askUEu8IZQ" version="17.2.1" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-03-29T18:33:36.779Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="xwGhPk4TsExaRjU3fpCk" version="17.2.1" type="github" pages="9">
   <diagram id="_vjgZyVGTsaRPyy51QTJ" name="compliance-SMGs-permission-control">
     <mxGraphModel dx="4573" dy="2133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -821,7 +821,7 @@
         <mxCell id="dTIHk3CCYKVot6JVe053-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;strokeWidth=2;" edge="1" parent="1" source="dTIHk3CCYKVot6JVe053-4" target="dTIHk3CCYKVot6JVe053-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dTIHk3CCYKVot6JVe053-4" value="Validate" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="dTIHk3CCYKVot6JVe053-4" value="Validate" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="10" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dTIHk3CCYKVot6JVe053-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=20;strokeWidth=2;" edge="1" parent="1" source="dTIHk3CCYKVot6JVe053-5" target="dTIHk3CCYKVot6JVe053-10">
@@ -841,7 +841,7 @@
         <mxCell id="dTIHk3CCYKVot6JVe053-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=20;strokeWidth=2;" edge="1" parent="1" source="dTIHk3CCYKVot6JVe053-8" target="dTIHk3CCYKVot6JVe053-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dTIHk3CCYKVot6JVe053-8" value="Multi-Step Approval (MSA)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="dTIHk3CCYKVot6JVe053-8" value="Multi-Step Approval (MSA)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="950" y="680" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dTIHk3CCYKVot6JVe053-10" value="AttachToRC" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
