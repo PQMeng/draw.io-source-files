@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-30T22:30:50.837Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="E836qCASNefc7zKrXTRx" version="17.2.1" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-03-30T22:31:17.959Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="D5vkiuTKDxdG2ahjB3xZ" version="17.2.1" type="github" pages="13">
   <diagram id="_vjgZyVGTsaRPyy51QTJ" name="compliance-SMGs-permission-control">
     <mxGraphModel dx="4333" dy="2133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1079,7 +1079,7 @@
         <mxCell id="JIVBM7JQ5pPIZOeMFFZx-27" value="&lt;span&gt;ship method group name&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="120" y="150" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JIVBM7JQ5pPIZOeMFFZx-28" value="&lt;span&gt;permission control group&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="JIVBM7JQ5pPIZOeMFFZx-28" value="&lt;span&gt;permission control group (nullable ENUM value)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="350" y="150" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JIVBM7JQ5pPIZOeMFFZx-29" value="&lt;span&gt;SMG_1&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontColor=#000000;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
