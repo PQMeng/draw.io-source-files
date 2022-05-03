@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-02T22:41:38.640Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="LT7VK6pFLmy9owtyi6ad" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-03T18:04:11.919Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="fftKJzljMPPbviNn2cqe" version="17.5.0" type="github">
   <diagram id="HrNKCBqHK2tdbmHUeT-G" name="Page-1">
     <mxGraphModel dx="3483" dy="2133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="DpmhX3qICxfmqXgQNWMo-23" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=18;" parent="1" source="DpmhX3qICxfmqXgQNWMo-1" target="DpmhX3qICxfmqXgQNWMo-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DpmhX3qICxfmqXgQNWMo-1" value="ATROPSCacheBuilderRelease/mainline" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="DpmhX3qICxfmqXgQNWMo-1" value="ATROPSCacheBuilder/mainline" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="-200" y="250" width="350" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DpmhX3qICxfmqXgQNWMo-24" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=18;" parent="1" source="DpmhX3qICxfmqXgQNWMo-2" target="DpmhX3qICxfmqXgQNWMo-4" edge="1">
@@ -144,6 +144,15 @@
         </mxCell>
         <mxCell id="L9mNp6Xqcskt-CbSFsRY-22" value="Cache + Code combination in the ATROPS transportation network" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1510" y="-110" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="L9mNp6Xqcskt-CbSFsRY-25" value="ATROPS-cache-builder-release pipeline" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#666666;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-200" y="205" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L9mNp6Xqcskt-CbSFsRY-26" value="ATROPSService-mainline pipeline" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#666666;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-185" y="420" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L9mNp6Xqcskt-CbSFsRY-27" value="ATROPSCacheBuildWorkflowService pipeline" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#666666;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-255" y="630" width="410" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
