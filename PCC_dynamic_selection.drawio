@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-06T00:15:57.552Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="cXTn_27KH0h-Q5L_oQPZ" version="22.1.21" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-02-06T00:19:24.761Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="T0XR0vbMVwDGnUPoukbj" version="22.1.21" type="github" pages="2">
   <diagram name="Page-1" id="kkmQ5Zyxi5VdZ9s_22Ci">
     <mxGraphModel dx="2657" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -77,6 +77,15 @@
         </mxCell>
         <mxCell id="xrJ3MpQCigA4VYRjtulz-15" value="Ranking" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xrJ3MpQCigA4VYRjtulz-13">
           <mxGeometry x="150" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xrJ3MpQCigA4VYRjtulz-16" value="Single-leg: DS -&amp;gt; Customer_Address" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="280" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrJ3MpQCigA4VYRjtulz-18" value="Nultiple-leg (with SortationShipMethod): FC -&amp;gt; SC1 -&amp;gt; SC1 -&amp;gt; SC2 -&amp;gt; DS -&amp;gt;&amp;nbsp; Customer_Address" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="370" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrJ3MpQCigA4VYRjtulz-19" value="Nultiple-leg (without SortationShipMethod): FC -&amp;gt; SC1 -&amp;gt; SC2 -&amp;gt; DS -&amp;gt;&amp;nbsp; Customer_Address" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="460" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
