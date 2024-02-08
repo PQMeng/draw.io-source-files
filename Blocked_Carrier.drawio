@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-08T23:33:14.409Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="4S-FHYoKk6MbIoDZjtmL" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-08T23:36:23.185Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="8gR9ZCS4i5-EwknU_cau" version="22.1.21" type="github">
   <diagram name="Page-1" id="3yI6l--KiYX39QNPwDms">
     <mxGraphModel dx="3491" dy="1035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -20,16 +20,16 @@
           <mxGeometry x="410" y="550" width="520" height="120" as="geometry" />
         </mxCell>
         <mxCell id="rpuP_x_MNBy14cOC7IKJ-12" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-160" y="370" width="240" height="240" as="geometry" />
+          <mxGeometry x="-160" y="370" width="260" height="310" as="geometry" />
         </mxCell>
         <mxCell id="rpuP_x_MNBy14cOC7IKJ-1" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeWidth=3;fontSize=17;" vertex="1" parent="rpuP_x_MNBy14cOC7IKJ-12">
-          <mxGeometry y="40" width="240" height="200" as="geometry" />
+          <mxGeometry y="40" width="260" height="270" as="geometry" />
         </mxCell>
         <mxCell id="rpuP_x_MNBy14cOC7IKJ-3" value="Request" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=17;" vertex="1" parent="rpuP_x_MNBy14cOC7IKJ-12">
           <mxGeometry x="80" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rpuP_x_MNBy14cOC7IKJ-4" value="BlockedCarrier: [&quot;A&quot;, &quot;B&quot;, &quot;C&quot;]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=17;" vertex="1" parent="rpuP_x_MNBy14cOC7IKJ-12">
-          <mxGeometry x="20" y="120" width="180" height="50" as="geometry" />
+        <mxCell id="rpuP_x_MNBy14cOC7IKJ-4" value="BlockedCarrier: [&quot;A&quot;, &quot;B&quot;, &quot;C&quot;]&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;PID: ?&lt;br&gt;IS_PO_BOX:?&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=17;" vertex="1" parent="rpuP_x_MNBy14cOC7IKJ-12">
+          <mxGeometry x="20" y="120" width="200" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
