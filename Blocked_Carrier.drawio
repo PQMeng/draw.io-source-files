@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2024-02-08T23:25:28.306Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="22.1.21" etag="GxFEcY7lC2CHQC2eQmsq" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-08T23:33:14.409Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="4S-FHYoKk6MbIoDZjtmL" version="22.1.21" type="github">
   <diagram name="Page-1" id="3yI6l--KiYX39QNPwDms">
-    <mxGraphModel>
+    <mxGraphModel dx="3491" dy="1035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rpuP_x_MNBy14cOC7IKJ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=240;exitDy=115;exitPerimeter=0;fontSize=13;strokeWidth=3;" edge="1" parent="1" source="rpuP_x_MNBy14cOC7IKJ-1" target="rpuP_x_MNBy14cOC7IKJ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rpuP_x_MNBy14cOC7IKJ-5" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeWidth=3;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="360" y="330" width="620" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="rpuP_x_MNBy14cOC7IKJ-6" value="ATROPS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="650" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rpuP_x_MNBy14cOC7IKJ-7" value="&lt;b&gt;During Promise&lt;/b&gt;, filter out last leg ship methods under BlockedCarrier" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="410" y="380" width="510" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rpuP_x_MNBy14cOC7IKJ-8" value="&lt;b&gt;During Fulfillment&lt;/b&gt;, if there are eligible ship methods from other carriers, &lt;b&gt;do not use&lt;/b&gt; last ship methods under BlockedCarrier.&lt;br style=&quot;font-size: 17px;&quot;&gt;Otherwise, &lt;b&gt;use&lt;/b&gt; last leg ship methods under BlockedCarrier" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="410" y="550" width="520" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rpuP_x_MNBy14cOC7IKJ-12" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-160" y="370" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="rpuP_x_MNBy14cOC7IKJ-1" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeWidth=3;fontSize=17;" vertex="1" parent="rpuP_x_MNBy14cOC7IKJ-12">
+          <mxGeometry y="40" width="240" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="rpuP_x_MNBy14cOC7IKJ-3" value="Request" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=17;" vertex="1" parent="rpuP_x_MNBy14cOC7IKJ-12">
+          <mxGeometry x="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rpuP_x_MNBy14cOC7IKJ-4" value="BlockedCarrier: [&quot;A&quot;, &quot;B&quot;, &quot;C&quot;]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=17;" vertex="1" parent="rpuP_x_MNBy14cOC7IKJ-12">
+          <mxGeometry x="20" y="120" width="180" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
